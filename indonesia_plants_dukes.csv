@@ -1,0 +1,922 @@
+;FNFNUM;TAXON;TAXAUTHOR;GENUS;SPECIES;SUBSPECIES;VARIETY;FORMA;CULTIVAR;SPAUT;SPSAUT;SPVAUT;SPFAUT;CULTAUT;FAMILY;SPCMT;PLCO;TAXNO;VALIDTAXNO;GRINVERIFY;USEAGE;USERID;CREATED;MODIFIED
+0;1;Abelmoschus esculentus;(L.) MOENCH;Abelmoschus;esculentus;;;;;(L.) MOENCH;;;;;Malvaceae;;;619.0;619.0;;F;DUKE;10-DEC-97;15-JUL-05
+1;2;Abelmoschus manihot;(L.) MEDIK.;Abelmoschus;manihot;;;;;(L.) MEDIK.;;;;;Malvaceae;;;621.0;621.0;;F;DUKE;10-DEC-97;15-JUL-05
+2;3;Abelmoschus moschatus;MEDIK.;Abelmoschus;moschatus;;;;;MEDIK.;;;;;Malvaceae;;375035002.0;623.0;623.0;;G;DUKE;10-DEC-97;15-JUL-05
+4;5;Abies balsamea;(L.) MILLER;Abies;balsamea;;;;;(L.) MILLER;;;;;Pinaceae;;11010003.0;635.0;635.0;;M;DUKE;10-DEC-97;15-JUL-05
+6;7;Abrus precatorius;L.;Abrus;precatorius;;;;;L.;;;;;Fabaceae;Synonyms: Glycine abrus L.;;739.0;739.0;;M;DUKE;10-DEC-97;15-JUL-05
+7;8;Acacia catechu;(L. f.) WILLD.;Acacia;catechu;;;;;(L. f.) WILLD.;;;;;Fabaceae;;283012058.0;803.0;803.0;;M;DUKE;10-DEC-97;15-JUL-05
+8;9;Acacia decurrens;(WENDL.) WILLD.;Acacia;decurrens;;;;;(WENDL.) WILLD.;;;;;Fabaceae;;283012027.0;822.0;822.0;;G;DUKE;10-DEC-97;15-JUL-05
+9;10;Acacia farnesiana;(L.) WILLD.;Acacia;farnesiana;;;;;(L.) WILLD.;;;;;Fabaceae;;;844.0;844.0;;G;DUKE;10-DEC-97;15-JUL-05
+11;11;Acacia leucophloea;(ROXB.) WILLD.;Acacia;leucophloea;;;;;(ROXB.) WILLD.;;;;;Fabaceae;;283012061.0;906.0;906.0;;G;DUKE;10-DEC-97;15-JUL-05
+12;12;Acacia melanoxylon;R. BR.;Acacia;melanoxylon;;;;;R. BR.;;;;;Fabaceae;;283012010.0;926.0;926.0;;G;DUKE;10-DEC-97;15-JUL-05
+13;1440;Acacia modesta;;Acacia;modesta;;;;;;;;;;Fabaceae;;;932.0;932.0;;M;DUKE;10-DEC-97;15-JUL-05
+14;13;Acacia nilotica;(L.) WILLD. ex DELILE;Acacia;nilotica;;;;;(L.) WILLD. ex DELILE;;;;;Fabaceae;;283012003.0;312499.0;312499.0;;G;DUKE;10-DEC-97;15-JUL-05
+17;16;Acalypha indica;L.;Acalypha;indica;;;;;L.;;;;;Euphorbiaceae;;328122004.0;400002.0;400002.0;;G;DUKE;10-DEC-97;15-JUL-05
+19;1288;Acanthospermum hispidum;DC;Acanthospermum;hispidum;;;;;DC;;;;;Asteraceae;;;1077.0;1077.0;;;DUKE;10-DEC-97;15-JUL-05
+20;1443;Acanthus ilicifolius;;Acanthus;ilicifolius;;;;;;;;;;Acanthaceae;;;1079.0;1079.0;;M;DUKE;10-DEC-97;15-JUL-05
+21;18;Achillea millefolium;L.;Achillea;millefolium;;;;;L.;;;;;Asteraceae;Syns:ssp borealis, lanulosa,occid.,A.borealis,lanulosa,magna;580603001.0;1270.0;1270.0;;G;DUKE;10-DEC-97;15-JUL-05
+23;20;Achyranthes aspera;BLUME;Achyranthes;aspera;;;;;BLUME;;;;;Amaranthaceae;;;401486.0;401486.0;;G;DUKE;10-DEC-97;15-JUL-05
+24;21;Achyranthes bidentata;BLUME;Achyranthes;bidentata;;;;;BLUME;;;;;Amaranthaceae;;153040005.0;1314.0;1314.0;;G;DUKE;10-DEC-97;15-JUL-05
+32;25;Acorus calamus;L.;Acorus;calamus;;;;;L.;;;;;Acoraceae;;44011001.0;1358.0;1358.0;;M;DUKE;10-DEC-97;15-JUL-05
+39;29;Actinidia chinensis;PLANCHON;Actinidia;chinensis;;;;;PLANCHON;;;;;Actinidiaceae;;382010001.0;1405.0;1405.0;;F;DUKE;10-DEC-97;15-JUL-05
+41;1692;Adansonia digitata;;Adansonia;digitata;;;;;;;;;;Bombacaceae;;;1433.0;1433.0;;M;DUKE;10-DEC-97;15-JUL-05
+45;31;Adiantum capillus-veneris;L.;Adiantum;capillus-veneris;;;;;L.;;;;;Pteridaceae;;4004.0;401925.0;401925.0;;M;DUKE;10-DEC-97;15-JUL-05
+46;32;Adiantum pedatum;L.;Adiantum;pedatum;;;;;L.;;;;;Pteridaceae;;;401921.0;401921.0;;M;DUKE;10-DEC-97;15-JUL-05
+48;1212;Aegle marmelos;CORREA;Aegle;marmelos;;;;;CORREA;;;;;Rutaceae;;;1560.0;1560.0;;F;DUKE;10-DEC-97;15-JUL-05
+50;1444;Aerva lanata;;Aerva;lanata;;;;;;;;;;Amaranthaceae;;;101478.0;101478.0;;M;DUKE;10-DEC-97;15-JUL-05
+51;34;Aesculus hippocastanum;L.;Aesculus;hippocastanum;;;;;L.;;;;;Hippocastanaceae;Synonyms: Aesculus hippocastanum f. memmingeri (K. Koch) Sch;;1628.0;1628.0;;M;DUKE;10-DEC-97;15-JUL-05
+58;37;Agathosma betulina;(P. J. BERGIUS) PILLANS;Agathosma;betulina;;;;;(P. J. BERGIUS) PILLANS;;;;;Rutaceae;Barosma betulina is a synonym;302052001.0;70058.0;70058.0;;M;DUKE;10-DEC-97;15-JUL-05
+59;38;Agave americana;L.;Agave;americana;;;;;L.;;;;;Agavaceae;;80054004.0;1690.0;1690.0;;G;DUKE;10-DEC-97;15-JUL-05
+60;39;Agave sisalana;PERRINE;Agave;sisalana;;;;;PERRINE;;;;;Agavaceae;;80054003.0;1735.0;1735.0;;G;DUKE;10-DEC-97;15-JUL-05
+61;1289;Ageratum conyzoides;L.;Ageratum;conyzoides;;;;;L.;;;;;Asteraceae;;;103793.0;103793.0;;;DUKE;10-DEC-97;15-JUL-05
+62;1290;Aglaonema commutatum;SCHOTT.;Aglaonema;commutatum;;;;;SCHOTT.;;;;;Araceae;;;312530.0;312530.0;;;DUKE;10-DEC-97;15-JUL-05
+63;40;Agrimonia eupatoria;L.;Agrimonia;eupatoria;;;;;L.;;;;;Rosaceae;;;1786.0;1786.0;;M;DUKE;10-DEC-97;15-JUL-05
+67;1694;Ailanthus grandis;;Ailanthus;grandis;;;;;;;;;;Simaroubaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+68;1979;Ajuga bracteosa;WALL.;Ajuga;bracteosa;;;;;WALL.;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+71;1984;Ajuga remota;;Ajuga;remota;;;;;;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+75;1160;Alangium lamarckii;LAM.;Alangium;lamarckii;;;;;LAM.;;;;;Alangiaceae;;;417465.0;417465.0;;M;DUKE;10-DEC-97;15-JUL-05
+76;45;Albizia julibrissin;DURAZZ.;Albizia;julibrissin;;;;;DURAZZ.;;;;;Fabaceae;;;2136.0;2136.0;;M;DUKE;10-DEC-97;15-JUL-05
+77;1829;Albizia procera;BENTH.;Albizia;procera;;;;;BENTH.;;;;;Fabaceae;;;2153.0;2153.0;;M;DUKE;10-DEC-97;15-JUL-05
+80;48;Aleurites fordii;HEMSL.;Aleurites;fordii;;;;;HEMSL.;;;;;Euphorbiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+85;52;Allium ampeloprasum;L.;Allium;ampeloprasum;;;;;L.;;;;;Liliaceae;;73108001.0;2217.0;2217.0;;F;DUKE;10-DEC-97;15-JUL-05
+86;53;Allium cepa;L.;Allium;cepa;;;;;L.;;;;;Liliaceae;;;2244.0;2244.0;;F;DUKE;10-DEC-97;15-JUL-05
+88;55;Allium schoenoprasum;L.;Allium;schoenoprasum;;;;;L.;;;;;Liliaceae;;73108006.0;2369.0;2369.0;;F;DUKE;10-DEC-97;15-JUL-05
+90;56;Alnus glutinosa;(L.) GAERTN.;Alnus;glutinosa;;;;;(L.) GAERTN.;;;;;Betulaceae;;;2448.0;2448.0;;M;DUKE;10-DEC-97;15-JUL-05
+92;1447;Alnus nepalensis;;Alnus;nepalensis;;;;;;;;;;Betulaceae;;;2471.0;2471.0;;M;DUKE;10-DEC-97;15-JUL-05
+95;57;Alocasia macrorrhiza;(L.) G. DON;Alocasia;macrorrhiza;;;;;(L.) G. DON;;;;;Araceae;;44069001.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+96;58;Aloe vera;(L.) BURM. f.;Aloe;vera;;;;;(L.) BURM. f.;;;;;Aloeaceae;;73085001.0;311403.0;311403.0;;G;DUKE;10-DEC-97;15-JUL-05
+98;1450;Alphitonia excelsa;;Alphitonia;excelsa;;;;;;;;;;Rhamnaceae;;;2659.0;2659.0;;M;DUKE;10-DEC-97;15-JUL-05
+99;1551;Alphitonia macrocarpa;;Alphitonia;macrocarpa;;;;;;;;;;Rhamnaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+102;60;Alpinia galanga;(L.) SW.;Alpinia;galanga;;;;;(L.) SW.;;;;;Zingiberaceae;Synonyms: Languas galanga (L.) Stuntz, Maranta galanga L.;96005002.0;2666.0;2666.0;;G;DUKE;10-DEC-97;15-JUL-05
+104;1454;Alstonia scholaris;;Alstonia;scholaris;;;;;;;;;;Apocynaceae;;;2688.0;2688.0;;M;DUKE;10-DEC-97;15-JUL-05
+105;62;Althaea officinalis;L.;Althaea;officinalis;;;;;L.;;;;;Malvaceae;;;2721.0;2721.0;;G;DUKE;10-DEC-97;15-JUL-05
+110;1291;Amaranthus spinosus;L.;Amaranthus;spinosus;;;;;L.;;;;;Amaranthaceae;;;2804.0;2804.0;;;DUKE;10-DEC-97;15-JUL-05
+111;1292;Ambrosia artemisiifolia;L>;Ambrosia;artemisiifolia;;;;;L>;;;;;Asteraceae;;;103817.0;103817.0;;;DUKE;10-DEC-97;15-JUL-05
+113;1696;Ammannia baccifera;;Ammannia;baccifera;;;;;;;;;;Lythraceae;;;401549.0;401549.0;;M;DUKE;10-DEC-97;15-JUL-05
+115;65;Ammi visnaga;(L.) LAM.;Ammi;visnaga;;;;;(L.) LAM.;;;;;Apiaceae;;464124001.0;2900.0;2900.0;;M;DUKE;10-DEC-97;15-JUL-05
+117;1457;Amoora canarana;;Amoora;canarana;;;;;;;;;;Meliaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+118;67;Amorphophallus campanulatus;BLUME;Amorphophallus;campanulatus;;;;;BLUME;;;;;Araceae;;44040001.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+125;70;Anacardium occidentale;L.;Anacardium;occidentale;;;;;L.;;;;;Anacardiaceae;;;3060.0;3060.0;;F;DUKE;10-DEC-97;15-JUL-05
+128;73;Anamirta cocculus;WIGHT & ARN.;Anamirta;cocculus;;;;;WIGHT & ARN.;;;;;Menispermaceae;;;3069.0;3069.0;;M;DUKE;10-DEC-97;15-JUL-05
+129;74;Ananas comosus;(L.) MERR.;Ananas;comosus;;;;;(L.) MERR.;;;;;Bromeliaceae;;;3074.0;3074.0;;F;DUKE;10-DEC-97;15-JUL-05
+130;75;Anaphalis margaritacea;(L.) A. GRAY;Anaphalis;margaritacea;;;;;(L.) A. GRAY;;;;;Asteraceae;;;3086.0;3086.0;;G;DUKE;10-DEC-97;15-JUL-05
+133;78;Andira inermis;HBK;Andira;inermis;;;;;HBK;;;;;Fabaceae;;;3115.0;3115.0;;M;DUKE;10-DEC-97;15-JUL-05
+134;79;Andrographis paniculata;(BURM. f.) NEES;Andrographis;paniculata;;;;;(BURM. f.) NEES;;;;;Acanthaceae;;;414228.0;414228.0;;M;DUKE;10-DEC-97;15-JUL-05
+138;83;Anethum graveolens;L.;Anethum;graveolens;;;;;L.;;;;;Apiaceae;Synonyms: Anethum sowa , Peucedanum graveolens;464171001.0;3412.0;3412.0;;F;DUKE;10-DEC-97;15-JUL-05
+142;87;Angelica sinensis;(OLIV.) DIELS;Angelica;sinensis;;;;;(OLIV.) DIELS;;;;;Apiaceae;;;406655.0;406655.0;;M;DUKE;10-DEC-97;15-JUL-05
+146;1986;Anisomeles indica;(L.) KUNTZE;Anisomeles;indica;;;;;(L.) KUNTZE;;;;;Lamiaceae;;;3464.0;3464.0;;M;DUKE;10-DEC-97;15-JUL-05
+147;1194;Anisomeles malabarica;R.BR.;Anisomeles;malabarica;;;;;R.BR.;;;;;Lamiaceae;;;3465.0;3465.0;;M;DUKE;10-DEC-97;15-JUL-05
+150;1097;Annona glabra;L.;Annona;glabra;;;;;L.;;;;;Annonaceae;;;3484.0;3484.0;;F;DUKE;10-DEC-97;15-JUL-05
+151;1098;Annona montana;L.;Annona;montana;;;;;L.;;;;;Annonaceae;;;3490.0;3490.0;;F;DUKE;10-DEC-97;15-JUL-05
+152;91;Annona muricata;L.;Annona;muricata;;;;;L.;;;;;Annonaceae;;;3492.0;3492.0;;F;DUKE;10-DEC-97;15-JUL-05
+153;92;Annona reticulata;L.;Annona;reticulata;;;;;L.;;;;;Annonaceae;;;3498.0;3498.0;;F;DUKE;10-DEC-97;15-JUL-05
+154;93;Annona squamosa;L.;Annona;squamosa;;;;;L.;;;;;Annonaceae;;;3503.0;3503.0;;F;DUKE;10-DEC-97;15-JUL-05
+159;96;Apium graveolens;L.;Apium;graveolens;;;;;L.;;;;;Apiaceae;In GRIN as Apium graveolens L. var. dulce (Mill.) Pers.;464112004.0;300034.0;300034.0;;F;DUKE;10-DEC-97;15-JUL-05
+162;99;Aquilaria agallocha;(LOUR.) ROXB.;Aquilaria;agallocha;;;;;(LOUR.) ROXB.;;;;;Thymelaeaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+164;101;Arachis hypogaea;L.;Arachis;hypogaea;;;;;L.;;;;;Fabaceae;;;3785.0;3785.0;;F;DUKE;10-DEC-97;15-JUL-05
+166;1296;Araucaria bidwillii;HOOK.;Araucaria;bidwillii;;;;;HOOK.;;;;;Araucariaceae;;;3835.0;3835.0;;;DUKE;10-DEC-97;15-JUL-05
+170;105;Arctostaphylos uva-ursi;(L.) SPRENGEL;Arctostaphylos;uva-ursi;;;;;(L.) SPRENGEL;;;;;Ericaceae;;;3866.0;3866.0;;M;DUKE;10-DEC-97;15-JUL-05
+171;106;Ardisia japonica;L.;Ardisia;japonica;;;;;L.;;;;;Myrsinaceae;;;3886.0;3886.0;;M;DUKE;10-DEC-97;15-JUL-05
+172;107;Areca catechu;L.;Areca;catechu;;;;;L.;;;;;Arecaceae;;41127001.0;3903.0;3903.0;;M;DUKE;10-DEC-97;15-JUL-05
+173;1295;Arecastrum romanzoffianum;(CHAM.) BECC.;Arecastrum;romanzoffianum;;;;;(CHAM.) BECC.;;;;;Arecaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+174;108;Argemone mexicana;L.;Argemone;mexicana;;;;;L.;;;;;Papaveraceae;;;3959.0;3959.0;;M;DUKE;10-DEC-97;15-JUL-05
+175;109;Argyreia nervosa;(BURM.) BOJER;Argyreia;nervosa;;;;;(BURM.) BOJER;;;;;Convolvulaceae;;520042001.0;3968.0;3968.0;;M;DUKE;10-DEC-97;15-JUL-05
+176;110;Argyreia speciosa;SWEET.;Argyreia;speciosa;;;;;SWEET.;;;;;Convolvulaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+179;112;Arisaema triphyllum;(L.) SCHOTT.;Arisaema;triphyllum;;;;;(L.) SCHOTT.;;;;;Araceae;;;4018.0;4018.0;;M;DUKE;10-DEC-97;15-JUL-05
+183;116;Arnica montana;L.;Arnica;montana;;;;;L.;;;;;Asteraceae;;580667001.0;4242.0;4242.0;;M;DUKE;10-DEC-97;15-JUL-05
+187;120;Artemisia annua;L.;Artemisia;annua;;;;;L.;;;;;Asteraceae;;;4275.0;4275.0;;M;DUKE;10-DEC-97;15-JUL-05
+188;121;Artemisia capillaris;THUNB.;Artemisia;capillaris;;;;;THUNB.;;;;;Asteraceae;;;402525.0;402525.0;;M;DUKE;10-DEC-97;15-JUL-05
+189;122;Artemisia cina;BERG.;Artemisia;cina;;;;;BERG.;;;;;Asteraceae;;580629003.0;4281.0;4281.0;;M;DUKE;10-DEC-97;15-JUL-05
+195;127;Artemisia vulgaris;L.;Artemisia;vulgaris;;;;;L.;;;;;Asteraceae;;580629006.0;4190.0;4190.0;;M;DUKE;10-DEC-97;15-JUL-05
+196;128;Artocarpus altilis;(PARKINS.) FOSBERG;Artocarpus;altilis;;;;;(PARKINS.) FOSBERG;;;;;Moraceae;;;4319.0;4319.0;;F;DUKE;10-DEC-97;15-JUL-05
+197;129;Artocarpus heterophyllus;LAM.;Artocarpus;heterophyllus;;;;;LAM.;;;;;Moraceae;;126039002.0;70095.0;70095.0;;F;DUKE;10-DEC-97;15-JUL-05
+198;1459;Artocarpus integrifolia;;Artocarpus;integrifolia;;;;;;;;;;Moraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+199;130;Arundo donax;L.;Arundo;donax;;;;;L.;;;;;Poaceae;;38231001.0;4439.0;4439.0;;G;DUKE;10-DEC-97;15-JUL-05
+201;132;Asclepias syriaca;L.;Asclepias;syriaca;;;;;L.;;;;;Asclepiadaceae;;515081001.0;4478.0;4478.0;;M;DUKE;10-DEC-97;15-JUL-05
+203;135;Asimina triloba;(L.) DUNAL;Asimina;triloba;;;;;(L.) DUNAL;;;;;Annonaceae;;206073001.0;4485.0;4485.0;;F;DUKE;10-DEC-97;15-JUL-05
+205;137;Asparagus officinalis;L.;Asparagus;officinalis;;;;;L.;;;;;Liliaceae;;73172002.0;300050.0;300050.0;;F;DUKE;10-DEC-97;15-JUL-05
+209;140;Astragalus membranaceus;(FISCH. EX LINK) BUNGE;Astragalus;membranaceus;;;;;(FISCH. EX LINK) BUNGE;;;;;Fabaceae;;;5824.0;5824.0;;M;DUKE;10-DEC-97;15-JUL-05
+214;144;Avena sativa;L.;Avena;sativa;;;;;L.;;;;;Poaceae;;38173004.0;6123.0;6123.0;;F;DUKE;10-DEC-97;15-JUL-05
+215;1214;Averrhoa bilimbi;L.;Averrhoa;bilimbi;;;;;L.;;;;;Oxalidaceae;;;6157.0;6157.0;;F;DUKE;10-DEC-97;15-JUL-05
+216;1207;Averrhoa carambola;L.;Averrhoa;carambola;;;;;L.;;;;;Oxalidaceae;;289005002.0;6158.0;6158.0;;F;DUKE;10-DEC-97;15-JUL-05
+217;1461;Avicennia alba;;Avicennia;alba;;;;;;;;;;Verbenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+218;1163;Avicennia marina;L.;Avicennia;marina;;;;;L.;;;;;Verbenaceae;;;417483.0;417483.0;;M;DUKE;10-DEC-97;15-JUL-05
+219;1462;Avicennia officinalis;;Avicennia;officinalis;;;;;;;;;;Verbenaceae;;;6160.0;6160.0;;M;DUKE;10-DEC-97;15-JUL-05
+220;1463;Avicennia tomentosa;;Avicennia;tomentosa;;;;;;;;;;Verbenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+221;146;Azadirachta indica;A. JUSS.;Azadirachta;indica;;;;;A. JUSS.;;;;;Meliaceae;;312022001.0;6161.0;6161.0;;M;DUKE;10-DEC-97;15-JUL-05
+231;151;Barosma betulina;(P. J. BERGIUS) BARTL. & H. L. WENDL.;Barosma;betulina;;;;;(P. J. BERGIUS) BARTL. & H. L. WENDL.;;;;;Rutaceae;Synonym of Agathosma betulina;;;;;G;DUKE;10-DEC-97;15-JUL-05
+232;152;Basella alba;L.;Basella;alba;;;;;L.;;;;;Basellaceae;;169001001.0;6531.0;6531.0;;F;DUKE;10-DEC-97;15-JUL-05
+234;153;Belamcanda chinensis;(L.) DC.;Belamcanda;chinensis;;;;;(L.) DC.;;;;;Iridaceae;Syns: B.  punctata, Gemmingia chinensis, Ixia chinensis;91027002.0;6714.0;6714.0;;M;DUKE;10-DEC-97;15-JUL-05
+235;154;Benincasa hispida;(THUNB.) COGN.;Benincasa;hispida;;;;;(THUNB.) COGN.;;;;;Cucurbitaceae;;571054001.0;6746.0;6746.0;;F;DUKE;10-DEC-97;15-JUL-05
+237;156;Bertholletia excelsa;BONPL.;Bertholletia;excelsa;;;;;BONPL.;;;;;Lecythidaceae;;;7022.0;7022.0;;F;DUKE;10-DEC-97;15-JUL-05
+254;2130;Bidens pilosa;;Bidens;pilosa;;;;;;;;;;Asteraceae;;;7169.0;7169.0;;M;DUKE;10-DEC-97;15-JUL-05
+255;1186;Bischofia javanica;BLUME.;Bischofia;javanica;;;;;BLUME.;;;;;Euphorbiaceae;;;7243.0;7243.0;;;DUKE;10-DEC-97;15-JUL-05
+256;159;Bixa orellana;L.;Bixa;orellana;;;;;L.;;;;;Bixaceae;;;7249.0;7249.0;;G;DUKE;10-DEC-97;15-JUL-05
+257;160;Blechnum orientale;L.;Blechnum;orientale;;;;;L.;;;;;Blechnaceae;;;403464.0;403464.0;;M;DUKE;10-DEC-97;15-JUL-05
+259;162;Blighia sapida;KOENIG;Blighia;sapida;;;;;KOENIG;;;;;Sapindaceae;;;7271.0;7271.0;;M;DUKE;10-DEC-97;15-JUL-05
+261;164;Bocconia frutescens;L.;Bocconia;frutescens;;;;;L.;;;;;Papaveraceae;;224015001.0;7282.0;7282.0;;M;DUKE;10-DEC-97;15-JUL-05
+263;165;Boehmeria nivea;(L.) GAUDICH.;Boehmeria;nivea;;;;;(L.) GAUDICH.;;;;;Urticaceae;;128017001.0;7290.0;7290.0;;M;DUKE;10-DEC-97;15-JUL-05
+265;166;Borago officinalis;L.;Borago;officinalis;;;;;L.;;;;;Boraginaceae;;530054001.0;7422.0;7422.0;;G;DUKE;10-DEC-97;15-JUL-05
+267;168;Boswellia sacra;FLUECK;Boswellia;sacra;;;;;FLUECK;;;;;Burseraceae;Synonym: Boswellia carteri Birdw.;309014001.0;310550.0;310550.0;;G;DUKE;10-DEC-97;15-JUL-05
+271;170;Brassica chinensis;L.;Brassica;chinensis;;;;;L.;;;;;Brassicaceae;Synonym of Brassica rapa L. subsp. chinensis (L.) Hanelt;;;;;F;DUKE;10-DEC-97;15-JUL-05
+272;171;Brassica juncea;(L.) CZERNJ. & COSSON;Brassica;juncea;;;;;(L.) CZERNJ. & COSSON;;;;;Brassicaceae;;226087003.0;7654.0;7654.0;;F;DUKE;10-DEC-97;15-JUL-05
+274;173;Brassica nigra;(L.) W. D. J. KOCH;Brassica;nigra;;;;;(L.) W. D. J. KOCH;;;;;Brassicaceae;Brassica nigra var. abyssinica is a synonym;226087006.0;7666.0;7666.0;;F;DUKE;10-DEC-97;15-JUL-05
+280;181;Brassica pekinensis;(LOUR.) RUPR.;Brassica;pekinensis;;;;;(LOUR.) RUPR.;;;;;Brassicaceae;;;;;;F;DUKE;10-DEC-97;15-JUL-05
+282;182;Brassica rapa;L.;Brassica;rapa;;;;;L.;;;;;Brassicaceae;;226087014.0;7685.0;7685.0;;F;DUKE;10-DEC-97;15-JUL-05
+285;185;Broussonetia papyrifera;(L.) VENT;Broussonetia;papyrifera;;;;;(L.) VENT;;;;;Moraceae;;;7900.0;7900.0;;M;DUKE;10-DEC-97;15-JUL-05
+295;191;Buxus sempervirens;L.;Buxus;sempervirens;;;;;L.;;;;;Buxaceae;;;8212.0;8212.0;;M;DUKE;10-DEC-97;15-JUL-05
+296;1703;Buxus wallichiana;;Buxus;wallichiana;;;;;;;;;;Buxaceae;;;8218.0;8218.0;;M;DUKE;10-DEC-97;15-JUL-05
+297;1217;Byrsonima crassifolia;HBK.;Byrsonima;crassifolia;;;;;HBK.;;;;;Malpighiaceae;;;8222.0;8222.0;;;DUKE;10-DEC-97;15-JUL-05
+299;1705;Caesalpinia decapetala;;Caesalpinia;decapetala;;;;;;;;;;Fabaceae;;;313176.0;313176.0;;M;DUKE;10-DEC-97;15-JUL-05
+300;192;Caesalpinia pulcherrima;(L.) SW.;Caesalpinia;pulcherrima;;;;;(L.) SW.;;;;;Fabaceae;;283125013.0;8306.0;8306.0;;M;DUKE;10-DEC-97;15-JUL-05
+301;193;Cajanus cajan;(L.) HUTH;Cajanus;cajan;;;;;(L.) HUTH;;;;;Fabaceae;;;8319.0;8319.0;;F;DUKE;10-DEC-97;15-JUL-05
+302;1837;Cajanus scarabaeoides;(L.) HUTH;Cajanus;scarabaeoides;;;;;(L.) HUTH;;;;;Fabaceae;;;313609.0;313609.0;;M;DUKE;10-DEC-97;15-JUL-05
+303;194;Caladium bicolor;(AIT.) VENTEN;Caladium;bicolor;;;;;(AIT.) VENTEN;;;;;Araceae;;44074001.0;8333.0;8333.0;;M;DUKE;10-DEC-97;15-JUL-05
+309;196;Calendula officinalis;L.;Calendula;officinalis;;;;;L.;;;;;Asteraceae;;580694001.0;8457.0;8457.0;;G;DUKE;10-DEC-97;15-JUL-05
+312;1706;Callicarpa arborea;;Callicarpa;arborea;;;;;;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+313;1479;Callistemon lanceolatus;;Callistemon;lanceolatus;;;;;;;;;;Myrtaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+314;1188;Calophyllum apetalum;WILLD.;Calophyllum;apetalum;;;;;WILLD.;;;;;Clusiaceae;;;411479.0;411479.0;;M;DUKE;10-DEC-97;15-JUL-05
+317;1708;Calophyllum macrocarpum;;Calophyllum;macrocarpum;;;;;;;;;;Clusiaceae;;;411469.0;411469.0;;M;DUKE;10-DEC-97;15-JUL-05
+318;1709;Calophyllum tomentosum;;Calophyllum;tomentosum;;;;;;;;;;Clusiaceae;;;411482.0;411482.0;;M;DUKE;10-DEC-97;15-JUL-05
+321;198;Camellia sinensis;(L.) KUNTZE;Camellia;sinensis;;;;;(L.) KUNTZE;;;;;Theaceae;;394004001.0;8732.0;8732.0;;F;DUKE;10-DEC-97;15-JUL-05
+324;200;Cananga odorata;(LAM.) HOOK. f. & THOMSON;Cananga;odorata;;;;;(LAM.) HOOK. f. & THOMSON;;;;;Annonaceae;;206020001.0;8805.0;8805.0;;G;DUKE;10-DEC-97;15-JUL-05
+325;201;Canarium indicum;L.;Canarium;indicum;;;;;L.;;;;;Burseraceae;;309005001.0;8815.0;8815.0;;F;DUKE;10-DEC-97;15-JUL-05
+327;202;Canavalia ensiformis;(L.) DC.;Canavalia;ensiformis;;;;;(L.) DC.;;;;;Fabaceae;;283457001.0;8827.0;8827.0;;F;DUKE;10-DEC-97;15-JUL-05
+330;1844;Canavalia gladiata;(JACQ.) DC.;Canavalia;gladiata;;;;;(JACQ.) DC.;;;;;Fabaceae;;;8829.0;8829.0;;M;DUKE;10-DEC-97;15-JUL-05
+331;1845;Canavalia rosea;(SW.) DC.;Canavalia;rosea;;;;;(SW.) DC.;;;;;Fabaceae;;;8841.0;8841.0;;M;DUKE;10-DEC-97;15-JUL-05
+333;1847;Canavalia virosa;(ROXB.) W.& A..;Canavalia;virosa;;;;;(ROXB.) W.& A..;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+334;203;Canna indica;L.;Canna;indica;;;;;L.;;;;;Cannaceae;;98001005.0;8858.0;8858.0;;F;DUKE;10-DEC-97;15-JUL-05
+335;204;Cannabis sativa;L.;Cannabis;sativa;;;;;L.;(LAM.) E. SMALL & CRONQUIST;;;;Cannabaceae;See subspecies indica and sativa;126066001.0;8862.0;8862.0;;M;DUKE;10-DEC-97;15-JUL-05
+336;205;Capparis spinosa;L.;Capparis;spinosa;;;;;L.;;;;;Capparaceae;Synonyms: Capparis rupestris Sm.;229020001.0;8897.0;8897.0;;F;DUKE;10-DEC-97;15-JUL-05
+337;206;Capsella bursa-pastoris;(L.) MEDICUS;Capsella;bursa-pastoris;;;;;(L.) MEDICUS;;;;;Brassicaceae;;226124001.0;105461.0;105461.0;;G;DUKE;10-DEC-97;15-JUL-05
+338;207;Capsicum annuum;L.;Capsicum;annuum;;;;;L.;;;;;Solanaceae;;540028008.0;8904.0;8904.0;;F;DUKE;10-DEC-97;15-JUL-05
+339;208;Capsicum frutescens;L.;Capsicum;frutescens;;;;;L.;;;;;Solanaceae;;;8913.0;8913.0;;F;DUKE;10-DEC-97;15-JUL-05
+344;1482;Careya arborea;;Careya;arborea;;;;;;;;;;Lecythidaceae;;;423714.0;423714.0;;M;DUKE;10-DEC-97;15-JUL-05
+345;209;Carica papaya;L.;Carica;papaya;;;;;L.;;;;;Caricaceae;;;9147.0;9147.0;;F;DUKE;10-DEC-97;15-JUL-05
+348;210;Carthamus tinctorius;L.;Carthamus;tinctorius;;;;;L.;;;;;Asteraceae;;580748001.0;9243.0;9243.0;;G;DUKE;10-DEC-97;15-JUL-05
+349;211;Carum carvi;L.;Carum;carvi;;;;;L.;;;;;Apiaceae;Synonyms: Carum velenovskyi Rohlena;464128001.0;9245.0;9245.0;;F;DUKE;10-DEC-97;15-JUL-05
+355;215;Cassia grandis;L. f.;Cassia;grandis;;;;;L. f.;;;;;Fabaceae;;283102028.0;9340.0;9340.0;;M;DUKE;10-DEC-97;15-JUL-05
+357;1710;Cassia obtusifolia;;Cassia;obtusifolia;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+358;1484;Cassia siamea;;Cassia;siamea;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+359;217;Cassia tora;L.;Cassia;tora;;;;;L.;;;;;Fabaceae;;283102007.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+364;220;Castanea sativa;MILLER;Castanea;sativa;;;;;MILLER;;;;;Fagaceae;;123003005.0;9445.0;9445.0;;F;DUKE;10-DEC-97;15-JUL-05
+366;1487;Castanopsis eyrei;;Castanopsis;eyrei;;;;;;;;;;Fagaceae;;;9510.0;9510.0;;M;DUKE;10-DEC-97;15-JUL-05
+368;221;Castanospermum australe;A. CUNN. & C. FRASER EX HOOK.;Castanospermum;australe;;;;;A. CUNN. & C. FRASER EX HOOK.;;;;;Fabaceae;;283167001.0;9525.0;9525.0;;M;DUKE;10-DEC-97;15-JUL-05
+372;223;Catha edulis;VAHL;Catha;edulis;;;;;VAHL;;;;;Celastraceae;;348012001.0;9606.0;9606.0;;M;DUKE;10-DEC-97;15-JUL-05
+375;225;Catharanthus roseus;(L.) G. DON;Catharanthus;roseus;;;;;(L.) G. DON;;;;;Apocynaceae;;;70159.0;70159.0;;M;DUKE;10-DEC-97;15-JUL-05
+379;227;Cedrela odorata;L.;Cedrela;odorata;;;;;L.;;;;;Meliaceae;;312001002.0;9685.0;9685.0;;M;DUKE;10-DEC-97;15-JUL-05
+382;1204;Ceiba pentandra;(L.) GAERTN.;Ceiba;pentandra;;;;;(L.) GAERTN.;;;;;Bombacaceae;;;9703.0;9703.0;;M;DUKE;10-DEC-97;15-JUL-05
+383;230;Celosia cristata;L.;Celosia;cristata;;;;;L.;;;;;Amaranthaceae;;153004001.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+384;231;Cenchrus biflorus;ROXB;Cenchrus;biflorus;;;;;ROXB;;;;;Poaceae;;38074002.0;9791.0;9791.0;;M;DUKE;10-DEC-97;15-JUL-05
+388;235;Centella asiatica;(L.) URBAN;Centella;asiatica;;;;;(L.) URBAN;;;;;Apiaceae;;464002001.0;9831.0;9831.0;;M;DUKE;10-DEC-97;15-JUL-05
+389;1848;Centrosema pascuorum;C. MART. EX BENTH.;Centrosema;pascuorum;;;;;C. MART. EX BENTH.;;;;;Fabaceae;;;70162.0;70162.0;;M;DUKE;10-DEC-97;15-JUL-05
+390;1849;Centrosema plumieri;(TURPIN EX PERS.) BENTH.;Centrosema;plumieri;;;;;(TURPIN EX PERS.) BENTH.;;;;;Fabaceae;;;9847.0;9847.0;;M;DUKE;10-DEC-97;15-JUL-05
+393;236;Cephaelis ipecacuanha;(BROT.) A. RICH.;Cephaelis;ipecacuanha;;;;;(BROT.) A. RICH.;;;;;Rubiaceae;;562292001.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+398;241;Cephalotaxus mannii;;Cephalotaxus;mannii;;;;;;;;;;Cephalotaxaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+402;1489;Ceriops decandra;;Ceriops;decandra;;;;;;;;;;Rhizophoraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+403;245;Chaenomeles lagenaria;KOIDZ.;Chaenomeles;lagenaria;;;;;KOIDZ.;;;;;Rosaceae;;;;;;F;DUKE;10-DEC-97;15-JUL-05
+404;1412;Chaenomeles speciosa;NAKAI;Chaenomeles;speciosa;;;;;NAKAI;;;;;Rosaceae;;;10014.0;10014.0;;;DUKE;10-DEC-97;15-JUL-05
+413;246;Chamaemelum nobile;(L.) ALL.;Chamaemelum;nobile;;;;;(L.) ALL.;;;;;Asteraceae;;580909001.0;104133.0;104133.0;;G;DUKE;10-DEC-97;15-JUL-05
+416;247;Chamaesyce hypericifolia;MILLSP.;Chamaesyce;hypericifolia;;;;;MILLSP.;;;;;Euphorbiaceae;;;412018.0;412018.0;;M;DUKE;10-DEC-97;15-JUL-05
+418;248;Chelidonium majus;L.;Chelidonium;majus;;;;;L.;;;;;Papaveraceae;;;10169.0;10169.0;;M;DUKE;10-DEC-97;15-JUL-05
+419;249;Chenopodium album;L.;Chenopodium;album;;;;;L.;;;;;Chenopodiaceae;;;10178.0;10178.0;;F;DUKE;10-DEC-97;15-JUL-05
+420;250;Chenopodium ambrosioides;L.;Chenopodium;ambrosioides;;;;;L.;;;;;Chenopodiaceae;;150010002.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+421;2129;Chenopodium quinoa;;Chenopodium;quinoa;;;;;;;;;;Chenopodiaceae;;;10194.0;10194.0;;M;DUKE;10-DEC-97;15-JUL-05
+429;256;Chrysanthemum coronarium;L.;Chrysanthemum;coronarium;;;;;L.;;;;;Asteraceae;;580612004.0;;;;G;DUKE;10-DEC-97;15-JUL-05
+431;257;Chrysanthemum parthenium;(L.) BERNH.;Chrysanthemum;parthenium;;;;;(L.) BERNH.;;;;;Asteraceae;Synonym for Tanacetum parthenium;;;;;M;DUKE;10-DEC-97;15-JUL-05
+433;1221;Chrysophyllum cainito;RADLK.;Chrysophyllum;cainito;;;;;RADLK.;;;;;Sapotaceae;;;10405.0;10405.0;;;DUKE;10-DEC-97;15-JUL-05
+434;258;Cicer arietinum;L.;Cicer;arietinum;;;;;L.;;;;;Fabaceae;;283417001.0;10535.0;10535.0;;F;DUKE;10-DEC-97;15-JUL-05
+435;259;Cichorium endivia;L.;Cichorium;endivia;;;;;L.;;;;;Asteraceae;;580823001.0;10542.0;10542.0;;F;DUKE;10-DEC-97;15-JUL-05
+436;260;Cichorium intybus;L.;Cichorium;intybus;;;;;L.;;;;;Asteraceae;;580823002.0;10543.0;10543.0;;F;DUKE;10-DEC-97;15-JUL-05
+437;261;Cicuta maculata;L.;Cicuta;maculata;;;;;L.;;;;;Apiaceae;;464119001.0;10545.0;10545.0;;M;DUKE;10-DEC-97;15-JUL-05
+439;263;Cimicifuga racemosa;(L.) NUTT.;Cimicifuga;racemosa;;;;;(L.) NUTT.;;;;;Ranunculaceae;Synonym of Actaea racemosa L.;;;;;M;DUKE;10-DEC-97;15-JUL-05
+441;265;Cinnamomum aromaticum;NEES;Cinnamomum;aromaticum;;;;;NEES;;;;;Lauraceae;Synonym: Cinnamomum cassia;218001001.0;70182.0;70182.0;;G;DUKE;10-DEC-97;15-JUL-05
+442;266;Cinnamomum burmannii;(NEES) BLUME;Cinnamomum;burmannii;;;;;(NEES) BLUME;;;;;Lauraceae;;218001002.0;10577.0;10577.0;;M;DUKE;10-DEC-97;15-JUL-05
+443;267;Cinnamomum camphora;(L.) NEES & EBERM.;Cinnamomum;camphora;;;;;(L.) NEES & EBERM.;;;;;Lauraceae;;218001003.0;10578.0;10578.0;;M;DUKE;10-DEC-97;15-JUL-05
+446;1346;Cinnamomum iners;REINWARDT;Cinnamomum;iners;;;;;REINWARDT;;;;;Lauraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+447;1347;Cinnamomum javanicum;BLUME;Cinnamomum;javanicum;;;;;BLUME;;;;;Lauraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+449;1349;Cinnamomum porrectum;(ROXB.) KOSTERM.;Cinnamomum;porrectum;;;;;(ROXB.) KOSTERM.;;;;;Lauraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+451;268;Cinnamomum sieboldii;;Cinnamomum;sieboldii;;;;;;;;;;Lauraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+453;269;Cinnamomum verum;J. PRESL;Cinnamomum;verum;;;;;J. PRESL;;;;;Lauraceae;Synonym: Cinnamomum zeylanicum;218001005.0;70183.0;70183.0;;G;DUKE;10-DEC-97;15-JUL-05
+454;270;Cissampelos pareira;L.;Cissampelos;pareira;;;;;L.;;;;;Menispermaceae;;196008001.0;10605.0;10605.0;;M;DUKE;10-DEC-97;15-JUL-05
+455;1301;Cissus verticillata;L>;Cissus;verticillata;;;;;L>;;;;;Vitaceae;;;310369.0;310369.0;;;DUKE;10-DEC-97;15-JUL-05
+460;273;Citrullus colocynthis;;Citrullus;colocynthis;;;;;;;;;;Cucurbitaceae;;571051001.0;10674.0;10674.0;;M;DUKE;10-DEC-97;15-JUL-05
+461;274;Citrullus lanatus;(THUNB.) MATSUM. & NAKAI;Citrullus;lanatus;;;;;(THUNB.) MATSUM. & NAKAI;;;;;Cucurbitaceae;;571051002.0;10675.0;10675.0;;F;DUKE;10-DEC-97;15-JUL-05
+462;275;Citrus aurantiifolia;(CHRISTM.) SWINGLE;Citrus;aurantiifolia;;;;;(CHRISTM.) SWINGLE;;;;;Rutaceae;;;10683.0;10683.0;;F;DUKE;10-DEC-97;15-JUL-05
+464;276;Citrus aurantium;L.;Citrus;aurantium;;;;;L.;;;;;Rutaceae;;;10684.0;10684.0;;F;DUKE;10-DEC-97;15-JUL-05
+467;2156;Citrus limetta;;Citrus;limetta;;;;;;;;;;Rutaceae;;;10730.0;10730.0;;F;DUKE;10-DEC-97;15-JUL-05
+468;279;Citrus limon;(L.) BURMAN f.;Citrus;limon;;;;;(L.) BURMAN f.;;;;;Rutaceae;;302115004.0;10732.0;10732.0;;F;DUKE;10-DEC-97;15-JUL-05
+469;280;Citrus medica;L.;Citrus;medica;;;;;L.;;;;;Rutaceae;;302115005.0;10745.0;10745.0;;F;DUKE;10-DEC-97;15-JUL-05
+471;1222;Citrus mitis;BLANCO;Citrus;mitis;;;;;BLANCO;;;;;Rutaceae;;;;;;F;DUKE;10-DEC-97;15-JUL-05
+472;283;Citrus paradisi;MacFAD.;Citrus;paradisi;;;;;MacFAD.;;;;;Rutaceae;;302115006.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+473;281;Citrus reticulata;BLANCO;Citrus;reticulata;;;;;BLANCO;;;;;Rutaceae;;302115007.0;10778.0;10778.0;;F;DUKE;10-DEC-97;15-JUL-05
+474;282;Citrus sinensis;(L.) OSBECK;Citrus;sinensis;;;;;(L.) OSBECK;;;;;Rutaceae;;;10782.0;10782.0;;F;DUKE;10-DEC-97;15-JUL-05
+477;1354;Citrus sudachi;HORT. EX SHIRAI;Citrus;sudachi;;;;;HORT. EX SHIRAI;;;;;Rutaceae;;;314333.0;314333.0;;;DUKE;10-DEC-97;15-JUL-05
+478;1144;Citrus unshiu;MARKOVITCH;Citrus;unshiu;;;;;MARKOVITCH;;;;;Rutaceae;;;10793.0;10793.0;;M;DUKE;10-DEC-97;15-JUL-05
+479;1714;Claoxylon polot;;Claoxylon;polot;;;;;;;;;;Euphorbiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+481;284;Clematis vitalba;L.;Clematis;vitalba;;;;;L.;;;;;Ranunculaceae;;;136.0;136.0;;M;DUKE;10-DEC-97;15-JUL-05
+483;1491;Clerodendrum inerme;;Clerodendrum;inerme;;;;;;;;;;Lamiaceae;;;417493.0;417493.0;;M;DUKE;10-DEC-97;15-JUL-05
+484;1492;Clinacanthus nutans;;Clinacanthus;nutans;;;;;;;;;;Acanthaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+485;1355;Clinopodium umbrosum;(M.BIEB.) KOCH;Clinopodium;umbrosum;;;;;(M.BIEB.) KOCH;;;;;Lamiaceae;;;407595.0;407595.0;;;DUKE;10-DEC-97;15-JUL-05
+488;1862;Clitoria ternatea;L.;Clitoria;ternatea;;;;;L.;;;;;Fabaceae;;;10942.0;10942.0;;M;DUKE;10-DEC-97;15-JUL-05
+495;288;Cocos nucifera;L.;Cocos;nucifera;;;;;L.;;;;;Arecaceae;;;11043.0;11043.0;;F;DUKE;10-DEC-97;15-JUL-05
+496;289;Coffea arabica;L.;Coffea;arabica;;;;;L.;;;;;Rubiaceae;;;300141.0;300141.0;;F;DUKE;10-DEC-97;15-JUL-05
+497;290;Coix lacryma-jobi;L.;Coix;lacryma-jobi;;;;;L.;;;;;Poaceae;;38007001.0;11129.0;11129.0;;F;DUKE;10-DEC-97;15-JUL-05
+498;291;Cola acuminata;(P. BEAUV.) SCHOTT & ENDL.;Cola;acuminata;;;;;(P. BEAUV.) SCHOTT & ENDL.;;;;;Sterculiaceae;;380048001.0;101905.0;101905.0;;F;DUKE;10-DEC-97;15-JUL-05
+501;295;Coleus blumei;BENTH.;Coleus;blumei;;;;;BENTH.;;;;;Lamiaceae;;538146003.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+505;297;Colocasia esculenta;(L.) SCHOTT;Colocasia;esculenta;;;;;(L.) SCHOTT;;;;;Araceae;;;11177.0;11177.0;;F;DUKE;10-DEC-97;15-JUL-05
+511;1283;Commelina benghalensis;L.;Commelina;benghalensis;;;;;L.;;;;;Commelinaceae;;;311531.0;311531.0;;M;DUKE;10-DEC-97;15-JUL-05
+512;1284;Commelina communis;L.;Commelina;communis;;;;;L.;;;;;Commelinaceae;;;311532.0;311532.0;;M;DUKE;10-DEC-97;15-JUL-05
+513;2132;Commiphora mukul;;Commiphora;mukul;;;;;;;;;;Burseraceae;Synonym of Commiphora Wightii (Arn.) Bhandari;;;;;M;DUKE;10-DEC-97;15-JUL-05
+514;298;Commiphora myrrha;(NEES) ENGL.;Commiphora;myrrha;;;;;(NEES) ENGL.;;;;;Burseraceae;Syns: Balsamodendrum myrrha, C. molmol, C. myrrha var.molmol;;402550.0;402550.0;;G;DUKE;10-DEC-97;15-JUL-05
+516;299;Conium maculatum;L.;Conium;maculatum;;;;;L.;;;;;Apiaceae;;;11262.0;11262.0;;M;DUKE;10-DEC-97;15-JUL-05
+519;302;Conyza canadensis;(L.) CRONQ.;Conyza;canadensis;;;;;(L.) CRONQ.;;;;;Asteraceae;;;104171.0;104171.0;;M;DUKE;10-DEC-97;15-JUL-05
+521;304;Coptis chinensis;FRANCH.;Coptis;chinensis;;;;;FRANCH.;;;;;Ranunculaceae;;;402553.0;402553.0;;M;DUKE;10-DEC-97;15-JUL-05
+522;305;Coptis japonica;(THUNB.) MAKINO;Coptis;japonica;;;;;(THUNB.) MAKINO;;;;;Ranunculaceae;;;403064.0;403064.0;;M;DUKE;10-DEC-97;15-JUL-05
+524;307;Corchorus olitorius;L.;Corchorus;olitorius;;;;;L.;;;;;Tiliaceae;;;11458.0;11458.0;;F;DUKE;10-DEC-97;15-JUL-05
+525;308;Coriandrum sativum;L.;Coriandrum;sativum;;;;;L.;;;;;Apiaceae;;;11523.0;11523.0;;F;DUKE;10-DEC-97;15-JUL-05
+529;1495;Cornus capitata;;Cornus;capitata;;;;;;;;;;Cornaceae;;;11546.0;11546.0;;M;DUKE;10-DEC-97;15-JUL-05
+537;315;Crataegus cuneata;SIEB. & ZUCC.;Crataegus;cuneata;;;;;SIEB. & ZUCC.;;;;;Rosaceae;;;12091.0;12091.0;;M;DUKE;10-DEC-97;15-JUL-05
+538;316;Crataegus laevigata;(POIR.) DC;Crataegus;laevigata;;;;;(POIR.) DC;;;;;Rosaceae;Crataegus oxyacantha auct. is a synonym;;313800.0;313800.0;;M;DUKE;10-DEC-97;15-JUL-05
+539;1721;Crateva religiosa;;Crateva;religiosa;;;;;;;;;;Capparaceae;;;12158.0;12158.0;;M;DUKE;10-DEC-97;15-JUL-05
+540;1722;Crateva tapia;;Crateva;tapia;;;;;;;;;;Capparaceae;;;410983.0;410983.0;;M;DUKE;10-DEC-97;15-JUL-05
+541;318;Crocus sativus;L.;Crocus;sativus;;;;;L.;;;;;Iridaceae;;91001001.0;12265.0;12265.0;;M;DUKE;10-DEC-97;15-JUL-05
+542;319;Crotalaria juncea;L.;Crotalaria;juncea;;;;;L.;;;;;Fabaceae;;283235002.0;12331.0;12331.0;;M;DUKE;10-DEC-97;15-JUL-05
+543;320;Crotalaria retusa;L.;Crotalaria;retusa;;;;;L.;;;;;Fabaceae;;;12374.0;12374.0;;M;DUKE;10-DEC-97;15-JUL-05
+544;1723;Crotalaria semperflorens;;Crotalaria;semperflorens;;;;;;;;;;Fabaceae;;;12379.0;12379.0;;M;DUKE;10-DEC-97;15-JUL-05
+545;321;Croton eluteria;(L.) SW.;Croton;eluteria;;;;;(L.) SW.;;;;;Euphorbiaceae;;;12406.0;12406.0;;M;DUKE;10-DEC-97;15-JUL-05
+548;322;Croton tiglium;L.;Croton;tiglium;;;;;L.;;;;;Euphorbiaceae;;328063001.0;12426.0;12426.0;;M;DUKE;10-DEC-97;15-JUL-05
+549;323;Cryptostegia grandifolia;R. BR.;Cryptostegia;grandifolia;;;;;R. BR.;;;;;Asclepiadaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+551;325;Cucumis sativus;L.;Cucumis;sativus;;;;;L.;;;;;Cucurbitaceae;;571052003.0;404426.0;404426.0;;F;DUKE;10-DEC-97;15-JUL-05
+553;326;Cucurbita maxima;DUCH.;Cucurbita;maxima;;;;;DUCH.;;;;;Cucurbitaceae;;571075002.0;12597.0;12597.0;;F;DUKE;10-DEC-97;15-JUL-05
+554;327;Cucurbita pepo;L.;Cucurbita;pepo;;;;;L.;;;;;Cucurbitaceae;;;12606.0;12606.0;;F;DUKE;10-DEC-97;15-JUL-05
+556;329;Cuminum cyminum;L.;Cuminum;cyminum;;;;;L.;;;;;Apiaceae;;464110001.0;12617.0;12617.0;;F;DUKE;10-DEC-97;15-JUL-05
+558;1724;Cuphea carthagenensis;;Cuphea;carthagenensis;;;;;;;;;;Lythraceae;;;12631.0;12631.0;;M;DUKE;10-DEC-97;15-JUL-05
+562;331;Curcuma longa;L.;Curcuma;longa;;;;;L.;;;;;Zingiberaceae;Synonyms: Curcuma domestica Valeton;;12676.0;12676.0;;F;DUKE;10-DEC-97;15-JUL-05
+563;332;Curcuma xanthorrhiza;ROXB.;Curcuma;xanthorrhiza;;;;;ROXB.;;;;;Zingiberaceae;;;411356.0;411356.0;;M;DUKE;10-DEC-97;15-JUL-05
+564;333;Curcuma zedoaria;(CHRISTM.) ROSCOE;Curcuma;zedoaria;;;;;(CHRISTM.) ROSCOE;;;;;Zingiberaceae;Synonyms: Amomum zedoaria Christm.;96028002.0;12678.0;12678.0;;M;DUKE;10-DEC-97;15-JUL-05
+566;1307;Cuscuta reflexa;ROXB.;Cuscuta;reflexa;;;;;ROXB.;;;;;Cuscutaceae;;;318333.0;318333.0;;;DUKE;10-DEC-97;15-JUL-05
+567;334;Cycas revoluta;THUNB.;Cycas;revoluta;;;;;THUNB.;;;;;Cycadaceae;;1001002.0;12727.0;12727.0;;M;DUKE;10-DEC-97;15-JUL-05
+570;337;Cymbopogon citratus;(DC. ex NEES) STAPF;Cymbopogon;citratus;;;;;(DC. ex NEES) STAPF;;;;;Poaceae;Synonyms: Andropogon citratus DC. ex Nees;;12797.0;12797.0;;G;DUKE;10-DEC-97;15-JUL-05
+571;338;Cymbopogon flexuosus;(NEES ex STEUDEL) J. F. WATSON;Cymbopogon;flexuosus;;;;;(NEES ex STEUDEL) J. F. WATSON;;;;;Poaceae;;38353002.0;12804.0;12804.0;;G;DUKE;10-DEC-97;15-JUL-05
+572;339;Cymbopogon martinii;(ROXB.) J. F. WATSON;Cymbopogon;martinii;;;;;(ROXB.) J. F. WATSON;;;;;Poaceae;;38353003.0;;;;G;DUKE;10-DEC-97;15-JUL-05
+573;340;Cymbopogon nardus;(L.) RENDLE;Cymbopogon;nardus;;;;;(L.) RENDLE;;;;;Poaceae;;38353004.0;12810.0;12810.0;;G;DUKE;10-DEC-97;15-JUL-05
+575;342;Cymbopogon winterianus;JOWITT;Cymbopogon;winterianus;;;;;JOWITT;;;;;Poaceae;;38353005.0;103628.0;103628.0;;G;DUKE;10-DEC-97;15-JUL-05
+578;1357;Cyperus articulatus;;Cyperus;articulatus;;;;;;;;;;Cyperaceae;;;12899.0;12899.0;;;DUKE;10-DEC-97;15-JUL-05
+579;345;Cyperus rotundus;L.;Cyperus;rotundus;;;;;L.;;;;;Cyperaceae;;;316644.0;316644.0;;F;DUKE;10-DEC-97;15-JUL-05
+580;346;Cyphomandra betacea;(CAV.) SENDT.;Cyphomandra;betacea;;;;;(CAV.) SENDT.;;;;;Solanaceae;;540032001.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+582;348;Cyrtosperma chamissonis;(SCHOTT) MERR.;Cyrtosperma;chamissonis;;;;;(SCHOTT) MERR.;;;;;Araceae;;44028001.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+587;349;Cytisus scoparius;(L.) LINK.;Cytisus;scoparius;;;;;(L.) LINK.;;;;;Fabaceae;;283248002.0;13019.0;13019.0;;M;DUKE;10-DEC-97;15-JUL-05
+591;350;Daemonorops draco;BL.;Daemonorops;draco;;;;;BL.;;;;;Arecaceae;;;13138.0;13138.0;;M;DUKE;10-DEC-97;15-JUL-05
+594;1498;Dalbergia sericea;;Dalbergia;sericea;;;;;;;;;;Fabaceae;;;13168.0;13168.0;;M;DUKE;10-DEC-97;15-JUL-05
+597;353;Datura candida;(PERS,) SAFF.;Datura;candida;;;;;(PERS,) SAFF.;;;;;Solanaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+598;354;Datura innoxia;MILL.;Datura;innoxia;;;;;MILL.;;;;;Solanaceae;;540039008.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+599;355;Datura metel;L.;Datura;metel;;;;;L.;;;;;Solanaceae;;540039003.0;13315.0;13315.0;;M;DUKE;10-DEC-97;15-JUL-05
+600;356;Datura stramonium;L.;Datura;stramonium;;;;;L.;;;;;Solanaceae;;;13323.0;13323.0;;M;DUKE;10-DEC-97;15-JUL-05
+601;357;Daucus carota;L.;Daucus;carota;;;;;L.;;;;;Apiaceae;;;300172.0;300172.0;;F;DUKE;10-DEC-97;15-JUL-05
+606;1499;Derris trifoliata;;Derris;trifoliata;;;;;;;;;;Fabaceae;;;13555.0;13555.0;;M;DUKE;10-DEC-97;15-JUL-05
+607;1873;Desmodium gangeticum;(L.) DC.;Desmodium;gangeticum;;;;;(L.) DC.;;;;;Fabaceae;;;13632.0;13632.0;;M;DUKE;10-DEC-97;15-JUL-05
+608;1500;Desmodium pulchellum;;Desmodium;pulchellum;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+610;1501;Dicliptera roxburghiana;;Dicliptera;roxburghiana;;;;;;;;;;Acanthaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+612;359;Dictamnus albus;L.;Dictamnus;albus;;;;;L.;;;;;Rutaceae;;302031001.0;13928.0;13928.0;;M;DUKE;10-DEC-97;15-JUL-05
+613;1992;Dictamnus angustifolius;;Dictamnus;angustifolius;;;;;;;;;;Rutaceae;;;13929.0;13929.0;;M;DUKE;10-DEC-97;15-JUL-05
+614;1993;Dictamnus caucasicus;;Dictamnus;caucasicus;;;;;;;;;;Rutaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+616;360;Dieffenbachia seguine;(JACQ.) SCHOTT;Dieffenbachia;seguine;;;;;(JACQ.) SCHOTT;;;;;Araceae;;;13948.0;13948.0;;M;DUKE;10-DEC-97;15-JUL-05
+617;361;Digitalis lanata;EHRH.;Digitalis;lanata;;;;;EHRH.;;;;;Scrophulariaceae;;;13979.0;13979.0;;M;DUKE;10-DEC-97;15-JUL-05
+619;1503;Dillenia aurea;;Dillenia;aurea;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+621;1155;Dillenia indica;L.;Dillenia;indica;;;;;L.;;;;;Dilleniaceae;;;14122.0;14122.0;;M;DUKE;10-DEC-97;15-JUL-05
+622;1505;Dillenia pentagyna;;Dillenia;pentagyna;;;;;;;;;;Dilleniaceae;;;14124.0;14124.0;;M;DUKE;10-DEC-97;15-JUL-05
+623;1156;Dillenia retusa;THUNB.;Dillenia;retusa;;;;;THUNB.;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+624;1506;Dillenia scabrella;;Dillenia;scabrella;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+627;363;Dioscorea alata;L.;Dioscorea;alata;;;;;L.;;;;;Dioscoreaceae;;;14175.0;14175.0;;F;DUKE;10-DEC-97;15-JUL-05
+628;364;Dioscorea bulbifera;L.;Dioscorea;bulbifera;;;;;L.;;;;;Dioscoreaceae;;87003002.0;14186.0;14186.0;;F;DUKE;10-DEC-97;15-JUL-05
+630;366;Dioscorea pentaphylla;L.;Dioscorea;pentaphylla;;;;;L.;;;;;Dioscoreaceae;;87003019.0;14237.0;14237.0;;F;DUKE;10-DEC-97;15-JUL-05
+632;2167;Dioscorea villosa;L.;Dioscorea;villosa;;;;;L.;;;;;Dioscoreaceae;;;14267.0;14267.0;;M;DUKE;10-DEC-97;15-JUL-05
+635;1173;Diospyros buxifolia;HIERN.;Diospyros;buxifolia;;;;;HIERN.;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+636;1509;Diospyros canaliculata;;Diospyros;canaliculata;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+637;1510;Diospyros celebica;;Diospyros;celebica;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+638;1511;Diospyros chevalieri;;Diospyros;chevalieri;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+646;1516;Diospyros ebenum;;Diospyros;ebenum;;;;;;;;;;Ebenaceae;;;14283.0;14283.0;;M;DUKE;10-DEC-97;15-JUL-05
+647;1517;Diospyros elliptifolia;;Diospyros;elliptifolia;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+648;1518;Diospyros eriantha;;Diospyros;eriantha;;;;;;;;;;Ebenaceae;;;411852.0;411852.0;;M;DUKE;10-DEC-97;15-JUL-05
+649;1731;Diospyros ferrea;;Diospyros;ferrea;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+654;1176;Diospyros hirsuta;L.F.;Diospyros;hirsuta;;;;;L.F.;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+659;1177;Diospyros kaki;L.;Diospyros;kaki;;;;;L.;;;;;Ebenaceae;;;14293.0;14293.0;;F;DUKE;10-DEC-97;15-JUL-05
+663;1178;Diospyros lotus;L.;Diospyros;lotus;;;;;L.;;;;;Ebenaceae;;;14296.0;14296.0;;M;DUKE;10-DEC-97;15-JUL-05
+665;1529;Diospyros maingayi;;Diospyros;maingayi;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+667;1531;Diospyros mannii;;Diospyros;mannii;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+668;1532;Diospyros maritima;;Diospyros;maritima;;;;;;;;;;Ebenaceae;;;14300.0;14300.0;;M;DUKE;10-DEC-97;15-JUL-05
+669;1179;Diospyros melanoxylon;ROXB.;Diospyros;melanoxylon;;;;;ROXB.;;;;;Ebenaceae;;;403647.0;403647.0;;M;DUKE;10-DEC-97;15-JUL-05
+671;1534;Diospyros mollis;;Diospyros;mollis;;;;;;;;;;Ebenaceae;;;70232.0;70232.0;;M;DUKE;10-DEC-97;15-JUL-05
+673;1536;Diospyros montana;;Diospyros;montana;;;;;;;;;;Ebenaceae;;;14304.0;14304.0;;M;DUKE;10-DEC-97;15-JUL-05
+674;1537;Diospyros moonii;;Diospyros;moonii;;;;;;;;;;Ebenaceae;;;14306.0;14306.0;;M;DUKE;10-DEC-97;15-JUL-05
+682;1542;Diospyros siamang;;Diospyros;siamang;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+683;1543;Diospyros siamensis;;Diospyros;siamensis;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+685;1545;Diospyros singaporensis;;Diospyros;singaporensis;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+687;1547;Diospyros sumatrana;;Diospyros;sumatrana;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+688;1548;Diospyros sylvatica;;Diospyros;sylvatica;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+690;1182;Diospyros tomentosa;POIR.;Diospyros;tomentosa;;;;;POIR.;;;;;Ebenaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+691;1550;Diospyros undulata;;Diospyros;undulata;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+694;1552;Diospyros walkeri;;Diospyros;walkeri;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+695;1553;Diospyros wallichii;;Diospyros;wallichii;;;;;;;;;;Ebenaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+698;1172;Dipterocarpus hispidus;THW.;Dipterocarpus;hispidus;;;;;THW.;;;;;Dipterocarpaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+701;369;Dipteryx odorata;(AUBL.) WILLD.;Dipteryx;odorata;;;;;(AUBL.) WILLD.;;;;;Fabaceae;Synonyms: Coumarouna odorata Aubl;283409001.0;14393.0;14393.0;;M;DUKE;10-DEC-97;15-JUL-05
+703;370;Dodonaea viscosa;(L.) JACQ.;Dodonaea;viscosa;;;;;(L.) JACQ.;;;;;Sapindaceae;;361109001.0;14441.0;14441.0;;M;DUKE;10-DEC-97;15-JUL-05
+704;1876;Dolichos biflorus;;Dolichos;biflorus;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+709;372;Drynaria fortunei;(KUNZE) J. SMITH;Drynaria;fortunei;;;;;(KUNZE) J. SMITH;;;;;Polypodiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+710;373;Dryopteris filix-mas;(L.) SCHOTT;Dryopteris;filix-mas;;;;;(L.) SCHOTT;;;;;Dryopteridaceae;;;14724.0;14724.0;;M;DUKE;10-DEC-97;15-JUL-05
+713;1877;Dunbaria villosa;(THUNB.) MAKINO;Dunbaria;villosa;;;;;(THUNB.) MAKINO;;;;;Fabaceae;;;14747.0;14747.0;;M;DUKE;10-DEC-97;15-JUL-05
+714;375;Duranta repens;L.;Duranta;repens;;;;;L.;;;;;Verbenaceae;;533030001.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+715;1224;Durio zibethinus;L.;Durio;zibethinus;;;;;L.;;;;;Bombacaceae;;;14755.0;14755.0;;;DUKE;10-DEC-97;15-JUL-05
+716;2125;Echinacea angustifolia;DC.;Echinacea;angustifolia;;;;;DC.;;;;;Asteraceae;;;14798.0;14798.0;;M;DUKE;10-DEC-97;15-JUL-05
+717;2126;Echinacea pallida;(NUTT.) NUTT.;Echinacea;pallida;;;;;(NUTT.) NUTT.;;;;;Asteraceae;;;70237.0;70237.0;;M;DUKE;10-DEC-97;15-JUL-05
+718;2127;Echinacea purpurea;(L.) MOENCH.;Echinacea;purpurea;;;;;(L.) MOENCH.;;;;;Asteraceae;;;14799.0;14799.0;;M;DUKE;10-DEC-97;15-JUL-05
+723;1559;Ehretia laevis;;Ehretia;laevis;;;;;;;;;;Boraginaceae;;;14897.0;14897.0;;M;DUKE;10-DEC-97;15-JUL-05
+725;1150;Elaeagnus angustifolia;L.;Elaeagnus;angustifolia;;;;;L.;;;;;Elaeagnaceae;;;14915.0;14915.0;;F;DUKE;10-DEC-97;15-JUL-05
+729;1267;Elaeis guineensis;JACQ.;Elaeis;guineensis;;;;;JACQ.;;;;;Arecaceae;;;14936.0;14936.0;;;DUKE;10-DEC-97;15-JUL-05
+731;1308;Eleocharis dulcis;(BURM. F) TRIN.;Eleocharis;dulcis;;;;;(BURM. F) TRIN.;;;;;Cyperaceae;;;14976.0;14976.0;;;DUKE;10-DEC-97;15-JUL-05
+732;377;Elettaria cardamomum;(L.) MATON;Elettaria;cardamomum;;;;;(L.) MATON;;;;;Zingiberaceae;Synonyms: Amomum cardamomum L.;96016001.0;300197.0;300197.0;;F;DUKE;10-DEC-97;15-JUL-05
+733;378;Eleutherococcus senticosus;(RUPR. & MAXIM.) MAXIM.;Eleutherococcus;senticosus;;;;;(RUPR. & MAXIM.) MAXIM.;;;;;Araliaceae;Synonyms: Acanthopanax senticosus, Hedera senticosa;;15004.0;15004.0;;M;DUKE;10-DEC-97;15-JUL-05
+734;1361;Elsholtzia blanda;BENTH.;Elsholtzia;blanda;;;;;BENTH.;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+737;1997;Elsholtzia densa;;Elsholtzia;densa;;;;;;;;;;Lamiaceae;;;15015.0;15015.0;;M;DUKE;10-DEC-97;15-JUL-05
+745;1362;Emilia flammea;;Emilia;flammea;;;;;;;;;;Asteraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+746;1737;Enterolobium cyclocarpum;;Enterolobium;cyclocarpum;;;;;;;;;;Fabaceae;;;15195.0;15195.0;;M;DUKE;10-DEC-97;15-JUL-05
+747;1363;Eperua falcata;;Eperua;falcata;;;;;;;;;;Fabaceae;;;436165.0;436165.0;;;DUKE;10-DEC-97;15-JUL-05
+751;382;Ephedra sinica;STAPF;Ephedra;sinica;;;;;STAPF;;;;;Ephedraceae;;15001002.0;15236.0;15236.0;;M;DUKE;10-DEC-97;15-JUL-05
+754;384;Equisetum arvense;L.;Equisetum;arvense;;;;;L.;;;;;Equisetaceae;;1001.0;400386.0;400386.0;;M;DUKE;10-DEC-97;15-JUL-05
+755;385;Equisetum hyemale;L.;Equisetum;hyemale;;;;;L.;;;;;Equisetaceae;;;400387.0;400387.0;;M;DUKE;10-DEC-97;15-JUL-05
+758;386;Eriobotrya japonica;(THUNB.) LINDL.;Eriobotrya;japonica;;;;;(THUNB.) LINDL.;;;;;Rosaceae;;274025001.0;15602.0;15602.0;;F;DUKE;10-DEC-97;15-JUL-05
+763;1882;Eriosema psoraleoides;(LAM.) G. DON;Eriosema;psoraleoides;;;;;(LAM.) G. DON;;;;;Fabaceae;;;15649.0;15649.0;;M;DUKE;10-DEC-97;15-JUL-05
+766;390;Eryngium foetidum;L.;Eryngium;foetidum;;;;;L.;;;;;Apiaceae;;;15716.0;15716.0;;G;DUKE;10-DEC-97;15-JUL-05
+768;392;Erythrina crista-galli;L.;Erythrina;crista-galli;;;;;L.;;;;;Fabaceae;;;15739.0;15739.0;;M;DUKE;10-DEC-97;15-JUL-05
+769;393;Erythrina fusca;LOUR.;Erythrina;fusca;;;;;LOUR.;;;;;Fabaceae;;282436005.0;15744.0;15744.0;;M;DUKE;10-DEC-97;15-JUL-05
+770;1411;Erythrina senegalensis;;Erythrina;senegalensis;;;;;;;;;;Fabaceae;;;15765.0;15765.0;;;DUKE;10-DEC-97;15-JUL-05
+772;394;Erythrophleum suaveolens;(GUILL. & PERROT.) BRENAN;Erythrophleum;suaveolens;;;;;(GUILL. & PERROT.) BRENAN;;;;;Fabaceae;;;100131.0;100131.0;;M;DUKE;10-DEC-97;15-JUL-05
+773;1739;Erythrospermum zeylanicum;;Erythrospermum;zeylanicum;;;;;;;;;;Flacourtiaceae;;;100599.0;100599.0;;M;DUKE;10-DEC-97;15-JUL-05
+775;1103;Erythroxylum areolatum;;Erythroxylum;areolatum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+786;1112;Erythroxylum ellipticum;;Erythroxylum;ellipticum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+794;1120;Erythroxylum lucidum;;Erythroxylum;lucidum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+796;1122;Erythroxylum macrophyllum;;Erythroxylum;macrophyllum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+798;1124;Erythroxylum monogynum;ROXB.;Erythroxylum;monogynum;;;;;ROXB.;;;;;Erythroxylaceae;;;414291.0;414291.0;;;DUKE;10-DEC-97;15-JUL-05
+799;1125;Erythroxylum montanum;;Erythroxylum;montanum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+803;1127;Erythroxylum ovatum;;Erythroxylum;ovatum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+808;1132;Erythroxylum retusum;;Erythroxylum;retusum;;;;;;;;;;Erythroxylaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+818;2134;Eucalyptus angulosa;SCHAU;Eucalyptus;angulosa;;;;;SCHAU;;;;;Myrtaceae;;;15844.0;15844.0;;M;DUKE;10-DEC-97;15-JUL-05
+823;1369;Eucalyptus botryoides;SM.;Eucalyptus;botryoides;;;;;SM.;;;;;Myrtaceae;;;15857.0;15857.0;;;DUKE;10-DEC-97;15-JUL-05
+824;1370;Eucalyptus brassiana;S.T. BLAKE;Eucalyptus;brassiana;;;;;S.T. BLAKE;;;;;Myrtaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+829;400;Eucalyptus citriodora;HOOK.;Eucalyptus;citriodora;;;;;HOOK.;;;;;Myrtaceae;Synonym for Corymbia citriodora;;;;;G;DUKE;10-DEC-97;15-JUL-05
+830;1373;Eucalyptus cladocalyx;F.MUELL.;Eucalyptus;cladocalyx;;;;;F.MUELL.;;;;;Myrtaceae;;;15530.0;15530.0;;;DUKE;10-DEC-97;15-JUL-05
+832;2139;Eucalyptus corynocalyx;;Eucalyptus;corynocalyx;;;;;;;;;;Myrtaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+842;401;Eucalyptus globulus;LABILL.;Eucalyptus;globulus;;;;;LABILL.;;;;;Myrtaceae;;;15919.0;15919.0;;G;DUKE;10-DEC-97;15-JUL-05
+843;2144;Eucalyptus grandis;W. HILL EX MAIDEN;Eucalyptus;grandis;;;;;W. HILL EX MAIDEN;;;;;Myrtaceae;;;15924.0;15924.0;;M;DUKE;10-DEC-97;15-JUL-05
+844;2145;Eucalyptus hemiphloia;F. MUELL. EX BENTH.;Eucalyptus;hemiphloia;;;;;F. MUELL. EX BENTH.;;;;;Myrtaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+851;1376;Eucalyptus maculata;HOOK.;Eucalyptus;maculata;;;;;HOOK.;;;;;Myrtaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+855;1379;Eucalyptus moluccana;ROXB.;Eucalyptus;moluccana;;;;;ROXB.;;;;;Myrtaceae;;;401170.0;401170.0;;M;DUKE;10-DEC-97;15-JUL-05
+865;2148;Eucalyptus punctata;DC.;Eucalyptus;punctata;;;;;DC.;;;;;Myrtaceae;;;16003.0;16003.0;;M;DUKE;10-DEC-97;15-JUL-05
+866;2149;Eucalyptus robusta;SMITH;Eucalyptus;robusta;;;;;SMITH;;;;;Myrtaceae;;;16015.0;16015.0;;M;DUKE;10-DEC-97;15-JUL-05
+868;1385;Eucalyptus saligna;SM.;Eucalyptus;saligna;;;;;SM.;;;;;Myrtaceae;;;16022.0;16022.0;;M;DUKE;10-DEC-97;15-JUL-05
+874;1388;Eucalyptus tereticornis;SM.;Eucalyptus;tereticornis;;;;;SM.;;;;;Myrtaceae;;;16042.0;16042.0;;M;DUKE;10-DEC-97;15-JUL-05
+876;2154;Eucalyptus viminalis;LABILL.;Eucalyptus;viminalis;;;;;LABILL.;;;;;Myrtaceae;;;16104.0;16104.0;;M;DUKE;10-DEC-97;15-JUL-05
+882;402;Eucommia ulmoides;OLIV.;Eucommia;ulmoides;;;;;OLIV.;;;;;Eucommiaceae;;;16126.0;16126.0;;M;DUKE;10-DEC-97;15-JUL-05
+884;1242;Eugenia floribunda;;Eugenia;floribunda;;;;;;;;;;Myrtaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+886;1198;Eugenia jambolana;LAM.;Eugenia;jambolana;;;;;LAM.;;;;;Myrtaceae;;;;;;F;DUKE;10-DEC-97;15-JUL-05
+887;1226;Eugenia uniflora;L.;Eugenia;uniflora;;;;;L.;;;;;Myrtaceae;;;16210.0;16210.0;;;DUKE;10-DEC-97;15-JUL-05
+890;404;Euonymus atropurpureus;JACQ.;Euonymus;atropurpureus;;;;;JACQ.;;;;;Celastraceae;;;16251.0;16251.0;;M;DUKE;10-DEC-97;15-JUL-05
+892;1279;Eupatorium odoratum;L.;Eupatorium;odoratum;;;;;L.;;;;;Asteraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+894;1286;Eupatorium triplinerve;VAHL;Eupatorium;triplinerve;;;;;VAHL;;;;;Asteraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+896;1565;Euphorbia hermentiana;;Euphorbia;hermentiana;;;;;;;;;;Euphorbiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+897;406;Euphorbia hirta;L.;Euphorbia;hirta;;;;;L.;;;;;Euphorbiaceae;;328213009.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+900;408;Euphorbia pulcherrima;WILLD.;Euphorbia;pulcherrima;;;;;WILLD.;;;;;Euphorbiaceae;;328213017.0;16403.0;16403.0;;M;DUKE;10-DEC-97;15-JUL-05
+901;409;Euphorbia tirucalli;L.;Euphorbia;tirucalli;;;;;L.;;;;;Euphorbiaceae;;328213022.0;400211.0;400211.0;;M;DUKE;10-DEC-97;15-JUL-05
+904;1430;Eurya acuminata;DC;Eurya;acuminata;;;;;DC;;;;;Theaceae;;;16434.0;16434.0;;M;DUKE;10-DEC-97;15-JUL-05
+905;1742;Eurya japonica;;Eurya;japonica;;;;;;;;;;Theaceae;;;16440.0;16440.0;;M;DUKE;10-DEC-97;15-JUL-05
+908;411;Fagopyrum esculentum;MOENCH.;Fagopyrum;esculentum;;;;;MOENCH.;;;;;Polygonaceae;;149019001.0;16528.0;16528.0;;F;DUKE;10-DEC-97;15-JUL-05
+916;417;Ficus carica;L.;Ficus;carica;;;;;L.;;;;;Moraceae;;;16801.0;16801.0;;F;DUKE;10-DEC-97;15-JUL-05
+919;419;Firmiana simplex;(L.) W. F. WIGHT;Firmiana;simplex;;;;;(L.) W. F. WIGHT;;;;;Sterculiaceae;;380043001.0;102001.0;102001.0;;M;DUKE;10-DEC-97;15-JUL-05
+920;1884;Flemingia strobilifera;(L.) AIT. & AIT. F.;Flemingia;strobilifera;;;;;(L.) AIT. & AIT. F.;;;;;Fabaceae;;;17131.0;17131.0;;M;DUKE;10-DEC-97;15-JUL-05
+921;1569;Flindersia pimenteliana;;Flindersia;pimenteliana;;;;;;;;;;Rutaceae;;;411857.0;411857.0;;M;DUKE;10-DEC-97;15-JUL-05
+922;420;Foeniculum vulgare;MILLER;Foeniculum;vulgare;;;;;MILLER;;;;;Apiaceae;;;300219.0;300219.0;;F;DUKE;10-DEC-97;15-JUL-05
+938;2161;Ganoderma lucidum;;Ganoderma;lucidum;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+939;2123;Garcinia cambogia;(GAERTN.) DESR.;Garcinia;cambogia;;;;;(GAERTN.) DESR.;;;;;Clusiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+940;430;Garcinia hanburyi;HOOK. f.;Garcinia;hanburyi;;;;;HOOK. f.;;;;;Clusiaceae;;;311274.0;311274.0;;M;DUKE;10-DEC-97;15-JUL-05
+941;1228;Garcinia mangostana;L.;Garcinia;mangostana;;;;;L.;;;;;Clusiaceae;;;71011.0;71011.0;;;DUKE;10-DEC-97;15-JUL-05
+942;1571;Garcinia xanthochymus;;Garcinia;xanthochymus;;;;;;;;;;Clusiaceae;;;70312.0;70312.0;;M;DUKE;10-DEC-97;15-JUL-05
+943;431;Gardenia jasminoides;J. ELLIS;Gardenia;jasminoides;;;;;J. ELLIS;;;;;Rubiaceae;Syns: G. augusta, G. florida, G. radaicans, Warneria augusta;;70315.0;70315.0;;M;DUKE;10-DEC-97;15-JUL-05
+945;1099;Gaultheria fragrantissima;WALL.;Gaultheria;fragrantissima;;;;;WALL.;;;;;Ericaceae;;;347.0;347.0;;M;DUKE;10-DEC-97;15-JUL-05
+950;435;Genipa americana;L.;Genipa;americana;;;;;L.;;;;;Rubiaceae;;562171001.0;395.0;395.0;;F;DUKE;10-DEC-97;15-JUL-05
+961;438;Gentiana lutea;L.;Gentiana;lutea;;;;;L.;;;;;Gentianaceae;;511031001.0;17392.0;17392.0;;G;DUKE;10-DEC-97;15-JUL-05
+962;439;Gentiana scabra;BUNGE;Gentiana;scabra;;;;;BUNGE;;;;;Gentianaceae;;;17415.0;17415.0;;M;DUKE;10-DEC-97;15-JUL-05
+970;447;Gliricidia sepium;STEUD.;Gliricidia;sepium;;;;;STEUD.;;;;;Fabaceae;;;17647.0;17647.0;;M;DUKE;10-DEC-97;15-JUL-05
+971;448;Gloriosa superba;L.;Gloriosa;superba;;;;;L.;;;;;Liliaceae;;;17663.0;17663.0;;M;DUKE;10-DEC-97;15-JUL-05
+972;449;Glycine max;(L.) MERR.;Glycine;max;;;;;(L.) MERR.;;;;;Fabaceae;;283430002.0;17711.0;17711.0;;F;DUKE;10-DEC-97;15-JUL-05
+973;1894;Glycine wightii;(WIGHT. & ARN.) VERDC.;Glycine;wightii;;;;;(WIGHT. & ARN.) VERDC.;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+974;450;Glycyrrhiza glabra;L.;Glycyrrhiza;glabra;;;;;L.;;;;;Fabaceae;;283335001.0;17820.0;17820.0;;G;DUKE;10-DEC-97;15-JUL-05
+976;451;Glycyrrhiza uralensis;FISCH. EX DC.;Glycyrrhiza;uralensis;;;;;FISCH. EX DC.;;;;;Fabaceae;;;17824.0;17824.0;;G;DUKE;10-DEC-97;15-JUL-05
+977;1574;Gmelina arborea;;Gmelina;arborea;;;;;;;;;;Lamiaceae;;;17827.0;17827.0;;M;DUKE;10-DEC-97;15-JUL-05
+983;1576;Grewia bicolor;;Grewia;bicolor;;;;;;;;;;Tiliaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+992;1580;Guazuma tomentosa;;Guazuma;tomentosa;;;;;;;;;;Sterculiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+993;456;Guazuma ulmifolia;LAM.;Guazuma;ulmifolia;;;;;LAM.;;;;;Sterculiaceae;;;312760.0;312760.0;;M;DUKE;10-DEC-97;15-JUL-05
+997;1310;Haematoxylum campechianum;L.;Haematoxylum;campechianum;;;;;L.;;;;;Fabaceae;;;18172.0;18172.0;;;DUKE;10-DEC-97;15-JUL-05
+998;457;Hamamelis virginiana;L.;Hamamelis;virginiana;;;;;L.;;;;;Hamamelidaceae;;;311636.0;311636.0;;M;DUKE;10-DEC-97;15-JUL-05
+999;458;Hamelia patens;JACQ.;Hamelia;patens;;;;;JACQ.;;;;;Rubiaceae;;562210001.0;18240.0;18240.0;;M;DUKE;10-DEC-97;15-JUL-05
+1002;459;Harpagophytum procumbens;(BURCH.) DC. EX MEISN.;Harpagophytum;procumbens;;;;;(BURCH.) DC. EX MEISN.;;;;;Pedaliaceae;;;18252.0;18252.0;;M;DUKE;10-DEC-97;15-JUL-05
+1007;464;Hedera helix;L.;Hedera;helix;;;;;L.;;;;;Araliaceae;;;300252.0;300252.0;;M;DUKE;10-DEC-97;15-JUL-05
+1009;465;Heimia salicifolia;L.;Heimia;salicifolia;;;;;L.;;;;;Lythraceae;;;27904.0;27904.0;;M;DUKE;10-DEC-97;15-JUL-05
+1010;466;Helianthus annuus;L.;Helianthus;annuus;;;;;L.;;;;;Asteraceae;;;27923.0;27923.0;;F;DUKE;10-DEC-97;15-JUL-05
+1011;467;Helianthus tuberosus;L.;Helianthus;tuberosus;;;;;L.;;;;;Asteraceae;;580471003.0;27946.0;27946.0;;F;DUKE;10-DEC-97;15-JUL-05
+1017;472;Hemidesmus indicus;(L.) R. BR.;Hemidesmus;indicus;;;;;(L.) R. BR.;;;;;Asclepiadaceae;;;402594.0;402594.0;;M;DUKE;10-DEC-97;15-JUL-05
+1021;1752;Hibiscus mutabilis;;Hibiscus;mutabilis;;;;;;;;;;Malvaceae;;;19059.0;19059.0;;M;DUKE;10-DEC-97;15-JUL-05
+1022;1311;Hibiscus rosa-sinensis;L.;Hibiscus;rosa-sinensis;;;;;L.;;;;;Malvaceae;;;19075.0;19075.0;;;DUKE;10-DEC-97;15-JUL-05
+1023;474;Hibiscus sabdariffa;L.;Hibiscus;sabdariffa;;;;;L.;;;;;Malvaceae;;375034002.0;19078.0;19078.0;;F;DUKE;10-DEC-97;15-JUL-05
+1024;1585;Hibiscus syriacus;L.;Hibiscus;syriacus;;;;;L.;;;;;Malvaceae;;;19094.0;19094.0;;M;DUKE;10-DEC-97;15-JUL-05
+1025;1312;Hippeastrum vittatum;HERB;Hippeastrum;vittatum;;;;;HERB;;;;;Liliaceae;;;19160.0;19160.0;;;DUKE;10-DEC-97;15-JUL-05
+1030;476;Holarrhena pubescens;WALL. EX G. DON;Holarrhena;pubescens;;;;;WALL. EX G. DON;;;;;Apocynaceae;Syns: H.antidysenterica,H. febrifuga,Echites antidysenterica;;102211.0;102211.0;;M;DUKE;10-DEC-97;15-JUL-05
+1033;1589;Hopea jucunda;;Hopea;jucunda;;;;;;;;;;Dipterocarpaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1034;477;Hordeum vulgare;L.;Hordeum;vulgare;;;;;L.;;;;;Poaceae;;38310002.0;317403.0;317403.0;;F;DUKE;10-DEC-97;15-JUL-05
+1036;479;Houttuynia cordata;THUNB.;Houttuynia;cordata;;;;;THUNB.;;;;;Saururaceae;;107002001.0;102694.0;102694.0;;F;DUKE;10-DEC-97;15-JUL-05
+1037;480;Humulus lupulus;L.;Humulus;lupulus;;;;;L.;;;;;Cannabaceae;;126065001.0;19415.0;19415.0;;F;DUKE;10-DEC-97;15-JUL-05
+1039;482;Hura crepitans;L.;Hura;crepitans;;;;;L.;;;;;Euphorbiaceae;;;19419.0;19419.0;;M;DUKE;10-DEC-97;15-JUL-05
+1043;485;Hydnocarpus kurzii;(KING) WARB.;Hydnocarpus;kurzii;;;;;(KING) WARB.;;;;;Flacourtiaceae;;417016002.0;19441.0;19441.0;;M;DUKE;10-DEC-97;15-JUL-05
+1050;1230;Hylocereus undatus;BRITT. & ROSE;Hylocereus;undatus;;;;;BRITT. & ROSE;;;;;Cactaceae;Cereus undatus Haw. is a synonym;;19487.0;19487.0;;;DUKE;10-DEC-97;15-JUL-05
+1051;1392;Hymenaea courbaril;;Hymenaea;courbaril;;;;;;;;;;Fabaceae;;;19489.0;19489.0;;;DUKE;10-DEC-97;15-JUL-05
+1052;1393;Hymenaea verrucosa;;Hymenaea;verrucosa;;;;;;;;;;Fabaceae;;;19491.0;19491.0;;;DUKE;10-DEC-97;15-JUL-05
+1057;491;Hypericum perforatum;L.;Hypericum;perforatum;;;;;L.;;;;;Clusiaceae;;;19600.0;19600.0;;M;DUKE;10-DEC-97;15-JUL-05
+1061;494;Hyptis suaveolens;POIT.;Hyptis;suaveolens;;;;;POIT.;;;;;Lamiaceae;;538133005.0;19643.0;19643.0;;M;DUKE;10-DEC-97;15-JUL-05
+1065;495;Hyssopus officinalis;L.;Hyssopus;officinalis;;;;;L.;;;;;Lamiaceae;;538104001.0;19644.0;19644.0;;G;DUKE;10-DEC-97;15-JUL-05
+1068;496;Ilex paraguariensis;ST. HIL.;Ilex;paraguariensis;;;;;ST. HIL.;;;;;Aquifoliaceae;;347001001.0;19756.0;19756.0;;F;DUKE;10-DEC-97;15-JUL-05
+1070;497;Illicium verum;HOOK. f.;Illicium;verum;;;;;HOOK. f.;;;;;Illiciaceae;;197007001.0;19801.0;19801.0;;F;DUKE;10-DEC-97;15-JUL-05
+1071;1395;Impatiens balsamina;L.;Impatiens;balsamina;;;;;L.;;;;;Balsaminaceae;;;19810.0;19810.0;;;DUKE;10-DEC-97;15-JUL-05
+1072;498;Indigofera tinctoria;L.;Indigofera;tinctoria;;;;;L.;;;;;Fabaceae;;;20064.0;20064.0;;M;DUKE;10-DEC-97;15-JUL-05
+1073;1231;Inga edulis;;Inga;edulis;;;;;;;;;;Fabaceae;;;20082.0;20082.0;;;DUKE;10-DEC-97;15-JUL-05
+1076;1396;Inocarpus edulis;FORST.;Inocarpus;edulis;;;;;FORST.;;;;;Fabaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1078;500;Ipomoea aquatica;FORSSKAL;Ipomoea;aquatica;;;;;FORSSKAL;;;;;Convolvulaceae;;520036001.0;20138.0;20138.0;;F;DUKE;10-DEC-97;15-JUL-05
+1079;501;Ipomoea batatas;(L.) LAM;Ipomoea;batatas;;;;;(L.) LAM;;;;;Convolvulaceae;;;20142.0;20142.0;;F;DUKE;10-DEC-97;15-JUL-05
+1081;503;Ipomoea violacea;L.;Ipomoea;violacea;;;;;L.;;;;;Convolvulaceae;;;20238.0;20238.0;;M;DUKE;10-DEC-97;15-JUL-05
+1090;1761;Jasminum sambac;;Jasminum;sambac;;;;;;;;;;Oleaceae;;;20676.0;20676.0;;M;DUKE;10-DEC-97;15-JUL-05
+1092;510;Jatropha curcas;MIERS;Jatropha;curcas;;;;;MIERS;;;;;Euphorbiaceae;;;20692.0;20692.0;;M;DUKE;10-DEC-97;15-JUL-05
+1098;515;Juncus effusus;L.;Juncus;effusus;;;;;L.;;;;;Juncaceae;;63007003.0;20791.0;20791.0;;M;DUKE;10-DEC-97;15-JUL-05
+1104;519;Juniperus virginiana;L.;Juniperus;virginiana;;;;;L.;;;;;Cupressaceae;;;20878.0;20878.0;;M;DUKE;10-DEC-97;15-JUL-05
+1105;520;Jussiaea repens;L.;Jussiaea;repens;;;;;L.;;;;;Onagraceae;;456039006.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1106;1762;Jussiaea suffruticosa;;Jussiaea;suffruticosa;;;;;;;;;;Onagraceae;;;20894.0;20894.0;;M;DUKE;10-DEC-97;15-JUL-05
+1107;521;Justicia adhatoda;L.;Justicia;adhatoda;;;;;L.;;;;;Acanthaceae;;555143002.0;20895.0;20895.0;;M;DUKE;10-DEC-97;15-JUL-05
+1108;522;Justicia gendarussa;BURM.;Justicia;gendarussa;;;;;BURM.;;;;;Acanthaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1109;523;Justicia pectoralis;JACQ.;Justicia;pectoralis;;;;;JACQ.;;;;;Acanthaceae;;;100683.0;100683.0;;M;DUKE;10-DEC-97;15-JUL-05
+1110;1399;Justicia procumbens;L.;Justicia;procumbens;;;;;L.;;;;;Acanthaceae;;;428155.0;428155.0;;;DUKE;10-DEC-97;15-JUL-05
+1113;526;Kalanchoe pinnata;(LAM.) PERS.;Kalanchoe;pinnata;;;;;(LAM.) PERS.;;;;;Crassulaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1114;527;Kalanchoe spathulata;DC.;Kalanchoe;spathulata;;;;;DC.;;;;;Crassulaceae;;;21092.0;21092.0;;M;DUKE;10-DEC-97;15-JUL-05
+1116;1193;Kayea stylosa;THW.;Kayea;stylosa;;;;;THW.;;;;;Clusiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1120;1595;Kleinhovia hospita;;Kleinhovia;hospita;;;;;;;;;;Sterculiaceae;;;312797.0;312797.0;;M;DUKE;10-DEC-97;15-JUL-05
+1123;531;Lablab purpureus;(L.) SWEET;Lablab;purpureus;;;;;(L.) SWEET;;;;;Fabaceae;;;104887.0;104887.0;;F;DUKE;10-DEC-97;15-JUL-05
+1127;534;Lactuca sativa;L.;Lactuca;sativa;;;;;L.;;;;;Asteraceae;;580866001.0;21360.0;21360.0;;F;DUKE;10-DEC-97;15-JUL-05
+1128;535;Lactuca scariola;L.;Lactuca;scariola;;;;;L.;;;;;Asteraceae;;580866005.0;;;;G;DUKE;10-DEC-97;15-JUL-05
+1129;536;Lactuca virosa;L.;Lactuca;virosa;;;;;L.;;;;;Asteraceae;;580866002.0;21375.0;21375.0;;G;DUKE;10-DEC-97;15-JUL-05
+1130;537;Lagenaria siceraria;(MOLINA) STANDLEY.;Lagenaria;siceraria;;;;;(MOLINA) STANDLEY.;;;;;Cucurbitaceae;;;21385.0;21385.0;;F;DUKE;10-DEC-97;15-JUL-05
+1131;538;Lagerstroemia indica;L.;Lagerstroemia;indica;;;;;L.;;;;;Lythraceae;;439021002.0;21393.0;21393.0;;M;DUKE;10-DEC-97;15-JUL-05
+1134;540;Lantana camara;L.;Lantana;camara;;;;;L.;;;;;Verbenaceae;;;310628.0;310628.0;;M;DUKE;10-DEC-97;15-JUL-05
+1140;544;Lavandula angustifolia;MILLER;Lavandula;angustifolia;;;;;MILLER;;;;;Lamiaceae;;538026001.0;21677.0;21677.0;;G;DUKE;10-DEC-97;15-JUL-05
+1146;547;Lawsonia inermis;L.;Lawsonia;inermis;;;;;L.;;;;;Lythraceae;Synonyms: Lawsonia alba Lam.;439022001.0;21699.0;21699.0;;G;DUKE;10-DEC-97;15-JUL-05
+1154;549;Lens culinaris;MEDIK.;Lens;culinaris;;;;;MEDIK.;;;;;Fabaceae;;283419001.0;411141.0;411141.0;;F;DUKE;10-DEC-97;15-JUL-05
+1158;552;Leonotis nepetaefolia;(L.) R. BR.;Leonotis;nepetaefolia;;;;;(L.) R. BR.;;;;;Lamiaceae;;538055002.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1160;2007;Leonurus heterophyllus;;Leonurus;heterophyllus;;;;;;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1166;556;Lepidium sativum;L.;Lepidium;sativum;;;;;L.;;;;;Brassicaceae;;226021001.0;21769.0;21769.0;;G;DUKE;10-DEC-97;15-JUL-05
+1168;5101;Leptospermum polygalifolium;SALISB.;Leptospermum;polygalifolium;;;;;SALISB.;;;;;Myrtaceae;;;403638.0;403638.0;;;DUKE;10-DEC-97;15-JUL-05
+1170;1902;Lespedeza cyrtobotrya;;Lespedeza;cyrtobotrya;;;;;;;;;;Fabaceae;;;21858.0;21858.0;;M;DUKE;10-DEC-97;15-JUL-05
+1175;558;Ligustrum japonicum;THUNB.;Ligustrum;japonicum;;;;;THUNB.;;;;;Oleaceae;;;22079.0;22079.0;;M;DUKE;10-DEC-97;15-JUL-05
+1178;1600;Limnophila rugosa;;Limnophila;rugosa;;;;;;;;;;Scrophulariaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1179;1234;Limonia acidissima;L.;Limonia;acidissima;;;;;L.;;;;;Rutaceae;;;22253.0;22253.0;;;DUKE;10-DEC-97;15-JUL-05
+1180;561;Linum usitatissimum;L.;Linum;usitatissimum;;;;;L.;;;;;Linaceae;;293003001.0;22361.0;22361.0;;F;DUKE;10-DEC-97;15-JUL-05
+1193;568;Lolium temulentum;L.;Lolium;temulentum;;;;;L.;;;;;Poaceae;;38295004.0;22502.0;22502.0;;M;DUKE;10-DEC-97;15-JUL-05
+1194;569;Lonicera japonica;THUNB.;Lonicera;japonica;;;;;THUNB.;;;;;Caprifoliaceae;;565009001.0;22588.0;22588.0;;M;DUKE;10-DEC-97;15-JUL-05
+1195;570;Lophatherum gracile;BROGN.;Lophatherum;gracile;;;;;BROGN.;;;;;Poaceae;;;423462.0;423462.0;;M;DUKE;10-DEC-97;15-JUL-05
+1197;1315;Ludwigia adscendens;;Ludwigia;adscendens;;;;;;;;;;Onagraceae;;;403780.0;403780.0;;;DUKE;10-DEC-97;15-JUL-05
+1198;1316;Ludwigia epilobioides;;Ludwigia;epilobioides;;;;;;;;;;Onagraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1199;1768;Ludwigia parviflora;;Ludwigia;parviflora;;;;;;;;;;Onagraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1200;1317;Ludwigia perennis;L.;Ludwigia;perennis;;;;;L.;;;;;Onagraceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1201;572;Luffa aegyptiaca;MILLER;Luffa;aegyptiaca;;;;;MILLER;;;;;Cucurbitaceae;;;22788.0;22788.0;;F;DUKE;10-DEC-97;15-JUL-05
+1203;1605;Lumnitzera racemosa;;Lumnitzera;racemosa;;;;;;;;;;Combretaceae;;;417530.0;417530.0;;M;DUKE;10-DEC-97;15-JUL-05
+1204;573;Lupinus albus;L.;Lupinus;albus;;;;;L.;;;;;Fabaceae;;283238001.0;22802.0;22802.0;;F;DUKE;10-DEC-97;15-JUL-05
+1205;1903;Lupinus angustifolius;;Lupinus;angustifolius;;;;;;;;;;Fabaceae;;;22805.0;22805.0;;M;DUKE;10-DEC-97;15-JUL-05
+1207;574;Lupinus mutabilis;SWEET;Lupinus;mutabilis;;;;;SWEET;;;;;Fabaceae;;283238011.0;22844.0;22844.0;;F;DUKE;10-DEC-97;15-JUL-05
+1210;575;Lycium chinense;MILL.;Lycium;chinense;;;;;MILL.;;;;;Solanaceae;;540003001.0;22942.0;22942.0;;M;DUKE;10-DEC-97;15-JUL-05
+1211;576;Lycopersicon esculentum;MILLER;Lycopersicon;esculentum;;;;;MILLER;;;;;Solanaceae;;540084003.0;22955.0;22955.0;;F;DUKE;10-DEC-97;15-JUL-05
+1212;577;Lycopodium clavatum;L.;Lycopodium;clavatum;;;;;L.;;;;;Lycopodiaceae;;14002.0;431024.0;431024.0;;M;DUKE;10-DEC-97;15-JUL-05
+1213;578;Lycopodium serratum;THUNB.;Lycopodium;serratum;;;;;THUNB.;;;;;Lycopodiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1221;585;Lygodium japonicum;(THUNB.) SW.;Lygodium;japonicum;;;;;(THUNB.) SW.;;;;;Schizaeaceae;;;403435.0;403435.0;;M;DUKE;10-DEC-97;15-JUL-05
+1229;588;Macleaya cordata;R. BROWN;Macleaya;cordata;;;;;R. BROWN;;;;;Papaveraceae;;;23058.0;23058.0;;M;DUKE;10-DEC-97;15-JUL-05
+1238;589;Magnolia denudata;DESR.;Magnolia;denudata;;;;;DESR.;;;;;Magnoliaceae;;;23102.0;23102.0;;M;DUKE;10-DEC-97;15-JUL-05
+1244;1403;Malachra capitata;L.;Malachra;capitata;;;;;L.;;;;;Malvaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1245;594;Malpighia glabra;L.;Malpighia;glabra;;;;;L.;;;;;Malpighiaceae;;313051002.0;23206.0;23206.0;;C;DUKE;10-DEC-97;15-JUL-05
+1246;595;Malus domestica;BORKH.;Malus;domestica;;;;;BORKH.;;;;;Rosaceae;Synonyms: Malus malus, M. pumila, M. sylvestris, Pyrus malus;;104681.0;104681.0;;F;DUKE;10-DEC-97;15-JUL-05
+1248;597;Malva parviflora;L.;Malva;parviflora;;;;;L.;;;;;Malvaceae;;375013003.0;90031.0;90031.0;;G;DUKE;10-DEC-97;15-JUL-05
+1250;1235;Mammea americana;L.;Mammea;americana;;;;;L.;;;;;Clusiaceae;;;23319.0;23319.0;;F;DUKE;10-DEC-97;15-JUL-05
+1252;600;Mangifera indica;L.;Mangifera;indica;;;;;L.;;;;;Anacardiaceae;;;23351.0;23351.0;;F;DUKE;10-DEC-97;15-JUL-05
+1253;601;Manihot esculenta;CRANTZ;Manihot;esculenta;;;;;CRANTZ;;;;;Euphorbiaceae;;;431678.0;431678.0;;F;DUKE;10-DEC-97;15-JUL-05
+1254;1236;Manilkara zapota;VAN ROYEN;Manilkara;zapota;;;;;VAN ROYEN;;;;;Sapotaceae;;;102614.0;102614.0;;F;DUKE;10-DEC-97;15-JUL-05
+1255;602;Maranta arundinacea;L.;Maranta;arundinacea;;;;;L.;;;;;Marantaceae;;;23393.0;23393.0;;F;DUKE;10-DEC-97;15-JUL-05
+1264;1609;Maytenus senegalensis;;Maytenus;senegalensis;;;;;;;;;;Celastraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1266;1273;Melaleuca alternifolia;(MAIDEN & BETCHE) CHEEL;Melaleuca;alternifolia;;;;;(MAIDEN & BETCHE) CHEEL;;;;;Myrtaceae;;;402629.0;402629.0;;G;DUKE;10-DEC-97;15-JUL-05
+1268;2120;Melaleuca cajuputi;POWELL;Melaleuca;cajuputi;;;;;POWELL;;;;;Myrtaceae;;;23778.0;23778.0;;M;DUKE;10-DEC-97;15-JUL-05
+1269;607;Melaleuca leucadendra;(L.)  L.;Melaleuca;leucadendra;;;;;(L.)  L.;;;;;Myrtaceae;;;23805.0;23805.0;;M;DUKE;10-DEC-97;15-JUL-05
+1273;1276;Melaleuca viridiflora;SOLAND.EX GAERTN.;Melaleuca;viridiflora;;;;;SOLAND.EX GAERTN.;;;;;Myrtaceae;;;23906.0;23906.0;;;DUKE;10-DEC-97;15-JUL-05
+1276;608;Melia azedarach;L.;Melia;azedarach;;;;;L.;;;;;Meliaceae;;;23936.0;23936.0;;M;DUKE;10-DEC-97;15-JUL-05
+1281;612;Melissa officinalis;L.;Melissa;officinalis;;;;;L.;;;;;Lamiaceae;;538095001.0;24036.0;24036.0;;G;DUKE;10-DEC-97;15-JUL-05
+1284;614;Mentha aquatica;L.;Mentha;aquatica;;;;;L.;;;;;Lamiaceae;;538119009.0;24068.0;24068.0;;G;DUKE;10-DEC-97;15-JUL-05
+1290;618;Mentha spicata;L.;Mentha;spicata;;;;;L.;;;;;Lamiaceae;Mentha crispa L. is a synonym;538119006.0;24082.0;24082.0;;G;DUKE;10-DEC-97;15-JUL-05
+1295;1773;Mesua ferrea;;Mesua;ferrea;;;;;;;;;;Clusiaceae;;;24194.0;24194.0;;M;DUKE;10-DEC-97;15-JUL-05
+1296;1774;Mesua myrtifolia;;Mesua;myrtifolia;;;;;;;;;;Clusiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1300;1405;Michelia alba;DC.;Michelia;alba;;;;;DC.;;;;;Magnoliaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1301;1406;Michelia champaca;L.;Michelia;champaca;;;;;L.;;;;;Magnoliaceae;;;24232.0;24232.0;;;DUKE;10-DEC-97;15-JUL-05
+1315;625;Mimosa pudica;L.;Mimosa;pudica;;;;;L.;;;;;Fabaceae;;;24405.0;24405.0;;M;DUKE;10-DEC-97;15-JUL-05
+1320;1318;Mirabilis jalapa;L.;Mirabilis;jalapa;;;;;L.;;;;;Nyctaginaceae;;;24469.0;24469.0;;;DUKE;10-DEC-97;15-JUL-05
+1322;5006;Mitracarpus scaber;ZUCC.;Mitracarpus;scaber;;;;;ZUCC.;;;;;Rubiaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1323;628;Mitragyna speciosa;KORTH.;Mitragyna;speciosa;;;;;KORTH.;;;;;Rubiaceae;;;417532.0;417532.0;;M;DUKE;10-DEC-97;15-JUL-05
+1324;1612;Mitrephora heyneana;;Mitrephora;heyneana;;;;;;;;;;Annonaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1325;1916;Moghania macrophylla;;Moghania;macrophylla;;;;;;;;;;Fabaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1328;631;Momordica charantia;L.;Momordica;charantia;;;;;L.;;;;;Cucurbitaceae;;;24520.0;24520.0;;F;DUKE;10-DEC-97;15-JUL-05
+1332;635;Monarda fistulosa;L.;Monarda;fistulosa;;;;;L.;;;;;Lamiaceae;;538087001.0;24536.0;24536.0;;G;DUKE;10-DEC-97;15-JUL-05
+1338;1409;Montrichardia arborescens;SCHOTT;Montrichardia;arborescens;;;;;SCHOTT;;;;;Araceae;;;24568.0;24568.0;;;DUKE;10-DEC-97;15-JUL-05
+1339;641;Morinda citrifolia;L.;Morinda;citrifolia;;;;;L.;;;;;Rubiaceae;;;318237.0;318237.0;;F;DUKE;10-DEC-97;15-JUL-05
+1341;1435;Moringa oleifera;LAM.;Moringa;oleifera;;;;;LAM.;;;;;Moringaceae;Synonyms: Guilandina moringa, M. moringa, M. pterygosperma;;24597.0;24597.0;;M;DUKE;10-DEC-97;15-JUL-05
+1342;643;Morus alba;L.;Morus;alba;;;;;L.;;;;;Moraceae;;126006001.0;24607.0;24607.0;;F;DUKE;10-DEC-97;15-JUL-05
+1343;1776;Morus serrata;;Morus;serrata;;;;;;;;;;Moraceae;;;411977.0;411977.0;;M;DUKE;10-DEC-97;15-JUL-05
+1344;1917;Mucuna deeringiana;;Mucuna;deeringiana;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1346;644;Mucuna pruriens;(L.) DC.;Mucuna;pruriens;;;;;(L.) DC.;;;;;Fabaceae;;;24652.0;24652.0;;F;DUKE;10-DEC-97;15-JUL-05
+1347;1239;Muntingia calabura;L.;Muntingia;calabura;;;;;L.;;;;;Tiliaceae;;;24697.0;24697.0;;;DUKE;10-DEC-97;15-JUL-05
+1348;1410;Murraya koenigii;(L.) SPRENG.;Murraya;koenigii;;;;;(L.) SPRENG.;;;;;Rutaceae;;;24703.0;24703.0;;;DUKE;10-DEC-97;15-JUL-05
+1353;648;Myrica cerifera;L.;Myrica;cerifera;;;;;L.;;;;;Myricaceae;;115001001.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1354;649;Myristica fragrans;HOUTT.;Myristica;fragrans;;;;;HOUTT.;;;;;Myristicaceae;Synonym: Myristica officinalis L.;209014001.0;24855.0;24855.0;;F;DUKE;10-DEC-97;15-JUL-05
+1355;650;Myroxylon balsamum;(L.) HARMS;Myroxylon;balsamum;;;;;(L.) HARMS;;;;;Flacourtiaceae;;;24873.0;24873.0;;M;DUKE;10-DEC-97;15-JUL-05
+1358;654;Nardostachys chinensis;BATALIN;Nardostachys;chinensis;;;;;BATALIN;;;;;Valerianaceae;;;417534.0;417534.0;;M;DUKE;10-DEC-97;15-JUL-05
+1359;655;Nardostachys jatamansi;DC.;Nardostachys;jatamansi;;;;;DC.;;;;;Valerianaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1360;656;Nasturtium officinale;R. BR.;Nasturtium;officinale;;;;;R. BR.;;;;;Brassicaceae;;;25072.0;25072.0;;F;DUKE;10-DEC-97;15-JUL-05
+1361;657;Nelumbo nucifera;L.;Nelumbo;nucifera;;;;;L.;;;;;Nelumbonaceae;;177001001.0;25110.0;25110.0;;F;DUKE;10-DEC-97;15-JUL-05
+1362;1919;Neonotonia wightii;;Neonotonia;wightii;;;;;;;;;;Fabaceae;;;104937.0;104937.0;;M;DUKE;10-DEC-97;15-JUL-05
+1363;658;Nepeta cataria;L.;Nepeta;cataria;;;;;L.;;;;;Lamiaceae;;538038001.0;25165.0;25165.0;;G;DUKE;10-DEC-97;15-JUL-05
+1365;659;Nerium oleander;L.;Nerium;oleander;;;;;L.;;;;;Apocynaceae;;513139001.0;25229.0;25229.0;;M;DUKE;10-DEC-97;15-JUL-05
+1371;663;Nicotiana tabacum;L.;Nicotiana;tabacum;;;;;L.;;;;;Solanaceae;;;25309.0;25309.0;;M;DUKE;10-DEC-97;15-JUL-05
+1372;664;Nigella sativa;L.;Nigella;sativa;;;;;L.;;;;;Ranunculaceae;;189010001.0;25337.0;25337.0;;M;DUKE;10-DEC-97;15-JUL-05
+1377;1779;Ocimum americanum;;Ocimum;americanum;;;;;;;;;;Lamiaceae;;;402305.0;402305.0;;M;DUKE;10-DEC-97;15-JUL-05
+1378;667;Ocimum basilicum;L.;Ocimum;basilicum;;;;;L.;;;;;Lamiaceae;Synonyms:O.basilicum var. glabratum, O. basilicum var. majus;538157001.0;25478.0;25478.0;;F;DUKE;10-DEC-97;15-JUL-05
+1379;2019;Ocimum canum;SIMS;Ocimum;canum;;;;;SIMS;;;;;Lamiaceae;Ocimum americanum L.;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1380;1287;Ocimum gratissimum;L.;Ocimum;gratissimum;;;;;L.;;;;;Lamiaceae;;;25483.0;25483.0;;G;DUKE;10-DEC-97;15-JUL-05
+1382;2021;Ocimum sanctum;L.;Ocimum;sanctum;;;;;L.;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1385;2024;Ocimum tenuiflorum;L.;Ocimum;tenuiflorum;;;;;L.;;;;;Lamiaceae;;;25491.0;25491.0;;M;DUKE;10-DEC-97;15-JUL-05
+1389;671;Oenanthe javanica;(BLUME) DC.;Oenanthe;javanica;;;;;(BLUME) DC.;;;;;Apiaceae;;464154001.0;102119.0;102119.0;;M;DUKE;10-DEC-97;15-JUL-05
+1390;672;Oenothera biennis;L.;Oenothera;biennis;;;;;L.;;;;;Onagraceae;;456014002.0;25521.0;25521.0;;F;DUKE;10-DEC-97;15-JUL-05
+1392;674;Ophiopogon japonicus;KER-GAWL.;Ophiopogon;japonicus;;;;;KER-GAWL.;;;;;Liliaceae;;73199001.0;25788.0;25788.0;;M;DUKE;10-DEC-97;15-JUL-05
+1394;676;Opuntia ficus-indica;(L.) MILL.;Opuntia;ficus-indica;;;;;(L.) MILL.;;;;;Cactaceae;;;25840.0;25840.0;;F;DUKE;10-DEC-97;15-JUL-05
+1409;682;Oryza sativa;L.;Oryza;sativa;;;;;L.;;;;;Poaceae;;38093002.0;26077.0;26077.0;;F;DUKE;10-DEC-97;15-JUL-05
+1413;686;Pachyrhizus erosus;RICH. ex DC.;Pachyrhizus;erosus;;;;;RICH. ex DC.;;;;;Fabaceae;;;26286.0;26286.0;;F;DUKE;10-DEC-97;15-JUL-05
+1415;687;Paeonia lactiflora;PALL.;Paeonia;lactiflora;;;;;PALL.;;;;;Paeoniaceae;;;105031.0;105031.0;;M;DUKE;10-DEC-97;15-JUL-05
+1420;691;Panax ginseng;C. A. MEYER;Panax;ginseng;;;;;C. A. MEYER;;;;;Araliaceae;;;26379.0;26379.0;;G;DUKE;10-DEC-97;15-JUL-05
+1426;1319;Panicum maximum;JACQ.;Panicum;maximum;;;;;JACQ.;;;;;Poaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1428;697;Papaver somniferum;L.;Papaver;somniferum;;;;;L.;;;;;Papaveraceae;;224021002.0;406377.0;406377.0;;F;DUKE;10-DEC-97;15-JUL-05
+1432;1243;Passiflora edulis;SIMS;Passiflora;edulis;;;;;SIMS;;;;;Passifloraceae;;;26962.0;26962.0;;;DUKE;10-DEC-97;15-JUL-05
+1433;1244;Passiflora foetida;L.;Passiflora;foetida;;;;;L.;;;;;Passifloraceae;;;26968.0;26968.0;;;DUKE;10-DEC-97;15-JUL-05
+1434;700;Passiflora incarnata;L.;Passiflora;incarnata;;;;;L.;;;;;Passifloraceae;;424010007.0;26977.0;26977.0;;F;DUKE;10-DEC-97;15-JUL-05
+1435;1245;Passiflora ligularis;JUSS.;Passiflora;ligularis;;;;;JUSS.;;;;;Passifloraceae;;;26982.0;26982.0;;;DUKE;10-DEC-97;15-JUL-05
+1437;701;Passiflora quadrangularis;L.;Passiflora;quadrangularis;;;;;L.;;;;;Passifloraceae;;;27001.0;27001.0;;F;DUKE;10-DEC-97;15-JUL-05
+1438;1321;Passiflora suberosa;L.;Passiflora;suberosa;;;;;L.;;;;;Passifloraceae;;;27009.0;27009.0;;;DUKE;10-DEC-97;15-JUL-05
+1442;705;Pausinystalia johimbe;(K. SCHUM.) PIERRE;Pausinystalia;johimbe;;;;;(K. SCHUM.) PIERRE;;;;;Rubiaceae;;;402661.0;402661.0;;M;DUKE;10-DEC-97;15-JUL-05
+1444;1323;Pavonia spinifex;(L.) CAV.;Pavonia;spinifex;;;;;(L.) CAV.;;;;;Malvaceae;;;27060.0;27060.0;;;DUKE;10-DEC-97;15-JUL-05
+1451;1247;Pereskia aculeata;MILL.;Pereskia;aculeata;;;;;MILL.;;;;;Cactaceae;;;27356.0;27356.0;;;DUKE;10-DEC-97;15-JUL-05
+1454;709;Perilla frutescens;(L.) BRITTON;Perilla;frutescens;;;;;(L.) BRITTON;;;;;Lamiaceae;;538123001.0;27364.0;27364.0;;F;DUKE;10-DEC-97;15-JUL-05
+1455;710;Persea americana;MILLER;Persea;americana;;;;;MILLER;;;;;Lauraceae;;;27393.0;27393.0;;F;DUKE;10-DEC-97;15-JUL-05
+1458;1280;Petiveria alliacea;;Petiveria;alliacea;;;;;;;;;;Phytolaccaceae;;;431298.0;431298.0;;M;DUKE;10-DEC-97;15-JUL-05
+1459;712;Petroselinum crispum;(MILLER) NYMAN EX A. W. HILLL;Petroselinum;crispum;;;;;(MILLER) NYMAN EX A. W. HILLL;;;;;Apiaceae;;464114001.0;27448.0;27448.0;;F;DUKE;10-DEC-97;15-JUL-05
+1464;2174;Phaseolus aborigineus;BURKART;Phaseolus;aborigineus;;;;;BURKART;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1466;717;Phaseolus coccineus;L.;Phaseolus;coccineus;;;;;L.;;;;;Fabaceae;;283467003.0;27563.0;27563.0;;F;DUKE;10-DEC-97;15-JUL-05
+1467;718;Phaseolus lunatus;L.;Phaseolus;lunatus;;;;;L.;;;;;Fabaceae;;;27591.0;27591.0;;F;DUKE;10-DEC-97;15-JUL-05
+1471;1617;Phillyrea latifolia;;Phillyrea;latifolia;;;;;;;;;;Oleaceae;;;27721.0;27721.0;;M;DUKE;10-DEC-97;15-JUL-05
+1474;723;Phyllanthus acidus;(L.) SKEELS;Phyllanthus;acidus;;;;;(L.) SKEELS;;;;;Euphorbiaceae;;;28113.0;28113.0;;F;DUKE;10-DEC-97;15-JUL-05
+1475;2101;Phyllanthus amarus;SCHUMACH. & THONN.;Phyllanthus;amarus;;;;;SCHUMACH. & THONN.;;;;;Euphorbiaceae;;;401814.0;401814.0;;M;DUKE;10-DEC-97;15-JUL-05
+1477;724;Phyllanthus emblica;L.;Phyllanthus;emblica;;;;;L.;;;;;Euphorbiaceae;;328014002.0;28119.0;28119.0;;F;DUKE;10-DEC-97;15-JUL-05
+1479;725;Phyllanthus niruri;L.;Phyllanthus;niruri;;;;;L.;;;;;Euphorbiaceae;Hopelessly confused with P. amarus and P. fraternus;328014004.0;28124.0;28124.0;;M;DUKE;10-DEC-97;15-JUL-05
+1480;1620;Phyllanthus reticulatus;;Phyllanthus;reticulatus;;;;;;;;;;Euphorbiaceae;;;28128.0;28128.0;;M;DUKE;10-DEC-97;15-JUL-05
+1482;1249;Physalis angulata;L.;Physalis;angulata;;;;;L.;;;;;Solanaceae;;;102388.0;102388.0;;;DUKE;10-DEC-97;15-JUL-05
+1484;728;Physalis peruviana;L.;Physalis;peruviana;;;;;L.;;;;;Solanaceae;;540025002.0;102390.0;102390.0;;M;DUKE;10-DEC-97;15-JUL-05
+1487;1146;Phytelephas macrocarpa;L.;Phytelephas;macrocarpa;;;;;L.;;;;;Arecaceae;;;28245.0;28245.0;;F;DUKE;10-DEC-97;15-JUL-05
+1488;730;Phytolacca americana;L.;Phytolacca;americana;;;;;L.;;;;;Phytolaccaceae;;161017001.0;28252.0;28252.0;;G;DUKE;10-DEC-97;15-JUL-05
+1492;733;Picrasma excelsa;(SW.) PLANCHON;Picrasma;excelsa;;;;;(SW.) PLANCHON;;;;;Simaroubaceae;;;102590.0;102590.0;;M;DUKE;10-DEC-97;15-JUL-05
+1494;735;Picrorhiza kurrooa;ROYLE EX BENTH.;Picrorhiza;kurrooa;;;;;ROYLE EX BENTH.;;;;;Scrophulariaceae;;;28345.0;28345.0;;M;DUKE;10-DEC-97;15-JUL-05
+1499;740;Pimenta dioica;(L.) MERR.;Pimenta;dioica;;;;;(L.) MERR.;;;;;Myrtaceae;Syn:P.officinalis,P.pimenta,P.vulgaris,Myrtus dioica,M.pimen;453014001.0;28390.0;28390.0;;F;DUKE;10-DEC-97;15-JUL-05
+1500;741;Pimenta racemosa;(MILL.) J. W. MOORE;Pimenta;racemosa;;;;;(MILL.) J. W. MOORE;;;;;Myrtaceae;;;28393.0;28393.0;;F;DUKE;10-DEC-97;15-JUL-05
+1501;742;Pimpinella anisum;L.;Pimpinella;anisum;;;;;L.;;;;;Apiaceae;Synonyms: Anisum vulgare Gaertn.;464141001.0;28395.0;28395.0;;F;DUKE;10-DEC-97;15-JUL-05
+1508;1970;Pinus insularis;ENDL.;Pinus;insularis;;;;;ENDL.;;;;;Pinaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1509;1083;Pinus kesiya;Royle;Pinus;kesiya;;;;;Royle;;;;;Pinaceae;;;28462.0;28462.0;;M;DUKE;10-DEC-97;15-JUL-05
+1513;1084;Pinus roxburghii;SARG.;Pinus;roxburghii;;;;;SARG.;;;;;Pinaceae;;;28538.0;28538.0;;M;DUKE;10-DEC-97;15-JUL-05
+1517;750;Piper angustifolium;RUIZ & PAV.;Piper;angustifolium;;;;;RUIZ & PAV.;;;;;Piperaceae;;108004043.0;400680.0;400680.0;;M;DUKE;10-DEC-97;15-JUL-05
+1518;751;Piper auritum;HBK.;Piper;auritum;;;;;HBK.;;;;;Piperaceae;;108004008.0;312915.0;312915.0;;M;DUKE;10-DEC-97;15-JUL-05
+1519;752;Piper betel;L.;Piper;betel;;;;;L.;;;;;Piperaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1520;753;Piper cubeba;L. f.;Piper;cubeba;;;;;L. f.;;;;;Piperaceae;;;28578.0;28578.0;;G;DUKE;10-DEC-97;15-JUL-05
+1521;754;Piper methysticum;G. FORSTER;Piper;methysticum;;;;;G. FORSTER;;;;;Piperaceae;;;28587.0;28587.0;;M;DUKE;10-DEC-97;15-JUL-05
+1522;755;Piper nigrum;L.;Piper;nigrum;;;;;L.;;;;;Piperaceae;;108044004.0;28589.0;28589.0;;F;DUKE;10-DEC-97;15-JUL-05
+1525;1925;Piscidia erythrina;;Piscidia;erythrina;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1526;756;Piscidia piscipula;SARG.;Piscidia;piscipula;;;;;SARG.;;;;;Fabaceae;;;28636.0;28636.0;;M;DUKE;10-DEC-97;15-JUL-05
+1529;759;Pisum sativum;L.;Pisum;sativum;;;;;L.;;;;;Fabaceae;;283421001.0;300472.0;300472.0;;F;DUKE;10-DEC-97;15-JUL-05
+1530;760;Plantago asiatica;L.;Plantago;asiatica;;;;;L.;;;;;Plantaginaceae;;;402667.0;402667.0;;G;DUKE;10-DEC-97;15-JUL-05
+1531;761;Plantago major;L.;Plantago;major;;;;;L.;;;;;Plantaginaceae;;;28788.0;28788.0;;G;DUKE;10-DEC-97;15-JUL-05
+1532;762;Plantago ovata;FORSSK.;Plantago;ovata;;;;;FORSSK.;;;;;Plantaginaceae;;558001008.0;28790.0;28790.0;;G;DUKE;10-DEC-97;15-JUL-05
+1540;1434;Plectranthus amboinicus;(LOUR.) SPRENGEL;Plectranthus;amboinicus;;;;;(LOUR.) SPRENGEL;;;;;Lamiaceae;Coleus amboinicus is a synonym;;317147.0;317147.0;;M;DUKE;10-DEC-97;15-JUL-05
+1545;1325;Pluchea carolinensis;(JACQ.) G. DON;Pluchea;carolinensis;;;;;(JACQ.) G. DON;;;;;Asteraceae;;;447626.0;447626.0;;;DUKE;10-DEC-97;15-JUL-05
+1546;765;Plumeria acutifolia;POIR.;Plumeria;acutifolia;;;;;POIR.;;;;;Apocynaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1547;1787;Plumeria obtusa;;Plumeria;obtusa;;;;;;;;;;Apocynaceae;;;28883.0;28883.0;;M;DUKE;10-DEC-97;15-JUL-05
+1552;767;Pogostemon cablin;(BLANCO) BENTH.;Pogostemon;cablin;;;;;(BLANCO) BENTH.;;;;;Lamiaceae;;538128001.0;29154.0;29154.0;;M;DUKE;10-DEC-97;15-JUL-05
+1553;768;Polianthes tuberosa;L.;Polianthes;tuberosa;;;;;L.;;;;;Agavaceae;;80052001.0;29184.0;29184.0;;M;DUKE;10-DEC-97;15-JUL-05
+1555;769;Polygala senega;L.;Polygala;senega;;;;;L.;;;;;Polygalaceae;;;29219.0;29219.0;;M;DUKE;10-DEC-97;15-JUL-05
+1557;771;Polygonum aviculare;L.;Polygonum;aviculare;;;;;L.;;;;;Polygonaceae;;149018002.0;29238.0;29238.0;;M;DUKE;10-DEC-97;15-JUL-05
+1559;773;Polygonum hydropiper;L.;Polygonum;hydropiper;;;;;L.;;;;;Polygonaceae;;;316795.0;316795.0;;M;DUKE;10-DEC-97;15-JUL-05
+1562;1788;Polygonum plebeium;;Polygonum;plebeium;;;;;;;;;;Polygonaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1563;776;Polymnia edulis;WEDDELL;Polymnia;edulis;;;;;WEDDELL;;;;;Asteraceae;;;;;;G;DUKE;10-DEC-97;15-JUL-05
+1564;777;Polypodium aureum;L.;Polypodium;aureum;;;;;L.;;;;;Polypodiaceae;;18005.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1567;1789;Pongamia pinnata;;Pongamia;pinnata;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1572;783;Portulaca oleracea;L.;Portulaca;oleracea;;;;;L.;;;;;Portulacaceae;;;29453.0;29453.0;;F;DUKE;10-DEC-97;15-JUL-05
+1576;1253;Pouteria campechiana;BAEHNI;Pouteria;campechiana;;;;;BAEHNI;;;;;Sapotaceae;;;102607.0;102607.0;;;DUKE;10-DEC-97;15-JUL-05
+1579;1623;Premna integrifolia;;Premna;integrifolia;;;;;;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1580;785;Prosopis juliflora;(SW.) DC.;Prosopis;juliflora;;;;;(SW.) DC.;;;;;Fabaceae;;;313263.0;313263.0;;G;DUKE;10-DEC-97;15-JUL-05
+1583;2160;Prunus africana;(HOOK. F.) KALKM.;Prunus;africana;;;;;(HOOK. F.) KALKM.;;;;;Rosaceae;Pygeum africanum is a synonym;;29828.0;29828.0;;M;DUKE;10-DEC-97;15-JUL-05
+1584;787;Prunus armeniaca;L.;Prunus;armeniaca;;;;;L.;;;;;Rosaceae;;274078001.0;29841.0;29841.0;;F;DUKE;10-DEC-97;15-JUL-05
+1588;790;Prunus dulcis;(MILLER) D. A. WEBB;Prunus;dulcis;;;;;(MILLER) D. A. WEBB;;;;;Rosaceae;;274078007.0;29890.0;29890.0;;F;DUKE;10-DEC-97;15-JUL-05
+1594;792;Prunus persica;(L.) BATSCH;Prunus;persica;;;;;(L.) BATSCH;;;;;Rosaceae;;274078010.0;30065.0;30065.0;;F;DUKE;10-DEC-97;15-JUL-05
+1597;794;Prunus spinosa;L.;Prunus;spinosa;;;;;L.;;;;;Rosaceae;;;30116.0;30116.0;;F;DUKE;10-DEC-97;15-JUL-05
+1604;795;Psidium cattleianum;SABINE;Psidium;cattleianum;;;;;SABINE;;;;;Myrtaceae;;453007001.0;30200.0;30200.0;;F;DUKE;10-DEC-97;15-JUL-05
+1605;796;Psidium guajava;L.;Psidium;guajava;;;;;L.;;;;;Myrtaceae;;;30205.0;30205.0;;F;DUKE;10-DEC-97;15-JUL-05
+1606;797;Psophocarpus tetragonolobus;(L.) DC.;Psophocarpus;tetragonolobus;;;;;(L.) DC.;;;;;Fabaceae;;283480001.0;30222.0;30222.0;;F;DUKE;10-DEC-97;15-JUL-05
+1607;798;Psoralea corylifolia;L.;Psoralea;corylifolia;;;;;L.;;;;;Fabaceae;Synonym of Cullen corylifolium (L.) Medik.;283269007.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1609;1625;Psychotria adenophylla;;Psychotria;adenophylla;;;;;;;;;;Rubiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1610;800;Pteridium aquilinum;(L.) KUHN;Pteridium;aquilinum;;;;;(L.) KUHN;;;;;Dennstaedtiaceae;;;312948.0;312948.0;;M;DUKE;10-DEC-97;15-JUL-05
+1611;801;Pterocarpus marsupium;ROXB.;Pterocarpus;marsupium;;;;;ROXB.;;;;;Fabaceae;;283394009.0;30289.0;30289.0;;M;DUKE;10-DEC-97;15-JUL-05
+1612;802;Pterocarpus santalinus;L. f.;Pterocarpus;santalinus;;;;;L. f.;;;;;Fabaceae;;283394002.0;30293.0;30293.0;;M;DUKE;10-DEC-97;15-JUL-05
+1613;1626;Pterospermum acerifolium;;Pterospermum;acerifolium;;;;;;;;;;Sterculiaceae;;;312952.0;312952.0;;M;DUKE;10-DEC-97;15-JUL-05
+1615;1628;Pterospermum suberifolium;;Pterospermum;suberifolium;;;;;;;;;;Sterculiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1616;1629;Pterospermum xylocarpum;;Pterospermum;xylocarpum;;;;;;;;;;Sterculiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1619;1937;Pueraria montana;(LOUR.) MERR.;Pueraria;montana;;;;;(LOUR.) MERR.;;;;;Fabaceae;;;30355.0;30355.0;;M;DUKE;10-DEC-97;15-JUL-05
+1620;1938;Pueraria phaseoloides;(ROXB.) BENTH.;Pueraria;phaseoloides;;;;;(ROXB.) BENTH.;;;;;Fabaceae;;;30357.0;30357.0;;M;DUKE;10-DEC-97;15-JUL-05
+1621;805;Pueraria pseudohirsuta;TANG & WANG;Pueraria;pseudohirsuta;;;;;TANG & WANG;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1623;807;Punica granatum;L.;Punica;granatum;;;;;L.;;;;;Punicaceae;;;30372.0;30372.0;;F;DUKE;10-DEC-97;15-JUL-05
+1645;826;Pyrus communis;L.;Pyrus;communis;;;;;L.;;;;;Rosaceae;;274023001.0;30474.0;30474.0;;F;DUKE;10-DEC-97;15-JUL-05
+1647;827;Quassia amara;L.;Quassia;amara;;;;;L.;;;;;Simaroubaceae;;;30632.0;30632.0;;M;DUKE;10-DEC-97;15-JUL-05
+1648;828;Quercus alba;L.;Quercus;alba;;;;;L.;;;;;Fagaceae;;;316805.0;316805.0;;M;DUKE;10-DEC-97;15-JUL-05
+1651;829;Quercus infectoria;OLIV.;Quercus;infectoria;;;;;OLIV.;;;;;Fagaceae;;;30697.0;30697.0;;M;DUKE;10-DEC-97;15-JUL-05
+1654;831;Quercus robur;L.;Quercus;robur;;;;;L.;;;;;Fagaceae;;;30739.0;30739.0;;M;DUKE;10-DEC-97;15-JUL-05
+1660;837;Quisqualis indica;L.;Quisqualis;indica;;;;;L.;;;;;Combretaceae;;451005001.0;30779.0;30779.0;;M;DUKE;10-DEC-97;15-JUL-05
+1663;839;Raphanus sativus;L.;Raphanus;sativus;;;;;L.;;;;;Brassicaceae;;226088001.0;30857.0;30857.0;;F;DUKE;10-DEC-97;15-JUL-05
+1664;840;Rauvolfia serpentina;(L.) BENTH. ex KURZ;Rauvolfia;serpentina;;;;;(L.) BENTH. ex KURZ;;;;;Apocynaceae;;513071001.0;30895.0;30895.0;;M;DUKE;10-DEC-97;15-JUL-05
+1665;841;Rauvolfia tetraphylla;L.;Rauvolfia;tetraphylla;;;;;L.;;;;;Apocynaceae;;513071003.0;30896.0;30896.0;;M;DUKE;10-DEC-97;15-JUL-05
+1666;842;Rauvolfia vomitoria;AFZEL.;Rauvolfia;vomitoria;;;;;AFZEL.;;;;;Apocynaceae;;;30897.0;30897.0;;M;DUKE;10-DEC-97;15-JUL-05
+1667;843;Rehmannia glutinosa;(GAERTN.) LIBOSCH.;Rehmannia;glutinosa;;;;;(GAERTN.) LIBOSCH.;;;;;Scrophulariaceae;;;30911.0;30911.0;;M;DUKE;10-DEC-97;15-JUL-05
+1670;845;Rheum officinale;BAILLON;Rheum;officinale;;;;;BAILLON;;;;;Polygonaceae;;149014001.0;31117.0;31117.0;;M;DUKE;10-DEC-97;15-JUL-05
+1671;846;Rheum palmatum;L.;Rheum;palmatum;;;;;L.;;;;;Polygonaceae;;149014002.0;31118.0;31118.0;;M;DUKE;10-DEC-97;15-JUL-05
+1673;848;Rhizophora mangle;L.;Rhizophora;mangle;;;;;L.;;;;;Rhizophoraceae;;449004001.0;105382.0;105382.0;;M;DUKE;10-DEC-97;15-JUL-05
+1674;1636;Rhizophora mucronata;;Rhizophora;mucronata;;;;;;;;;;Rhizophoraceae;;;31152.0;31152.0;;M;DUKE;10-DEC-97;15-JUL-05
+1676;1185;Rhododendron arboreum;SM.;Rhododendron;arboreum;;;;;SM.;;;;;Ericaceae;;;477.0;477.0;;;DUKE;10-DEC-97;15-JUL-05
+1678;850;Rhododendron ferrugineum;L.;Rhododendron;ferrugineum;;;;;L.;;;;;Ericaceae;;;5110.0;5110.0;;M;DUKE;10-DEC-97;15-JUL-05
+1681;851;Rhododendron molle;(BL.) G.DON;Rhododendron;molle;;;;;(BL.) G.DON;;;;;Ericaceae;;;31461.0;31461.0;;M;DUKE;10-DEC-97;15-JUL-05
+1684;1640;Rhodomyrtus tomentosa;;Rhodomyrtus;tomentosa;;;;;;;;;;Myrtaceae;;;31664.0;31664.0;;M;DUKE;10-DEC-97;15-JUL-05
+1686;1327;Rhoeo spathacea;(SW.) STEARN;Rhoeo;spathacea;;;;;(SW.) STEARN;;;;;Commelinaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1689;855;Rhus glabra;L.;Rhus;glabra;;;;;L.;;;;;Anacardiaceae;;;31689.0;31689.0;;M;DUKE;10-DEC-97;15-JUL-05
+1692;1939;Rhynchosia acuminatifolia;;Rhynchosia;acuminatifolia;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1696;857;Rhynchosia minima;DC.;Rhynchosia;minima;;;;;DC.;;;;;Fabaceae;;;31750.0;31750.0;;M;DUKE;10-DEC-97;15-JUL-05
+1699;1945;Rhynchosia volubilis;LOUR.;Rhynchosia;volubilis;;;;;LOUR.;;;;;Fabaceae;;;31763.0;31763.0;;M;DUKE;10-DEC-97;15-JUL-05
+1703;861;Ricinus communis;L.;Ricinus;communis;;;;;L.;;;;;Euphorbiaceae;;;31896.0;31896.0;;M;DUKE;10-DEC-97;15-JUL-05
+1706;1258;Rollinia mucosa;BAILL.;Rollinia;mucosa;;;;;BAILL.;;;;;Annonaceae;;;32035.0;32035.0;;;DUKE;10-DEC-97;15-JUL-05
+1708;865;Rosa canina;L.;Rosa;canina;;;;;L.;;;;;Rosaceae;;;5309.0;5309.0;;G;DUKE;10-DEC-97;15-JUL-05
+1710;867;Rosa damascena;MILLER;Rosa;damascena;;;;;MILLER;;;;;Rosaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1714;870;Rosa multiflora;THUNB. ex MURRAY;Rosa;multiflora;;;;;THUNB. ex MURRAY;;;;;Rosaceae;;;32108.0;32108.0;;M;DUKE;10-DEC-97;15-JUL-05
+1718;873;Rosmarinus officinalis;L.;Rosmarinus;officinalis;;;;;L.;;;;;Lamiaceae;;538010001.0;32207.0;32207.0;;G;DUKE;10-DEC-97;15-JUL-05
+1723;1643;Roylea elegans;;Roylea;elegans;;;;;;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1724;874;Rubia cordifolia;L.;Rubia;cordifolia;;;;;L.;;;;;Rubiaceae;;;32241.0;32241.0;;M;DUKE;10-DEC-97;15-JUL-05
+1727;877;Rubus fruticosus;;Rubus;fruticosus;;;;;;;;;;Rosaceae;;274036006.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+1728;878;Rubus idaeus;L.;Rubus;idaeus;;;;;L.;;;;;Rosaceae;;;32348.0;32348.0;;F;DUKE;10-DEC-97;15-JUL-05
+1729;1328;Ruellia tuberosa;L.;Ruellia;tuberosa;;;;;L.;;;;;Acanthaceae;;;32511.0;32511.0;;;DUKE;10-DEC-97;15-JUL-05
+1730;879;Rumex acetosa;L.;Rumex;acetosa;;;;;L.;;;;;Polygonaceae;;149012011.0;32518.0;32518.0;;F;DUKE;10-DEC-97;15-JUL-05
+1731;880;Rumex acetosella;L.;Rumex;acetosella;;;;;L.;;;;;Polygonaceae;;149012001.0;32519.0;32519.0;;M;DUKE;10-DEC-97;15-JUL-05
+1732;881;Rumex crispus;L.;Rumex;crispus;;;;;L.;;;;;Polygonaceae;;;32530.0;32530.0;;M;DUKE;10-DEC-97;15-JUL-05
+1735;884;Ruta graveolens;L.;Ruta;graveolens;;;;;L.;;;;;Rutaceae;;302027001.0;32578.0;32578.0;;G;DUKE;10-DEC-97;15-JUL-05
+1748;888;Salvia officinalis;L.;Salvia;officinalis;;;;;L.;;;;;Lamiaceae;;538081002.0;32950.0;32950.0;;F;DUKE;10-DEC-97;15-JUL-05
+1751;2034;Salvia splendens;;Salvia;splendens;;;;;;;;;;Lamiaceae;;;70596.0;70596.0;;M;DUKE;10-DEC-97;15-JUL-05
+1754;892;Sambucus nigra;L.;Sambucus;nigra;;;;;L.;;;;;Adoxaceae;Also placed in families Sambucaceae and Adoxaceae;;32994.0;32994.0;;F;DUKE;10-DEC-97;15-JUL-05
+1756;1282;Sambucus simpsonii;REHDER;Sambucus;simpsonii;;;;;REHDER;;;;;Caprifoliaceae;;;;;;G;DUKE;10-DEC-97;15-JUL-05
+1760;896;Sansevieria trifasciata;PRAIN;Sansevieria;trifasciata;;;;;PRAIN;;;;;Agavaceae;;73169001.0;33072.0;33072.0;;M;DUKE;10-DEC-97;15-JUL-05
+1761;897;Santalum album;L.;Santalum;album;;;;;L.;;;;;Santalaceae;;134015001.0;33075.0;33075.0;;M;DUKE;10-DEC-97;15-JUL-05
+1771;903;Satureja hortensis;L.;Satureja;hortensis;;;;;L.;;;;;Lamiaceae;;538096001.0;33176.0;33176.0;;F;DUKE;10-DEC-97;15-JUL-05
+1779;906;Saussurea lappa;C. B. CLARKE;Saussurea;lappa;;;;;C. B. CLARKE;;;;;Asteraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1780;1329;Sauvagesia erecta;L.;Sauvagesia;erecta;;;;;L.;;;;;Ochnaceae;;;;;;;DUKE;10-DEC-97;15-JUL-05
+1783;1802;Schefflera venulosa;;Schefflera;venulosa;;;;;;;;;;Araliaceae;;;70648.0;70648.0;;M;DUKE;10-DEC-97;15-JUL-05
+1784;907;Schinus molle;L.;Schinus;molle;;;;;L.;;;;;Anacardiaceae;;338040001.0;70668.0;70668.0;;M;DUKE;10-DEC-97;15-JUL-05
+1786;909;Schisandra chinensis;(TURCZ.) BAILL.;Schisandra;chinensis;;;;;(TURCZ.) BAILL.;;;;;Schisandraceae;;;70678.0;70678.0;;M;DUKE;10-DEC-97;15-JUL-05
+1788;1649;Schleichera oleosa;;Schleichera;oleosa;;;;;;;;;;Sapindaceae;;;33252.0;33252.0;;M;DUKE;10-DEC-97;15-JUL-05
+1792;1651;Scirpus tuberosus;;Scirpus;tuberosus;;;;;;;;;;Cyperaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1794;1804;Scoparia dulcis;;Scoparia;dulcis;;;;;;;;;;Scrophulariaceae;;;33402.0;33402.0;;M;DUKE;10-DEC-97;15-JUL-05
+1797;915;Scutellaria baicalensis;GEORGI;Scutellaria;baicalensis;;;;;GEORGI;;;;;Lamiaceae;;;33424.0;33424.0;;M;DUKE;10-DEC-97;15-JUL-05
+1799;917;Scutellaria discolor;COLEBR.;Scutellaria;discolor;;;;;COLEBR.;;;;;Lamiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1807;921;Sechium edule;(JACQ.) SW.;Sechium;edule;;;;;(JACQ.) SW.;;;;;Cucurbitaceae;;;33453.0;33453.0;;F;DUKE;10-DEC-97;15-JUL-05
+1811;924;Senna alata;(L.) ROXB.;Senna;alata;;;;;(L.) ROXB.;;;;;Fabaceae;;;100063.0;100063.0;;M;DUKE;10-DEC-97;15-JUL-05
+1812;1330;Senna alexandrina;P. MILLER;Senna;alexandrina;;;;;P. MILLER;;;;;Fabaceae;Cassia senna is a synonym;;100067.0;100067.0;;;DUKE;10-DEC-97;15-JUL-05
+1814;925;Senna obtusifolia;(L.) H.IRWIN & BARNEBY;Senna;obtusifolia;;;;;(L.) H.IRWIN & BARNEBY;;;;;Fabaceae;;;100044.0;100044.0;;M;DUKE;10-DEC-97;15-JUL-05
+1815;926;Senna occidentalis;(L.) H. IRWIN & BARNEBY;Senna;occidentalis;;;;;(L.) H. IRWIN & BARNEBY;;;;;Fabaceae;;;100059.0;100059.0;;M;DUKE;10-DEC-97;15-JUL-05
+1816;927;Serenoa repens;(W. BARTRAM) SMALL;Serenoa;repens;;;;;(W. BARTRAM) SMALL;;;;;Arecaceae;;;103108.0;103108.0;;M;DUKE;10-DEC-97;15-JUL-05
+1817;928;Sesamum indicum;L.;Sesamum;indicum;;;;;L.;;;;;Pedaliaceae;Synonyms: Sesamum mulayanum N. C. Nair, Sesamum orientale L.;;33749.0;33749.0;;F;DUKE;10-DEC-97;15-JUL-05
+1826;1661;Shorea zeylanica;;Shorea;zeylanica;;;;;;;;;;Dipterocarpaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1828;929;Sida rhombifolia;L.;Sida;rhombifolia;;;;;L.;;;;;Malvaceae;;;33900.0;33900.0;;M;DUKE;10-DEC-97;15-JUL-05
+1836;930;Siegesbeckia orientalis;L.;Siegesbeckia;orientalis;;;;;L.;;;;;Asteraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1837;931;Silybum marianum;(L.) GAERTN.;Silybum;marianum;;;;;(L.) GAERTN.;;;;;Asteraceae;;580735001.0;33952.0;33952.0;;G;DUKE;10-DEC-97;15-JUL-05
+1843;932;Simarouba amara;AUBL.;Simarouba;amara;;;;;AUBL.;;;;;Simaroubaceae;;;33956.0;33956.0;;M;DUKE;10-DEC-97;15-JUL-05
+1846;935;Sinapis alba;L.;Sinapis;alba;;;;;L.;;;;;Brassicaceae;;226083001.0;33963.0;33963.0;;F;DUKE;10-DEC-97;15-JUL-05
+1850;937;Smilax china;L.;Smilax;china;;;;;L.;;;;;Smilacaceae;;;34517.0;34517.0;;M;DUKE;10-DEC-97;15-JUL-05
+1853;1806;Solanum aviculare;;Solanum;aviculare;;;;;;;;;;Solanaceae;;;100820.0;100820.0;;M;DUKE;10-DEC-97;15-JUL-05
+1855;940;Solanum dulcamara;L.;Solanum;dulcamara;;;;;L.;;;;;Solanaceae;;540031018.0;101313.0;101313.0;;M;DUKE;10-DEC-97;15-JUL-05
+1856;1807;Solanum laciniatum;;Solanum;laciniatum;;;;;;;;;;Solanaceae;;;101514.0;101514.0;;M;DUKE;10-DEC-97;15-JUL-05
+1857;941;Solanum mammosum;L.;Solanum;mammosum;;;;;L.;;;;;Solanaceae;;540031041.0;101356.0;101356.0;;M;DUKE;10-DEC-97;15-JUL-05
+1858;942;Solanum melongena;L.;Solanum;melongena;;;;;L.;;;;;Solanaceae;;540031011.0;101312.0;101312.0;;F;DUKE;10-DEC-97;15-JUL-05
+1859;943;Solanum nigrum;L.;Solanum;nigrum;;;;;L.;;;;;Solanaceae;;540031013.0;310124.0;310124.0;;M;DUKE;10-DEC-97;15-JUL-05
+1862;944;Solanum torvum;SW.;Solanum;torvum;;;;;SW.;;;;;Solanaceae;;;101441.0;101441.0;;M;DUKE;10-DEC-97;15-JUL-05
+1863;945;Solanum tuberosum;L.;Solanum;tuberosum;;;;;L.;;;;;Solanaceae;;;103137.0;103137.0;;F;DUKE;10-DEC-97;15-JUL-05
+1866;947;Sonchus oleraceus;L.;Sonchus;oleraceus;;;;;L.;;;;;Asteraceae;;;34939.0;34939.0;;G;DUKE;10-DEC-97;15-JUL-05
+1868;949;Sophora japonica;L.;Sophora;japonica;;;;;L.;;;;;Fabaceae;;283168002.0;;;;M;DUKE;10-DEC-97;15-JUL-05
+1876;1331;Spermacoce assurgens;RUIZ & PAVON;Spermacoce;assurgens;;;;;RUIZ & PAVON;;;;;Rubiaceae;;;417432.0;417432.0;;;DUKE;10-DEC-97;15-JUL-05
+1880;957;Spinacia oleracea;L.;Spinacia;oleracea;;;;;L.;;;;;Chenopodiaceae;Synonyms: S. inermis, S. oleracea var. inermis, & S. spinosa;150015001.0;35256.0;35256.0;;F;DUKE;10-DEC-97;15-JUL-05
+1883;959;Spondias dulcis;FORST.;Spondias;dulcis;;;;;FORST.;;;;;Anacardiaceae;;338010001.0;35331.0;35331.0;;F;DUKE;10-DEC-97;15-JUL-05
+1884;960;Spondias mombin;L.;Spondias;mombin;;;;;L.;;;;;Anacardiaceae;;;35334.0;35334.0;;F;DUKE;10-DEC-97;15-JUL-05
+1885;961;Spondias pinnata;L.;Spondias;pinnata;;;;;L.;;;;;Anacardiaceae;;;35335.0;35335.0;;F;DUKE;10-DEC-97;15-JUL-05
+1893;966;Stachytarpheta cayennensis;VAHL;Stachytarpheta;cayennensis;;;;;VAHL;;;;;Verbenaceae;;;35416.0;35416.0;;M;DUKE;10-DEC-97;15-JUL-05
+1896;968;Stellaria media;(L.) VILLARS;Stellaria;media;;;;;(L.) VILLARS;;;;;Caryophyllaceae;;173001002.0;310864.0;310864.0;;G;DUKE;10-DEC-97;15-JUL-05
+1904;969;Stephania glabra;MIERS;Stephania;glabra;;;;;MIERS;;;;;Menispermaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1905;970;Stephania japonica;MIERS;Stephania;japonica;;;;;MIERS;;;;;Menispermaceae;;;417571.0;417571.0;;M;DUKE;10-DEC-97;15-JUL-05
+1910;1949;Stizolobium deeringianum;;Stizolobium;deeringianum;;;;;;;;;;Fabaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1911;1670;Streblus asper;;Streblus;asper;;;;;;;;;;Moraceae;;;35763.0;35763.0;;M;DUKE;10-DEC-97;15-JUL-05
+1912;1671;Strobilanthes cusia;;Strobilanthes;cusia;;;;;;;;;;Acanthaceae;;;410996.0;410996.0;;M;DUKE;10-DEC-97;15-JUL-05
+1913;1950;Strongylodon macrobotrys;A. GRAY;Strongylodon;macrobotrys;;;;;A. GRAY;;;;;Fabaceae;;;35792.0;35792.0;;M;DUKE;10-DEC-97;15-JUL-05
+1914;975;Strophanthus gratus;(WALLICH & HOOK.) BAILL.;Strophanthus;gratus;;;;;(WALLICH & HOOK.) BAILL.;;;;;Apocynaceae;;513140001.0;35812.0;35812.0;;M;DUKE;10-DEC-97;15-JUL-05
+1915;976;Strophanthus hispidus;A. DC.;Strophanthus;hispidus;;;;;A. DC.;;;;;Apocynaceae;;513140002.0;35814.0;35814.0;;M;DUKE;10-DEC-97;15-JUL-05
+1918;978;Strychnos nux-vomica;L.;Strychnos;nux-vomica;;;;;L.;;;;;Loganiaceae;;503014001.0;35851.0;35851.0;;M;DUKE;10-DEC-97;15-JUL-05
+1919;979;Styrax benzoin;DRYANDER;Styrax;benzoin;;;;;DRYANDER;;;;;Styracaceae;;497002001.0;101794.0;101794.0;;M;DUKE;10-DEC-97;15-JUL-05
+1920;980;Styrax tonkinensis;(PIERRE) CRAIB ex HARTWICH;Styrax;tonkinensis;;;;;(PIERRE) CRAIB ex HARTWICH;;;;;Styracaceae;;497002002.0;101825.0;101825.0;;M;DUKE;10-DEC-97;15-JUL-05
+1921;1672;Suaeda maritima;;Suaeda;maritima;;;;;;;;;;Chenopodiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1923;982;Swertia chirata;BUCH.-HAM.;Swertia;chirata;;;;;BUCH.-HAM.;;;;;Gentianaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1925;984;Symphytum officinale;L.;Symphytum;officinale;;;;;L.;;;;;Boraginaceae;;530053002.0;36020.0;36020.0;;M;DUKE;10-DEC-97;15-JUL-05
+1927;1673;Symplocos racemosa;;Symplocos;racemosa;;;;;;;;;;Symplocaceae;;;432000.0;432000.0;;M;DUKE;10-DEC-97;15-JUL-05
+1930;1339;Synedrella nodiflora;(L.) GAERTN.;Synedrella;nodiflora;;;;;(L.) GAERTN.;;;;;Asteraceae;;;403763.0;403763.0;;;DUKE;10-DEC-97;15-JUL-05
+1933;986;Syzygium aromaticum;(L.) MERR. & L. M. PERRY;Syzygium;aromaticum;;;;;(L.) MERR. & L. M. PERRY;;;;;Myrtaceae;Syns:Caryophyllus aromaticus,Eugenia aromatica,E.carophyll.;453031001.0;50069.0;50069.0;;F;DUKE;10-DEC-97;15-JUL-05
+1934;1262;Syzygium cumini;SKEELS;Syzygium;cumini;;;;;SKEELS;;;;;Myrtaceae;;;36128.0;36128.0;;;DUKE;10-DEC-97;15-JUL-05
+1935;1263;Syzygium jambos;ALSTON;Syzygium;jambos;;;;;ALSTON;;;;;Myrtaceae;;;50070.0;50070.0;;;DUKE;10-DEC-97;15-JUL-05
+1936;1264;Syzygium malaccense;MERR.&PERR;Syzygium;malaccense;;;;;MERR.&PERR;;;;;Myrtaceae;;;70774.0;70774.0;;;DUKE;10-DEC-97;15-JUL-05
+1940;1812;Tacca aspera;;Tacca;aspera;;;;;;;;;;Taccaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1941;989;Tagetes erecta;L.;Tagetes;erecta;;;;;L.;;;;;Asteraceae;;580582002.0;36197.0;36197.0;;M;DUKE;10-DEC-97;15-JUL-05
+1943;991;Tagetes patula;L.;Tagetes;patula;;;;;L.;;;;;Asteraceae;;;36202.0;36202.0;;M;DUKE;10-DEC-97;15-JUL-05
+1945;992;Tamarindus indica;L.;Tamarindus;indica;;;;;L.;;;;;Fabaceae;;;36219.0;36219.0;;F;DUKE;10-DEC-97;15-JUL-05
+1948;995;Taraxacum officinale;WEBER EX F. H. WIGG.;Taraxacum;officinale;;;;;WEBER EX F. H. WIGG.;;;;;Asteraceae;;;;;;G;DUKE;10-DEC-97;15-JUL-05
+1949;996;Taxus baccata;L.;Taxus;baccata;;;;;L.;;;;;Taxaceae;;;80070.0;80070.0;;M;DUKE;10-DEC-97;15-JUL-05
+1952;2171;Taxus sumatrana;;Taxus;sumatrana;;;;;;;;;;Taxaceae;;;415426.0;415426.0;;M;DUKE;10-DEC-97;15-JUL-05
+1953;2172;Taxus wallichiana;;Taxus;wallichiana;;;;;;;;;;Taxaceae;;;410922.0;410922.0;;M;DUKE;10-DEC-97;15-JUL-05
+1955;2173;Taxus yunnanensis;CHENG, CHENG & FU;Taxus;yunnanensis;;;;;CHENG, CHENG & FU;;;;;Taxaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1956;997;Tecoma stans;(L.) HBK;Tecoma;stans;;;;;(L.) HBK;;;;;Bignoniaceae;;;80111.0;80111.0;;M;DUKE;10-DEC-97;15-JUL-05
+1957;1431;Tectona grandis;L.F;Tectona;grandis;;;;;L.F;;;;;Lamiaceae;;;80123.0;80123.0;;M;DUKE;10-DEC-97;15-JUL-05
+1959;998;Tephrosia candida;(ROXB.) DC.;Tephrosia;candida;;;;;(ROXB.) DC.;;;;;Fabaceae;;283284001.0;80143.0;80143.0;;M;DUKE;10-DEC-97;15-JUL-05
+1960;999;Tephrosia purpurea;PERS.;Tephrosia;purpurea;;;;;PERS.;;;;;Fabaceae;;;80167.0;80167.0;;M;DUKE;10-DEC-97;15-JUL-05
+1962;1001;Tephrosia vogelii;HOOK.F.;Tephrosia;vogelii;;;;;HOOK.F.;;;;;Fabaceae;;283284002.0;80185.0;80185.0;;M;DUKE;10-DEC-97;15-JUL-05
+1963;1814;Terminalia alata;;Terminalia;alata;;;;;;;;;;Combretaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1964;2119;Terminalia bellirica;(GAERTN.) ROXB.;Terminalia;bellirica;;;;;(GAERTN.) ROXB.;;;;;Combretaceae;;;36329.0;36329.0;;M;DUKE;10-DEC-97;15-JUL-05
+1965;1002;Terminalia catappa;L.;Terminalia;catappa;;;;;L.;;;;;Combretaceae;;451008001.0;36334.0;36334.0;;F;DUKE;10-DEC-97;15-JUL-05
+1966;1003;Terminalia chebula;RETZ.;Terminalia;chebula;;;;;RETZ.;;;;;Combretaceae;;451008004.0;36335.0;36335.0;;M;DUKE;10-DEC-97;15-JUL-05
+1968;1674;Tetracera akara;;Tetracera;akara;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1969;1675;Tetracera indica;;Tetracera;indica;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1970;1676;Tetracera sarmentosa;;Tetracera;sarmentosa;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1971;1677;Tetracera scandens;;Tetracera;scandens;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+1973;1005;Tetragonia tetragonioides;(PALLAS) KUNTZE;Tetragonia;tetragonioides;;;;;(PALLAS) KUNTZE;;;;;Aizoaceae;;165017001.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+1978;1007;Teucrium chamaedrys;L.;Teucrium;chamaedrys;;;;;L.;;;;;Lamiaceae;;;314460.0;314460.0;;M;DUKE;10-DEC-97;15-JUL-05
+1995;1953;Teyleria koordersii;;Teyleria;koordersii;;;;;;;;;;Fabaceae;;;436899.0;436899.0;;M;DUKE;10-DEC-97;15-JUL-05
+1998;1010;Theobroma cacao;L.;Theobroma;cacao;;;;;L.;;;;;Sterculiaceae;Synonyms: Theobroma sativum (Aubl.) Lign. & Le Bey;;101885.0;101885.0;;F;DUKE;10-DEC-97;15-JUL-05
+2003;1333;Thespesia populnea;(L.) SOLAND.;Thespesia;populnea;;;;;(L.) SOLAND.;;;;;Malvaceae;;;36526.0;36526.0;;;DUKE;10-DEC-97;15-JUL-05
+2004;1334;Thevetia neriifolia;JUSS. EX STEUD.;Thevetia;neriifolia;;;;;JUSS. EX STEUD.;;;;;Apocynaceae;Synonym of Thevetia peruviana (Pers.) K. Schum.;;;;;;DUKE;10-DEC-97;15-JUL-05
+2005;1335;Thevetia peruviana;(PERS.) K. SCHUM.;Thevetia;peruviana;;;;;(PERS.) K. SCHUM.;;;;;Apocynaceae;Synonyms:Cascabela thevetia, Cerbera thevetia, T. neriifolia;;36532.0;36532.0;;;DUKE;10-DEC-97;15-JUL-05
+2006;1011;Thuja occidentalis;L.;Thuja;occidentalis;;;;;L.;;;;;Cupressaceae;;;36584.0;36584.0;;M;DUKE;10-DEC-97;15-JUL-05
+2018;1015;Thymus serpyllum;L.;Thymus;serpyllum;;;;;L.;;;;;Lamiaceae;;538110001.0;36628.0;36628.0;;G;DUKE;10-DEC-97;15-JUL-05
+2019;1016;Thymus vulgaris;L.;Thymus;vulgaris;;;;;L.;;;;;Lamiaceae;;538110002.0;36631.0;36631.0;;F;DUKE;10-DEC-97;15-JUL-05
+2022;2097;Thymus zygis;L.;Thymus;zygis;;;;;L.;;;;;Lamiaceae;;;36632.0;36632.0;;M;DUKE;10-DEC-97;15-JUL-05
+2028;1018;Trachyspermum ammi;(L.) SPRAGUE ex TURRILL;Trachyspermum;ammi;;;;;(L.) SPRAGUE ex TURRILL;;;;;Apiaceae;;464122001.0;36803.0;36803.0;;G;DUKE;10-DEC-97;15-JUL-05
+2031;1438;Tribulus terrestris;L.;Tribulus;terrestris;;;;;L.;;;;;Zygophyllaceae;;;100965.0;100965.0;;M;DUKE;10-DEC-97;15-JUL-05
+2034;1020;Trichosanthes anguina;L.;Trichosanthes;anguina;;;;;L.;;;;;Cucurbitaceae;;571068001.0;;;;F;DUKE;10-DEC-97;15-JUL-05
+2037;1337;Tridax procumbens;L.;Tridax;procumbens;;;;;L.;;;;;Asteraceae;;;40146.0;40146.0;;;DUKE;10-DEC-97;15-JUL-05
+2038;1957;Trifolium alexandrinum;;Trifolium;alexandrinum;;;;;;;;;;Fabaceae;;;40161.0;40161.0;;M;DUKE;10-DEC-97;15-JUL-05
+2042;1960;Trifolium repens;;Trifolium;repens;;;;;;;;;;Fabaceae;;;300625.0;300625.0;;M;DUKE;10-DEC-97;15-JUL-05
+2045;1023;Trigonella foenum-graecum;L.;Trigonella;foenum-graecum;;;;;L.;;;;;Fabaceae;;283253001.0;40421.0;40421.0;;F;DUKE;10-DEC-97;15-JUL-05
+2047;1025;Triticum aestivum;L.;Triticum;aestivum;;;;;L.;;;;;Poaceae;;38308001.0;410383.0;410383.0;;F;DUKE;10-DEC-97;15-JUL-05
+2048;1026;Tropaeolum majus;L.;Tropaeolum;majus;;;;;L.;;;;;Tropaeolaceae;;292001002.0;40686.0;40686.0;;F;DUKE;10-DEC-97;15-JUL-05
+2054;2166;Tylophora indica;(BURM. F.) MERR.;Tylophora;indica;;;;;(BURM. F.) MERR.;;;;;Asclepiadaceae;Synonyms:T.asthmatica,Asclepias asthmatica,Cynanchum indicum;;416052.0;416052.0;;M;DUKE;10-DEC-97;15-JUL-05
+2063;1972;Uncaria tomentosa;DC;Uncaria;tomentosa;;;;;DC;;;;;Pedaliaceae;;;403273.0;403273.0;;M;DUKE;10-DEC-97;15-JUL-05
+2066;1037;Urtica dioica;L.;Urtica;dioica;;;;;L.;;;;;Urticaceae;;128001001.0;40944.0;40944.0;;F;DUKE;10-DEC-97;15-JUL-05
+2071;1094;Valeriana jatamansi;JONES;Valeriana;jatamansi;;;;;JONES;;;;;Valerianaceae;;;41083.0;41083.0;;M;DUKE;10-DEC-97;15-JUL-05
+2075;1965;Vandasina retusa;;Vandasina;retusa;;;;;;;;;;Fabaceae;;;436900.0;436900.0;;M;DUKE;10-DEC-97;15-JUL-05
+2076;1044;Vanilla planifolia;JACKS.;Vanilla;planifolia;;;;;JACKS.;;;;;Orchidaceae;Synonyms: Myrobroma fragrans Salisb., Vanilla fragrans auct.;105092001.0;41111.0;41111.0;;F;DUKE;10-DEC-97;15-JUL-05
+2086;1338;Vernonia cinerea;(L.) LESS.;Vernonia;cinerea;;;;;(L.) LESS.;;;;;Asteraceae;;;41205.0;41205.0;;;DUKE;10-DEC-97;15-JUL-05
+2088;1051;Vetiveria zizanioides;(L.) NASH;Vetiveria;zizanioides;;;;;(L.) NASH;;;;;Poaceae;;;;;;G;DUKE;10-DEC-97;15-JUL-05
+2092;1054;Vicia faba;L.;Vicia;faba;;;;;L.;;;;;Fabaceae;;283418004.0;300661.0;300661.0;;F;DUKE;10-DEC-97;15-JUL-05
+2095;1057;Vigna mungo;(L.) HEPPER;Vigna;mungo;;;;;(L.) HEPPER;;;;;Fabaceae;;283471003.0;444359.0;444359.0;;F;DUKE;10-DEC-97;15-JUL-05
+2096;1058;Vigna radiata;(L.) WILCZEK;Vigna;radiata;;;;;(L.) WILCZEK;;;;;Fabaceae;;283471004.0;41629.0;41629.0;;F;DUKE;10-DEC-97;15-JUL-05
+2097;1059;Vigna subterranea;(L.) VERDC.;Vigna;subterranea;;;;;(L.) VERDC.;;;;;Fabaceae;;;105107.0;105107.0;;F;DUKE;10-DEC-97;15-JUL-05
+2098;1966;Vigna umbellata;(THUNB.) OHWI & H. OHASHI.;Vigna;umbellata;;;;;(THUNB.) OHWI & H. OHASHI.;;;;;Fabaceae;;;41643.0;41643.0;;M;DUKE;10-DEC-97;15-JUL-05
+2099;1062;Vinca minor;L.;Vinca;minor;;;;;L.;;;;;Apocynaceae;;513050001.0;41680.0;41680.0;;M;DUKE;10-DEC-97;15-JUL-05
+2100;1063;Viola odorata;L.;Viola;odorata;;;;;L.;;;;;Violaceae;;;41733.0;41733.0;;M;DUKE;10-DEC-97;15-JUL-05
+2103;1095;Virola surinamensis;WARB.;Virola;surinamensis;;;;;WARB.;;;;;Myristicaceae;;;41806.0;41806.0;;M;DUKE;10-DEC-97;15-JUL-05
+2105;1682;Viscum articulatum;;Viscum;articulatum;;;;;;;;;;Viscaceae;;;41808.0;41808.0;;M;DUKE;10-DEC-97;15-JUL-05
+2108;1067;Vitex agnus-castus;L.;Vitex;agnus-castus;;;;;L.;;;;;Lamiaceae;;533054003.0;41813.0;41813.0;;M;DUKE;10-DEC-97;15-JUL-05
+2109;1068;Vitis vinifera;L.;Vitis;vinifera;;;;;L.;;;;;Vitaceae;;;41905.0;41905.0;;F;DUKE;10-DEC-97;15-JUL-05
+2110;1437;Waltheria americana;L.;Waltheria;americana;;;;;L.;;;;;Sterculiaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2112;1070;Wedelia trilobata;HITCHC.;Wedelia;trilobata;;;;;HITCHC.;;;;;Asteraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2114;1071;Withania somnifera;(L.) DUNAL;Withania;somnifera;;;;;(L.) DUNAL;;;;;Solanaceae;;;102407.0;102407.0;;M;DUKE;10-DEC-97;15-JUL-05
+2115;1684;Woodfordia floribunda;;Woodfordia;floribunda;;;;;;;;;;Lythraceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2116;1158;Wormia burbidgei;;Wormia;burbidgei;;;;;;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2117;1157;Wormia triquetra;ROTTB.;Wormia;triquetra;;;;;ROTTB.;;;;;Dilleniaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2119;1072;Xanthosoma sagittifolium;(L.) SCHOTT;Xanthosoma;sagittifolium;;;;;(L.) SCHOTT;;;;;Araceae;;44075001.0;42090.0;42090.0;;F;DUKE;10-DEC-97;15-JUL-05
+2123;1096;Zanthoxylum alatum;ROXB.;Zanthoxylum;alatum;;;;;ROXB.;;;;;Rutaceae;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2125;2159;Zanthoxylum clava-herculis;L.;Zanthoxylum;clava-herculis;;;;;L.;;;;;Rutaceae;;;403183.0;403183.0;;M;DUKE;10-DEC-97;15-JUL-05
+2127;1077;Zea mays;L.;Zea;mays;;;;;L.;;;;;Poaceae;;38002003.0;42207.0;42207.0;;F;DUKE;10-DEC-97;15-JUL-05
+2128;1078;Zingiber officinale;ROSCOE;Zingiber;officinale;;;;;ROSCOE;;;;;Zingiberaceae;Synonyms: Amomum zingiber L.;96001001.0;42254.0;42254.0;;G;DUKE;10-DEC-97;15-JUL-05
+2130;1079;Zizyphus jujuba;MILL.;Zizyphus;jujuba;;;;;MILL.;;;;;;;;;;;F;DUKE;10-DEC-97;15-JUL-05
+2131;1686;Zizyphus mauritiana;;Zizyphus;mauritiana;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2132;1687;Zizyphus nummularia;;Zizyphus;nummularia;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2133;1688;Zizyphus oenoplia;;Zizyphus;oenoplia;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2134;1689;Zizyphus rugosa;;Zizyphus;rugosa;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2136;1690;Zizyphus trinervia;;Zizyphus;trinervia;;;;;;;;;;;;;;;;M;DUKE;10-DEC-97;15-JUL-05
+2140;2177;Commiphora wightii;(ARN.) BHANDARI;Commiphora;wightii;;;;;(ARN.) BHANDARI;;;;;Burseraceae;Synonyms: C. mukul, Balsamodendrum mukul, B. wightii;;406462.0;406462.0;;M;DUKE;08-JUL-98;15-JUL-05
+2142;2180;Astrocaryum vulgare;C. MART.;Astrocaryum;vulgare;;;;;C. MART.;;;;;Arecaceae;;;5941.0;5941.0;;M;DUKE;16-AUG-98;15-JUL-05
+2150;2188;Hyptis capitata;JACQ.;Hyptis;capitata;;;;;JACQ.;;;;;Lamiaceae;;;401708.0;401708.0;;M;DUKE;07-OCT-98;15-JUL-05
+2154;2192;Syzygium claviflorum;WALL EX A. & J. COWAN;Syzygium;claviflorum;;;;;WALL EX A. & J. COWAN;;;;;Myrtaceae;;;;;;M;DUKE;07-OCT-98;15-JUL-05
+2155;2193;Ternstroemia gymnanthera;(WIGHT & ARN.) SPRAGUE;Ternstroemia;gymnanthera;;;;;(WIGHT & ARN.) SPRAGUE;;;;;Theaceae;;;36364.0;36364.0;;M;DUKE;07-OCT-98;15-JUL-05
+2156;2194;Terminalia arjuna;(ROXB. EX DC.) WIGHT & ARN.;Terminalia;arjuna;;;;;(ROXB. EX DC.) WIGHT & ARN.;;;;;Combretaceae;;;80199.0;80199.0;;M;DUKE;07-OCT-98;15-JUL-05
+2159;2197;Artemisia indica;WILLD.;Artemisia;indica;;;;;WILLD.;;;;;Asteraceae;;;;;;M;DUKE;09-OCT-98;15-JUL-05
+2166;2204;Fragaria vesca;L.;Fragaria;vesca;;;;;L.;;;;;Rosaceae;;;264.0;264.0;;M;DUKE;30-NOV-98;15-JUL-05
+2167;2205;Abutilon theophrasti;MEDIK.;Abutilon;theophrasti;;;;;MEDIK.;;;;;Malvaceae;;;757.0;757.0;;M;DUKE;03-DEC-98;15-JUL-05
+2172;2210;Crataegus monogyna;JACQ.;Crataegus;monogyna;;;;;JACQ.;;;;;Rosaceae;Synonyms: Crataegus oxyacantha var. praecox hort. ex Loudon;;12122.0;12122.0;;M;DUKE;11-JAN-99;15-JUL-05
+2176;2214;Cyamopsis tetragonoloba;(L.) TAUB.;Cyamopsis;tetragonoloba;;;;;(L.) TAUB.;;;;;Fabaceae;;;12701.0;12701.0;;F;DUKE;30-JAN-99;15-JUL-05
+2177;2215;Cinnamomum zeylanicum;BLUME;Cinnamomum;zeylanicum;;;;;BLUME;;;;;Lauraceae;Synonym of Cinnamomum verum J. Presl;;;;;;DUKE;09-FEB-99;15-JUL-05
+2179;2217;Rhamnus purshiana;DC.;Rhamnus;purshiana;;;;;DC.;;;;;Rhamnaceae;Synonym for Frangula purshiana (DC.) J. G. Cooper;;;;;M;DUKE;27-MAR-99;15-JUL-05
+2182;2220;Tanacetum parthenium;(L.) SCH. BIP.;Tanacetum;parthenium;;;;;(L.) SCH. BIP.;;;;;Asteraceae;Chrysanthemum parthenium is a synonym;;104584.0;104584.0;;M;DUKE;02-APR-99;15-JUL-05
+2186;2224;Cynara scolymus;L.;Cynara;scolymus;;;;;L.;;;;;Asteraceae;Synonym for Cynara cardunculus L. subsp. cardunculus;;;;;F;DUKE;08-MAY-99;15-JUL-05
+2190;2228;Gynostemma pentaphyllum;(THUNB.) MAKINO;Gynostemma;pentaphyllum;;;;;(THUNB.) MAKINO;;;;;Cucurbitaceae;Synonym: Gynostemma pedatum Blume;;409268.0;409268.0;;M;DUKE;06-JUL-99;15-JUL-05
+2191;2229;Bacopa monnieri;(L.) PENNELL;Bacopa;monnieri;;;;;(L.) PENNELL;;;;;Scrophulariaceae;;;102292.0;102292.0;;M;DUKE;07-JUL-99;15-JUL-05
+2193;2231;Pelargonium roseum;WILLD.;Pelargonium;roseum;;;;;WILLD.;;;;;Geraniaceae;;;;;;M;DUKE;16-JUL-99;15-JUL-05
+2196;2234;Duchesnea indica;(ANDREWS) FOCKE;Duchesnea;indica;;;;;(ANDREWS) FOCKE;;;;;Rosaceae;Fragaria indica is a synonym;;14736.0;14736.0;;M;DUKE;06-SEP-99;15-JUL-05
+2197;2235;Lycopodium annotinum;L.;Lycopodium;annotinum;;;;;L.;;;;;Lycopodiaceae;;;22968.0;22968.0;;M;DUKE;25-SEP-99;15-JUL-05
+2198;2236;Lycopodium carolinianum;L.;Lycopodium;carolinianum;;;;;L.;;;;;Lycopodiaceae;Synonym of Lycopodiella caroliniana (L.) Pic. Serm.;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2199;2237;Lycopodiella caroliniana;(L.) PIC. SERM.;Lycopodiella;caroliniana;;;;;(L.) PIC. SERM.;;;;;Lycopodiaceae;Lycopodium carolinianum L. is a synonym;;412266.0;412266.0;;M;DUKE;25-SEP-99;15-JUL-05
+2200;2238;Lycopodium cernuum;;Lycopodium;cernuum;;;;;;;;;;Lycopodiaceae;;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2201;2239;Lycopodium complanatum;;Lycopodium;complanatum;;;;;;;;;;Lycopodiaceae;;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2204;2242;Lycopodium gnidioides;;Lycopodium;gnidioides;;;;;;;;;;Lycopodiaceae;;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2205;2243;Lycopodium inundatum;L.;Lycopodium;inundatum;;;;;L.;;;;;Lycopodiaceae;Synonym of Lycopodiella inundata (L.) Holub;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2206;2244;Lycopodiella inundata;(L.) HOLUB;Lycopodiella;inundata;;;;;(L.) HOLUB;;;;;Lycopodiaceae;Lycopodium inundatum L. is a synonym;;400775.0;400775.0;;M;DUKE;25-SEP-99;15-JUL-05
+2207;2245;Lycopodium selago;;Lycopodium;selago;;;;;;;;;;Lycopodiaceae;;;;;;M;DUKE;25-SEP-99;15-JUL-05
+2211;2249;Saccharum officinarum;L.;Saccharum;officinarum;;;;;L.;;;;;Poaceae;;;32617.0;32617.0;;F;DUKE;02-OCT-99;15-JUL-05
+2213;2251;Strophanthus divaricatus;(LOUR.) HOOK. & ARN.;Strophanthus;divaricatus;;;;;(LOUR.) HOOK. & ARN.;;;;;Apocynaceae;;;35802.0;35802.0;;M;DUKE;02-OCT-99;15-JUL-05
+2216;2253;Crataegus oxyacantha;AUCT.;Crataegus;oxyacantha;;;;;AUCT.;;;;;Rosaceae;Synonym of Crataegus laevigata (Poir.) DC.;;;;;M;DUKE;13-NOV-99;15-JUL-05
+2223;2260;Actaea racemosa;L.;Actaea;racemosa;;;;;L.;;;;;Ranunculaceae;Cimicifuga racemosa (L.) Nutt. is a synonym;;411899.0;411899.0;;M;DUKE;24-NOV-99;15-JUL-05
+2226;2263;Hibiscus cannabinus;L.;Hibiscus;cannabinus;;;;;L.;;;;;Malvaceae;;;19012.0;19012.0;;M;DUKE;10-DEC-99;15-JUL-05
+2227;2264;Garcinia indica;(THOUARS) CHOISY;Garcinia;indica;;;;;(THOUARS) CHOISY;;;;;Clusiaceae;;;311275.0;311275.0;;M;DUKE;10-DEC-99;15-JUL-05
+2228;2265;Garcinia atroviridis;;Garcinia;atroviridis;;;;;;;;;;Clusiaceae;;;429725.0;429725.0;;M;DUKE;10-DEC-99;15-JUL-05
+2236;2273;Rubus parviflorus;NUTT.;Rubus;parviflorus;;;;;NUTT.;;;;;Rosaceae;Rubus nutkanus is a synonym;;32408.0;32408.0;;M;DUKE;24-JAN-00;15-JUL-05
+2239;2276;Aralia spinosa;L.;Aralia;spinosa;;;;;L.;;;;;Araliaceae;;;102537.0;102537.0;;M;DUKE;17-FEB-00;15-JUL-05
+2240;2277;Porophyllum ruderale;(JACQ.) CASS.;Porophyllum;ruderale;;;;;(JACQ.) CASS.;;;;;Asteraceae;;;29440.0;29440.0;;M;DUKE;18-FEB-00;15-JUL-05
+2261;2298;Coccinia grandis;(L.) J. VOIGT;Coccinia;grandis;;;;;(L.) J. VOIGT;;;;;Cucurbitaceae;Synonyms: Coccinia cordifolia & Coccinia indica;;10974.0;10974.0;;M;DUKE;05-MAR-00;15-JUL-05
+2263;2300;Magnolia obovata;THUNB.;Magnolia;obovata;;;;;THUNB.;;;;;Magnoliaceae;Synonyms: Magnolia hypoleuca Siebold & Zucc.;;23123.0;23123.0;;M;DUKE;14-MAR-00;15-JUL-05
+2264;2301;Cinchona calisaya;WEDD.;Cinchona;calisaya;;;;;WEDD.;;;;;Rubiaceae;Synonyms: Cinchona ledgeriana;;10557.0;10557.0;;M;DUKE;25-MAR-00;15-JUL-05
+2265;2302;Cinchona officinalis;L.;Cinchona;officinalis;;;;;L.;;;;;Rubiaceae;;;10567.0;10567.0;;M;DUKE;25-MAR-00;15-JUL-05
+2266;2303;Cinchona pubescens;VAHL;Cinchona;pubescens;;;;;VAHL;;;;;Rubiaceae;Synonyms: Cinchona succirubra;;10570.0;10570.0;;M;DUKE;25-MAR-00;15-JUL-05
+2267;2304;Cinchona succirubra;PAV. EX KLOTZSCH;Cinchona;succirubra;;;;;PAV. EX KLOTZSCH;;;;;Rubiaceae;Synonym of Cinchona pubescens;;;;;M;DUKE;25-MAR-00;15-JUL-05
+2271;2308;Aglaia elaeagnoidea;;Aglaia;elaeagnoidea;;;;;;;;;;Meliaceae;;;431026.0;431026.0;;M;DUKE;08-MAY-00;15-JUL-05
+2272;2309;Aglaia edulis;(ROXB.) A. GRAY;Aglaia;edulis;;;;;(ROXB.) A. GRAY;;;;;Meliaceae;Synonyms: Milnea edulis Roxb.;;1764.0;1764.0;;M;DUKE;08-MAY-00;15-JUL-05
+2273;2310;Aglaia odorata;LOUR.;Aglaia;odorata;;;;;LOUR.;;;;;Meliaceae;;;1765.0;1765.0;;M;DUKE;08-MAY-00;15-JUL-05
+2275;2313;Aucuba japonica;THUNB.;Aucuba;japonica;;;;;THUNB.;;;;;Cornaceae;;;6077.0;6077.0;;M;DUKE;16-MAY-00;15-JUL-05
+2284;2322;Aglaia leptantha;;Aglaia;leptantha;;;;;;;;;;Meliaceae;;;;;;M;DUKE;08-JUN-00;15-JUL-05
+2285;2323;Selaginella delicatula;;Selaginella;delicatula;;;;;;;;;;Selaginellaceae;;;;;;M;DUKE;08-JUN-00;15-JUL-05
+2290;2328;Acacia confusa;MERR.;Acacia;confusa;;;;;MERR.;;;;;Fabaceae;Synonyms: Racosperma confusum;;810.0;810.0;;M;DUKE;08-JUN-00;15-JUL-05
+2293;2332;Myrrhis odorata;(L.) SCOP.;Myrrhis;odorata;;;;;(L.) SCOP.;;;;;Apiaceae;;;102117.0;102117.0;;M;DUKE;12-JUN-00;15-JUL-05
+2294;2333;Cryptotaenia japonica;HASSK.;Cryptotaenia;japonica;;;;;HASSK.;;;;;Apiaceae;;;12535.0;12535.0;;M;DUKE;20-JUN-00;15-JUL-05
+2299;2338;Mahonia fortunei;(LINDL.) FEDDE;Mahonia;fortunei;;;;;(LINDL.) FEDDE;;;;;Berberidaceae;Synonyms: Berberis fortunei;;23159.0;23159.0;;M;DUKE;28-JUN-00;15-JUL-05
+2304;2343;Mahonia siamensis;TAKEDA;Mahonia;siamensis;;;;;TAKEDA;;;;;Berberidaceae;;;23174.0;23174.0;;M;DUKE;28-JUN-00;15-JUL-05
+2305;2345;Lippia javanica;(BURM. F.) SPRENG.;Lippia;javanica;;;;;(BURM. F.) SPRENG.;;;;;Verbenaceae;Synonyms: Verbena javanica Burm. f.;;408267.0;408267.0;;M;DUKE;25-JUL-00;15-JUL-05
+2310;2349;Podocarpus koordersii;;Podocarpus;koordersii;;;;;;;;;;Podocarpaceae;;;;;;M;DUKE;26-JUL-00;15-JUL-05
+2320;2359;Capparis tomentosa;LAM.;Capparis;tomentosa;;;;;LAM.;;;;;Capparaceae;;;411704.0;411704.0;;M;DUKE;18-AUG-00;15-JUL-05
+2322;2361;Albizia lebbeck;(L.) BENTH.;Albizia;lebbeck;;;;;(L.) BENTH.;;;;;Fabaceae;Synonyms: Acacia lebbek, Mimosa lebbeck;;2140.0;2140.0;;M;DUKE;01-SEP-00;15-JUL-05
+2323;2362;Amomum compactum;SOL. EX MATON;Amomum;compactum;;;;;SOL. EX MATON;;;;;Zingiberaceae;Synonyms: Amomum kepulaga Sprague & Burkill;;101007.0;101007.0;;M;DUKE;08-NOV-00;15-JUL-05
+2324;2363;Costus speciosus;(J. KONIG) SM.;Costus;speciosus;;;;;(J. KONIG) SM.;;;;;Costaceae;Synonyms: Banksea speciosa J. Konig;;11693.0;11693.0;;M;DUKE;29-NOV-00;15-JUL-05
+2325;2364;Phragmites australis;(CAV.) TRIN. EX STEUD.;Phragmites;australis;;;;;(CAV.) TRIN. EX STEUD.;;;;;Poaceae;Syn:Arundo p.,A.vulgaris,P.communis,P.longivalvis,P.vulgaris;;28091.0;28091.0;;M;DUKE;08-DEC-00;15-JUL-05
+2331;2370;Xylopia aethiopica;(DUNAL) A. RICH.;Xylopia;aethiopica;;;;;(DUNAL) A. RICH.;;;;;Annonaceae;;;101925.0;101925.0;;M;DUKE;16-FEB-01;15-JUL-05
+2332;2371;Camellia japonica;L.;Camellia;japonica;;;;;L.;;;;;Theaceae;Syn:C.j.var.hortensis,var.hozanensis,var.spontanea,&Thea j.;;8711.0;8711.0;;M;DUKE;29-APR-01;15-JUL-05
+2334;2373;Lycium barbarum;L.;Lycium;barbarum;;;;;L.;;;;;Solanaceae;Synonyms: Lycium halimifolium Mill., Lycium vulgare Dunal;;22939.0;22939.0;;M;DUKE;16-JUL-01;15-JUL-05
+2336;2375;Dianthus caryophyllus;L.;Dianthus;caryophyllus;;;;;L.;;;;;Caryophyllaceae;;;13826.0;13826.0;;M;DUKE;17-JUL-01;15-JUL-05
+2337;2376;Dianthus barbatus;L.;Dianthus;barbatus;;;;;L.;;;;;Caryophyllaceae;;;13817.0;13817.0;;M;DUKE;17-JUL-01;15-JUL-05
+2338;2377;Dianthus chinensis;L.;Dianthus;chinensis;;;;;L.;;;;;Caryophyllaceae;Synonyms: Dianthus heddewigii, Dianthus laciniatus;;13827.0;13827.0;;M;DUKE;17-JUL-01;15-JUL-05
+2341;2380;Nandina domestica;THUNB.;Nandina;domestica;;;;;THUNB.;;;;;Berberidaceae;;;25015.0;25015.0;;M;DUKE;17-JUL-01;15-JUL-05
+2344;2383;Parthenocissus quinquefolia;(L.) PLANCH.;Parthenocissus;quinquefolia;;;;;(L.) PLANCH.;;;;;Vitaceae;Syn: Parthenocissus quinquefolia f. hirsuta (Pursh) Fernald;;26804.0;26804.0;;M;DUKE;23-FEB-04;15-JUL-05
+2348;317;Crescentia alata;L.;Crescentia;alata;;;;;L.;;;;;Bignoniaceae;;544098002.0;12207.0;12207.0;;M;DUKE;10-DEC-97;15-JUL-05
+2350;362;Digitalis purpurea;L.;Digitalis;purpurea;;;;;L.;;;;;Scrophulariaceae;;542134002.0;13986.0;13986.0;;M;DUKE;10-DEC-97;15-JUL-05
+2352;442;Ginkgo biloba;L.;Ginkgo;biloba;;;;;L.;;;;;Ginkgoaceae;;4001001.0;17540.0;17540.0;;M;DUKE;10-DEC-97;15-JUL-05
+2354;489;Hydrastis canadensis;L.;Hydrastis;canadensis;;;;;L.;;;;;Ranunculaceae;;;19478.0;19478.0;;M;DUKE;10-DEC-97;15-JUL-05
+2355;524;Kaempferia galanga;L.;Kaempferia;galanga;;;;;L.;;;;;Zingiberaceae;;96023001.0;20916.0;20916.0;;G;DUKE;10-DEC-97;15-JUL-05
+2360;721;Phoenix dactylifera;L.;Phoenix;dactylifera;;;;;L.;;;;;Arecaceae;;;28046.0;28046.0;;F;DUKE;10-DEC-97;15-JUL-05
+2361;763;Plantago psyllium;L.;Plantago;psyllium;;;;;L.;;;;;Plantaginaceae;;558001005.0;;;;G;DUKE;10-DEC-97;15-JUL-05
+2366;891;Sambucus canadensis;L.;Sambucus;canadensis;;;;;L.;;;;;Adoxaceae;Also placed in families Adoxaceae & Sambucaceae;565001001.0;32983.0;32983.0;;F;DUKE;10-DEC-97;15-JUL-05
+2367;967;Stachytarpheta jamaicensis;VAHL;Stachytarpheta;jamaicensis;;;;;VAHL;;;;;Verbenaceae;;533019003.0;403752.0;403752.0;;M;DUKE;10-DEC-97;15-JUL-05
+2368;5009;Telosma cordata;;Telosma;cordata;;;;;;;;;;Asclepiadaceae;;;80133.0;80133.0;;;DUKE;10-DEC-97;15-JUL-05
+2371;2385;Dipsacus fullonum;L.;Dipsacus;fullonum;;;;;L.;;;;;Dipsacaceae;;;;;;;DUKE;23-JUN-06;
