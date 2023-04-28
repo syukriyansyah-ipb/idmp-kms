@@ -1,0 +1,1351 @@
+;Plant
+0;Abelmoschus esculentus (L.) Moench
+1;Abelmoschus manihot (L.) Medik.
+2;Abelmoschus moschatus Medik.
+3;Abrus precatorius L.
+4;Acacia mangium Willd.
+5;Acalypha australis L.
+6;Acalypha hispida Burm.f.
+7;Acalypha indica L.
+8;Acalypha pleiogyne Airy Shaw
+9;Acalypha vahliana Mull. Arg.
+10;Acalypha wilkesiana Müll. Arg.
+11;Acanthus ilicifolius L.
+12;Achyranthes aspera L.
+13;Achyranthes bidentata Blume
+14;Acmella paniculata (Wall. ex DC.) R.K.Jansen
+15;Acmella uliginosa (Sw.) Cass.
+16;Acorus calamus L.
+17;Acriopsis liliifolia (J.Koenig) Seidenf.
+18;Acrostichum aureum L.
+19;Actinoscirpus grossus (L.f.) Goetgh. & D.A.Simpson
+20;Adenia macrophylla (Blume) Koord.
+21;Adenium obesum (Forssk.) Roem. & Schult.
+22;Adenostemma lavenia (L.) Kuntze
+23;Adinandra dumosa Jack
+24;Aegle marmelos (L.) Corrêa
+25;Aerva lanata (L.) Juss.
+26;Aerva sanguinolenta (L.) Blume
+27;Aeschynanthus radicans Jack
+28;Aeschynanthus tricolor Hook.
+29;Agathis dammara (Lamb.) Rich. & A.Rich.
+30;Agave desmettiana Jacobi
+31;Ageratina riparia (Regel) R.M.King & H.Rob.
+32;Ageratum conyzoides L.
+33;Ageratum houstonianum Mill.
+34;Aglaia elliptica Bl.
+35;Aglaonema commutatum Schott
+36;Aglaonema crispum (Pit. & Man.) D.H. Nicol
+37;Aglaonema pictum (Roxb.) Kunth
+38;Albertisia papuana Becc.
+39;Albizia saman (Jacq.) Merr.
+40;Alchornea tiliifolia (Benth.) Müll.Arg.
+41;Aleurites moluccana (L.) Willd.
+42;Aleurites moluccanus (L.) Willd.
+43;Allamanda cathartica L.
+44;Allamanda schottii Pohl
+45;Allium ampeloprasum L.
+46;Allium cepa L.
+47;Allium fistulosum L.
+48;Allium ramosum L.
+49;Allium sativum L.
+50;Allium schoenoprasum L.
+51;Allium tuberosum Rottler ex Spreng.
+52;Allophylus cobbe (L.) Raeusch.
+53;Alocasia cucullata (Lour.) G.Don
+54;Alocasia macrorrhizos (L.) G.Don
+55;Aloe vera (L.) Burm.f.
+56;Alphitonia incana (Roxb.) Teijsm. & Binn. ex Kurz
+57;Alpinia caerulea (R. Br.) Benth.
+58;Alpinia galanga (L.) Willd.
+59;Alpinia malaccensis (Burm.f.) Roscoe
+60;Alpinia nutans (L.) Roscoe
+61;Alpinia purpurata (Vieill.) K.Schum.
+62;Alpinia zerumbet (Pers.) B.L. Burtt & R.M. Sm.
+63;Alstonia pneumatophora Baker ex Den Berger
+64;Alstonia scholaris (L.) R. Br.
+65;Alternanthera amoena Back. & Sloot
+66;Alternanthera brasiliana (L.) Kuntze
+67;Alternanthera sessilis (L.) R.Br. ex DC.
+68;Alysicarpus vaginalis (L.) DC.
+69;Alyxia reinwardtii Blume
+70;Alyxia stellata (J.R.Forst. & G.Forst.) Roem. & Schult.
+71;Amaranthus hybridus L.
+72;Amaranthus spinosus L.
+73;Amaranthus tricolor L.
+74;Amaranthus viridis L.
+75;Amomum aculeatum Roxb.
+76;Amomum coccineum (Bl.) K.Schum
+77;Amomum compactum Soland. Ex Maton
+78;Amomum dealbatum Roxb.
+79;Amomum lappaceum Ridl.
+80;Amorphophallus paeoniifolius (Dennst.) Nicolson
+81;Amorphophallus titanum (Becc.) Becc. ex Arcang.
+82;Amorphophallus variabilis Blume
+83;Ampelocissus elegans Gagnep.
+84;Amyema tristis (Zoll.) Tiegh.
+85;Anacardium occidentale L.
+86;Anadendrum latifolium Hook. F.
+87;Anamirta cocculus (L.) Wight & Arn.
+88;Ananas comosus (L.) Merr.
+89;Anaxagorea luzonensis A.Gray
+90;Andrographis paniculata (Burm.f.) Nees
+91;Angiopteris evecta (G. Forst.) Hoffm.
+92;Anisophyllea disticha (Jack) Baill.
+93;Annona muricata L.
+94;Annona reticulata L.
+95;Annona squamosa L.
+96;Anplectrum glaucum (Jack) Triana
+97;Anredera cordifolia (Ten.) Steenis
+98;Antidesma bunius (L.) Spreng.
+99;Antidesma montanum Blume
+100;Antidesma platyphyllum H.Mann
+101;Antigonon leptopus Hook. & Arn.
+102;Antiphytum stoechadifolium (Cham.) A.DC.
+103;Antrophyum reticulatum (G. Forst.) Kaulf.
+104;Apium graveolens L.
+105;Aporosa aurita (Tul.) Miq.
+106;Aporosa frutescens Blume
+107;Aquilaria malaccensis Lam.
+108;Arachis hypogaea L.
+109;Arachnis × maingayi (Hook.f.) Schltr.
+110;Arachnis flos-aeris (L.) Rchb.f.
+111;Aralia spinosa L.
+112;Aralidium pinnatifidum (Jungh. & de Vriese) Miq.
+113;Arcangelisia flava (L.) Merr.
+114;Archidendron clypearia (Jack) I.C.Nielsen
+115;Archidendron ellipticum (Blanco) I.C.Nielsen
+116;Archidendron jiringa (Jack) I.C.Nielsen
+117;Archidendron microcarpum (Benth.) I.C.Nielsen
+118;Archidendron pauciflorum (Benth.) I.C.Nielsen
+119;Ardisia crispa (Thunb.) A.DC.
+120;Ardisia elliptica Thunb.
+121;Ardisia humilis Vahl
+122;Ardisia laevigata Blume
+123;Ardisia purpurea Reinw. ex Blume
+124;Areca catechu L.
+125;Areca vestiaria Giseke
+126;Arenga pinnata (Wurmb) Merr.
+127;Arenga undulatifolia Becc.
+128;Argyreia nervosa (Burm. f.) Bojer
+129;Aristolochia foveolata Merr.
+130;Aristolochia papillifolia Ding Hou
+131;Artabotrys suaveolens (Blume) Blume
+132;Artemisia cina Berg
+133;Artemisia vulgaris L.
+134;Arthrophyllum diversifolium Blume
+135;Artocarpus altilis (Park.) Fosberg
+136;Artocarpus elasticus Reinw. ex Blume
+137;Artocarpus heterophyllus Lam.
+138;Artocarpus integer (Thunb.) Merr.
+139;Artocarpus lanceifolius Roxb.
+140;Artocarpus odoratissimus Blanco
+141;Artocarpus rigidus Blume
+142;Artocarpus sericicarpus F.M.Jarrett
+143;Arytera littoralis Blume
+144;Asplenium adiantum-nigrum L.
+145;Asplenium nidus L.
+146;Astronia papetaria Blume
+147;Asystasia gangetica (L.) T.Anderson
+148;Auricularia auricula-judae Schrot.
+149;Austroeupatorium inulaefolium (Kunth) R.M.King & H.Rob.
+150;Averrhoa bilimbi L.
+151;Averrhoa carambola L.
+152;Avicennia alba Bl.
+153;Axonopus compressus (Sw.) P.Beauv.
+154;Ayapana triplinervis (Vahl) R.M.King & H.Rob.
+155;Azadirachta indica A.Juss.
+156;Baccaurea lanceolata (Miq.) M.A.
+157;Baccaurea motleyana (Müll.Arg.) Müll.Arg.
+158;Baccaurea racemosa (Reinw. ex Blume) Müll.Arg.
+159;Bambusa heterostachya (Munro) Holttum
+160;Bambusa vulgaris Schrad.
+161;Barleria cristata L.
+162;Barleria lupulina Lindl.
+163;Barleria prionitis L.
+164;Barringtonia acutangula (L.) Gaertn.
+165;Barringtonia asiatica (L.) Kurz
+166;Barringtonia racemosa (L.) Spreng.
+167;Basella alba L.
+168;Basilicum polystachyon (L.) Moench
+169;Bauhinia acuminata L.
+170;Bauhinia bidentata Jack
+171;Bauhinia excelsa (Miq.) Prain
+172;Bauhinia monandra Kurz
+173;Bauhinia purpurea L.
+174;Bauhinia scandens L.
+175;Bauhinia variegata L.
+176;Bauhinia semibifida Roxb.
+177;Belamcanda chinensis (L.) DC.
+178;Bellucia axinanthera Triana
+179;Bellucia pentamera Naudin
+180;Benincasa hispida (Thunb.) Cogn.
+181;Bidens biternata (Lour.) Merr. & Sherff
+182;Bidens pilosa L.
+183;Biophytum sensitivum (L.) DC.
+184;Bischofia javanica Blume
+185;Bixa orellana L.
+186;Blechnum novae-zelandiae T.C.Chambers & P.A.Farrant
+187;Blechnum orientale L.
+188;Blumea balsamifera (L.) DC.
+189;Blumea lacera (Burm.f.) DC.
+190;Blumea laciniata (Wall. ex Roxb.) DC.
+191;Blumea lanceolaria (Roxb.) Druce
+192;Blumea riparia (Blume) DC.
+193;Boehmeria celebica Blume
+194;Boehmeria nivea (L.) Gaudich.
+195;Boesenbergia rotunda (L.) Mansf.
+196;Bombax ceiba L.
+197;Borreria laevis (Lam.) Griseb.
+198;Borreria hispida Spruce ex K.Schum
+199;Bouea macrophylla Griff.
+200;Bouea oppositifolia (Roxb.) Adelb.
+201;Brachiaria mutica (Forssk.) Stapf
+202;Brassica migra (L.) K. Koch
+203;Brassica rapa L.
+204;Breynia microphylla (Kurzweil ex Teijsm. & Binn.) Müll. Arg.
+205;Breynia oblongifolia (Müll.Arg.) Müll.Arg.
+206;Breynia vitis-idaea (Burm.f.) C.E.C.Fisch.
+207;Bridelia glauca Blume
+208;Bridelia monoica (Lour.) Merr
+209;Bridelia tomentosa Blume
+210;Broussonetia papyrifera (L.) L'Hér. ex Vent.
+211;Brucea javanica (L.) Merr.
+212;Brugmansia × candida Pers.
+213;Brugmansia arborea (L.) Steud.
+214;Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & J.Presl
+215;Bruguiera gymnorhiza (L.) Lam.
+216;Bryophyllum daigremontianum (Raym.-Hamet & H. Perrier) A. Berger
+217;Bryophyllum pinnatum (Lam.) Oken
+218;Buchanania sessilifolia Blume
+219;Caesalpinia bonduc (L.) Roxb.
+220;Caesalpinia crista L.
+221;Caesalpinia latisiliqua (Cav.) Hattink
+222;Caesalpinia pulcherrima (L.) Sw.
+223;Caesalpinia sappan L.
+224;Caesalpinia sumatrana Roxb.
+225;Cajanus cajan (L.) Millsp.
+226;Calamus heteroideus Blume
+227;Calamus inops Becc. ex K.Heyne
+228;Calamus ornatus Blume
+229;Calanthe triplicata (Willemet) Ames
+230;Calliandra calothyrsus Meisn.
+231;Callicarpa glabrifolia S.Atkins
+232;Callicarpa longifolia Lam.
+233;Callicarpa macrophylla Vahl
+234;Callicarpa tomentosa (L.) L.
+235;Calophyllum inophyllum L.
+236;Calophyllum polyanthum Wall. ex Planch. & Triana
+237;Calophyllum soualattri Burm.f.
+238;Calotropis gigantea (L.) W.T. Aiton
+239;Camellia sinensis (L.) Kuntze
+240;Cananga odorata (Lam.) Hook.f. & Thomson
+241;Canavalia ensiformis (L.) DC.
+242;Canna indica L.
+243;Canthium horridum Blume
+244;Capparifoliaceae
+245;Capsicum annuum L.
+246;Capsicum frutescens L.
+247;Carallia brachiata (Lour.) Merr.
+248;Cardiospermum halicacabum L.
+249;Carex baccans Nees
+250;Carica papaya L.
+251;Caryota mitis Lour.
+252;Caryota rumphiana Mart.
+253;Cassia fistula L.
+254;Casuarina junghuhniana Miq.
+255;Catharanthus roseus (L.) G.Don
+256;Cayratia japonica (Thunb.) Gagnep.
+257;Cayratia trifolia (L.) Domin
+258;Cecropia peltata L.
+259;Ceiba pentandra (L.) Gaertn.
+260;Celosia argentea L.
+261;Centella asiatica (L.) Urb.
+262;Centotheca lappacea (L.) Desv.
+263;Centratherum punctatum Cass.
+264;Cerbera manghas L.
+265;Cerbera odollam Gaertn.
+266;Chamaecrista mimosoides (L.) Greene
+267;Cheilocostus speciosus (J.Koenig) C.D.Specht
+268;Chisocheton patens Blume
+269;Chloranthus elatior Link
+270;Chloranthus spicatus (Thunb.) Makino
+271;Christella dentata (Forssk.) Brownsey & Jermy
+272;Chromolaena odorata (L.) R.M.King & H.Rob.
+273;Chrysoglossum ornatum Blume
+274;Chrysopogon zizanioides (L.) Roberty
+275;Cinchona calisaya Wedd.
+276;Cinchona pubescens Vahl
+277;Cinnamomum burmanni (Nees & T.Nees) Blume
+278;Cinnamomum cassia (Nees & T.Nees) J.Presl
+279;Cinnamomum culilawan Blume
+280;Cinnamomum iners Rein. Ex Blume
+281;Cinnamomum parthenoxylon (Jack) Meisn.
+282;Cinnamomum sintoc Blume
+283;Cinnamomum verum J.Presl
+284;Cissus discolor Bl.
+285;Cissus hastata Miq.
+286;Cissus nodosa Blume
+287;Cissus quadrangularis L.
+288;Cissus repens Lam.
+289;Cissus verticillata (L.) Nicolson & C.E.Jarvis
+290;Citrullus lanatus (Thunb.) Matsum. & Nakai
+291;Citrus aurantiifolia (Christm.) Swingle
+292;Citrus aurantium L.
+293;Citrus hystrix DC.
+294;Citrus limon (L.) Osbeck
+295;Citrus maxima (Burm.) Osbeck
+296;Citrus microcarpa Bunge
+297;Citrus sinensis (L.) Osbeck
+298;Citrus x microcarpa Bunge
+299;Claoxylon indicum (Reinw. ex Blume) Hassk.
+300;Claoxylon longifolium (Blume) Endl. ex Hassk.
+301;Clausena excavata Burm.f.
+302;Cleisostoma subulatum Blume
+303;Cleome gynandra L.
+304;Cleome rutidosperma DC.
+305;Cleome viscosa L.
+306;Clerodendrum adenophysum Hallier f.
+307;Clerodendrum buchananii (Roxb.) Walp.
+308;Clerodendrum calamitosum L.
+309;Clerodendrum chinense (Osbeck) Mabb.
+310;Clerodendrum indicum (L.) Kuntze
+311;Clerodendrum infortunatum L.
+312;Clerodendrum japonicum (Thunb.) Sweet
+313;Clerodendrum minahassae Teijsm. & Binn.
+314;Clerodendrum paniculatum L.
+315;Clerodendrum speciosissimum Drapiez
+316;Clerodendrum thomsoniae Balf.f.
+317;Clidemia hirta (L.) D. Don
+318;Clinacanthus nutans (Burm.f.) Lindau
+319;Clitoria ternatea L.
+320;Cnestis palala (Lour.) Merr.
+321;Coccinia grandis (L.) Voigt
+322;Cocos nucifera L.
+323;Codiaeum variegatum (L.) Rumph. ex A.Juss.
+324;Coelogyne asperata Lindl.
+325;Coffea arabica L.
+326;Coffea canephora Pierre ex A.Froehner
+327;Coix lacryma-jobi L.
+328;Colocasia esculenta (L.) Schott
+329;Colubrina asiatica (L.) Brongn.
+330;Combretum indicum (L.) DeFilipps
+331;Commelina diffusa Burm.f.
+332;Commelina paludosa Blume
+333;Commersonia bartramia (L.) Merr.
+334;Connarus semidecandrus Jack
+335;Conyza bonariensis var. leiotheca (S.F.Blake) Cuatrec.
+336;Coptosapelta diffusa (Champ. ex Benth.) Steenis
+337;Coptosapelta olaciformis (Merr.) Elmer
+338;Corchorus capsularis L.
+339;Corchorus olitorius L.
+340;Cordia dichotoma G.Forst.
+341;Cordia fragrantissima Kurz
+342;Cordia subcordata Lam.
+343;Cordyline fruticosa (L.) A.Chev.
+344;Cordyline rubra Otto & A.Dietr.
+345;Coriandrum sativum L.
+346;Corymborkis flava (Sw.) Kuntze
+347;Corymborkis veratrifolia (Reinw.) Blume
+348;Corypha utan Lam.
+349;Coscinium fenestratum (Goetgh.) Colebr.
+350;Cosmos caudatus Kunth
+351;Costus speciosus (J. Koenig) Sm.
+352;Costus tappenbeckianus J.Braun & K.Schum.
+353;Crassocephalum crepidioides (Benth.) S.Moore
+354;Crateva religiosa G.Forst.
+355;Cratoxylum formosum (Jack) Dyer
+356;Crepidium acuminatum (D.Don) Szlach.
+357;Crescentia cujete L.
+358;Crinum asiaticum L.
+359;Crinum jagus (J.Thomps.) Dandy
+360;Crinum latifolium L.
+361;Crotalaria ferruginea Benth.
+362;Crotalaria incana L.
+363;Crotalaria pallida Aiton
+364;Crotalaria retusa L.
+365;Croton tiglium L.
+366;Cryptocarya massoy (Oken) Kosterm.
+367;Cucumis sativus L.
+368;Cucurbita moschata Duch.
+369;Cucurbita pepo L.
+370;Cuminum cyminum L.
+371;Curculigo latifolia Dryand. ex W.T. Aiton
+372;Curculigo orchioides Gaertn.
+373;Curcuma aeruginosa Roxb.
+374;Curcuma heyneana Valeton & Zijp
+375;Curcuma longa L.
+376;Curcuma mangga Valeton & Zijp
+377;Curcuma zanthorrhiza Roxb.
+378;Curcuma zedoaria (Christm.) Roscoe
+379;Cuscuta australis R.Br.
+380;Cyanthillium cinereum (L.) H.Rob.
+381;Cyathea contaminans (Wall. ex Hook.) Copel.
+382;Cyclea barbata Miers.
+383;Cymbopogon citratus (DC.) Stapf
+384;Cymbopogon nardus (L.) Rendle
+385;Cynodon dactylon (L.) Pers.
+386;Cynometra beddomei Prain
+387;Cynometra cauliflora L.
+388;Cyperus kyllingia Endl.
+389;Cyperus rotundus L.
+390;Cyrtandra longifolia (Wawra) Hillebr. ex C.B.Clarke
+391;Cyrtandra pendula Blume
+392;Cyrtandra picta Blume
+393;Cyrtostachys renda Blume
+394;Dasymaschalon dasymaschalum (Blume) I.M.Turner
+395;Datura metel L.
+396;Daucus carota L.
+397;Davallia trichomanoides Blume
+398;Deeringia amaranthoides (Lam.) Merr.
+399;Dendrobium crumenatum Sw.
+400;Dendrobium lamellatum (Blume) Lindl.
+401;Dendrocalamus asper (Schult.) Backer
+402;Dendrocnide sinuata (Blume) Chew
+403;Dendrocnide stimulans (L.f.) Chew
+404;Dendrophthoe carinata Danser
+405;Dendrophthoe falcata (L.f.) Ettingsh.
+406;Dendrophthoe pentandra (L.) Miq.
+407;Dendrophthoe vitellinus (F.Muell.) Tiegh.
+408;Derris elliptica (Wall.) Benth.
+409;Desmodium gangeticum (L.) DC.
+410;Desmodium heterophyllum (Willd.) DC.
+411;Desmodium ovalifolium Guill. & Perr.
+412;Desmodium triflorum (L.) DC.
+413;Desmodium umbellatum (L.) DC.
+414;Dialium laurina Wiild.
+415;Dianella ensifolia (L.) DC.
+416;Dichorisandra reginae (L.Linden & Rodigas) H.E.Moore
+417;Dichroa febrifuga Lour.
+418;Dichrocephala integrifolia (L. f.) Kuntze
+419;Dicliptera chinensis Juss.
+420;Dicranopteris linearis (Burm. f.) Underw.
+421;Didymocarpus platypus C.B Clarke
+422;Dieffenbachia amoena Bull.
+423;Digitalis purpurea L.
+424;Digitaria longiflora (Retz.) Pers.
+425;Dillenia excelsa (Jack) Martelli ex Gilg.
+426;Dillenia indica L.
+427;Dillenia pentagyna Roxb.
+428;Dillenia serrata Thunb.
+429;Dillenia suffruticosa (Griff.) Martelli
+430;Dimeria ornithopoda Trin.
+431;Dimocarpus longan Lour.
+432;Dioscorea alata L.
+433;Dioscorea filiformis Blume
+434;Dioscorea hispida Dennst.
+435;Dioscorea japonica Thunb.
+436;Dioscorea laurifolia Wall. ex Hook.f.
+437;Diospyros borneensis Hiern.
+438;Diospyros buxifolia (Blume) Hiern
+439;Diospyros macrophylla Bl.
+440;Diospyros salicifolia Humb. & Bonpl. ex Willd.
+441;Diospyros sumatrana Miq.
+442;Diplazium esculentum (Retz.) Sw.
+443;Diplazium proliferum (Lam.) Thouars
+444;Diplectria furfurascens M.P.Nayar
+445;Dischidia imbricata (Blume) Steud.
+446;Dischidia vidalii Becc.
+447;Dolichos tenuicaulis (Baker) Craib
+448;Donax canniformis (G.Forst.) K.Schum.
+449;Dracaena angustifolia (Medik.) Roxb.
+450;Dracaena fragrans (L.) Ker Gawl.
+451;Dracaena laxissima Engl.
+452;Dracaena reflexa Lam.
+453;Dracontomelon dao (Blanco) Merr. & Rolfe
+454;Drymaria cordata (L.) Willd. ex Roem. & Schult.
+455;Drymaria villosa Schltdl. & Cham.
+456;Drymoglossum piloselloides (L.) Presl.
+457;Drynaria quercifolia (L.) J. Sm.
+458;Drynaria rigidula (Sw.) Bedd.
+459;Drynaria sparsisora (Desv.) T. Moore
+460;Dryobalanops oblongifolia Dyer
+461;Duranta erecta L.
+462;Durio kutejensis (Hassk.) Becc.
+463;Durio zibethinus L.
+464;Dysphania ambrosioides (L.) Mosyakin & Clemants
+465;Eclipta prostata (L.) L.
+466;Elaeis guineensis Jacq.
+467;Elaeocarpus floribundus Blume
+468;Elaeocarpus grandiflorus Sm.
+469;Elatostema integrifolium (D.Don) Wedd.
+470;Elatostema lineolatum Wight
+471;Elatostema platyphyllum Wedd.
+472;Elatostema sinuatum (Blume) Hassk.
+473;Eleiodoxa conferta (Griff.) Burret
+474;Elephantopus mollis Kunth
+475;Elephantopus scaber L.
+476;Elephantopus tomentosus L.
+477;Elettaria cardamomum (L.) Maton
+478;Eleusine indica (L.) Gaertn.
+479;Eleutherine bulbosa (Mill.) Urb.
+480;Eleutherine palmifolia (L.) Merr.
+481;Elytranthe parasitica (L.) Danser
+482;Embelia ribes Burm.f.
+483;Emilia sonchifolia (L.) DC.
+484;Endospermum moluccanum (Teijsm. & Binn.) Kurz
+485;Enhalus acoroides (L.f.) Royle
+486;Entada gigas (L.) Fawc. & Rendle
+487;Epipremnum pinnatum (L.) Engl.
+488;Equisetum debile Roxb. ex Vaucher
+489;Eragrostis amabilis (L.) Wight & Arn.
+490;Eragrostis cilianensis (All.) Janch.
+491;Erigeron sumatrensis Retz
+492;Erioglossum rubiginosum (Roxb.) Blume
+493;Eryngium foetidum L.
+494;Erythrina subumbrans (Hassk.) Merr.
+495;Erythrina variegata L.
+496;Etlingera elatior (Jack) R.M. sm.
+497;Etlingera megalocheilos (Griff.) A.D.Poulsen
+498;Etlingera solaris (Blume) R.M.Sm.
+499;Eucalyptus alba Reinw. ex Blume
+500;Eugenia uniflora L.
+501;Eupatorium chinense L.
+502;Euphorbia antiquorum L.
+503;Euphorbia bourgeana J. Gay ex Boiss.
+504;Euphorbia cyathophora Murray
+505;Euphorbia heterophylla L.
+506;Euphorbia hirta L.
+507;Euphorbia hyssopifolia L.
+508;Euphorbia maculata L.
+509;Euphorbia neriifolia L.
+510;Euphorbia nutans Lag.
+511;Euphorbia prostrata Aiton
+512;Euphorbia pulcherrima Willd. ex Klotzsch
+513;Euphorbia thymifolia L.
+514;Euphorbia tirucalli L.
+515;Euphorbia tithymaloides L.
+516;Euphorbia trigona Mill.
+517;Eurya nitida Korth.
+518;Eurycoma longifolia Jack
+519;Eusideroxylon zwageri Teijsm. & Binn.
+520;Evodia hortensis J.R.Forst. & G.Forst.
+521;Excoecaria cochinchinensis Lour.
+522;Excoecaria bantamensis Müll.Arg
+523;Fagraea racemosa Jack
+524;Fibraurea tinctoria Lour.
+525;Ficus altissima Blume
+526;Ficus ampelas Burm.f.
+527;Ficus benjamina L.
+528;Ficus carica L.
+529;Ficus deltoidea Jack
+530;Ficus disticha Blume
+531;Ficus fistulosa Reinw. ex. Bl
+532;Ficus fulva Reinw. ex Blume
+533;Ficus grossularioides Burm.f.
+534;Ficus hirta Vahl
+535;Ficus hispida L.f.
+536;Ficus padana Burm.f.
+537;Ficus punctata Thunb.
+538;Ficus racemosa L.
+539;Ficus rumphii Blume
+540;Ficus septica Burm.f.
+541;Ficus variegata Bl.
+542;Ficus virgata Reinw. ex Blume
+543;Fissistigma latifolium (Dunal) Merr.
+544;Fissistigma oldhamii (Hemsl.) Merr.
+545;Flacourtia indica (Burm.f.) Merr.
+546;Flacourtia inermis Roxb.
+547;Flacourtia rukam Zoll. & Moritzi
+548;Flagellaria indica L.
+549;Flemingia macrophylla (Willd.) Merr.
+550;Flemingia parviflora Benth.
+551;Flemingia strobilifera (L.) W.T.Aiton
+552;Fleurya interrupta (L.) Gaudich.
+553;Floscopa scandens Lour.
+554;Flueggea virosa (Roxb. ex Willd.) Royle
+555;Foeniculum vulgare Mill.
+556;Fordia cauliflora Hemsl.
+557;Fordia splendidissima (Miq.) Buijsen
+558;Fragaria x ananassa (Duchesne ex Weston) Duchense ex Rozier
+559;Fragraea fragans Roxb.
+560;Furtadoa sumatrensis M.Hotta
+561;Galearia fulva (Tul.) Miq.
+562;Galearia filiformis (Blume) Boerl.
+563;Galinsoga parviflora Cav.
+564;Ganoderma lucidum (Curtis) P. Karst.
+565;Garcinia celebica L.
+566;Garcinia dioica Blume
+567;Garcinia dulcis (Roxb.) Kurz
+568;Garcinia forbesii King
+569;Garcinia hanburyi Hook.f.
+570;Garcinia mangostana L.
+571;Garcinia parvifolia (Miq.) Miq.
+572;Garcinia xanthochymus Hook.f. ex T.Anderson
+573;Gardenia jasminoides J.Ellis
+574;Garuga floribunda Decne.
+575;Gastroclonium ovatum (Hudson) Papenfuss
+576;Gendarussa vulgaris Nees
+577;Geophila repens (L.) I.M.Johnst.
+578;Gigantochloa apus (Schult. & Schult. f.) Kurz
+579;Gigantochloa atroviolacea Widjaja
+580;Gigantochloa atter (Hassk.) Kurz.
+581;Gigantochloa hasskarliana (Kurz) Backer
+582;Gigantochloa verticillata (Willd.) Munro
+583;Gironniera subaequalis Planch.
+584;Gliricidia sepium (Jacq.) Kunth ex Walp.
+585;Globba fecunda A.Takano & H.Okada
+586;Globba leucantha Miq.
+587;Globba pendula Roxb.
+588;Glochidion lutescens Blume
+589;Glochidion molle Blume
+590;Glochidion obscurum (Roxb. ex Willd.) Blume
+591;Glochidion ramiflorum J.R.Forst. & G.Forst.
+592;Glochidion rubrum BIume
+593;Glochidion sericeum (Blume) Zoll. & Moritzi
+594;Gloriosa superba L.
+595;Gluta wallichii (Hook.f.) Ding Hou
+596;Glycosmis pentaphylla (Retz.) DC.
+597;Gmelina arborea Roxb. Ex Smith.
+598;Gnetum cuspidatum Blume
+599;Gnetum latifolium Blume
+600;Gomphrena globosa L.
+601;Goniothalamus macrophyllus (Blume) Hook.f. & Thomson
+602;Goniothalamus velutinus Airy Shaw
+603;Gonostegia hirta (Blume ex Hassk.) Miq.
+604;Gossypium arboreum L.
+605;Gossypium hirsutum L.
+606;Grammatophyllum speciosum Blume
+607;Graptophyllum pictum (L.) Griff.
+608;Greenea corymbosa (Jack) Voigt
+609;Grewia laevigata Vahl
+610;Grewia multiflora Juss.
+611;Guazuma ulmifolia Lam.
+612;Guettarda speciosa L.
+613;Gynotroches axillaris Blume
+614;Gynura divaricata (L.) DC.
+615;Gynura japonica (Thunb.) Juel
+616;Gynura procumbens (Lour.) Merr.
+617;Gynura pseudochina (L.) DC.
+618;Hedychium coronarium J.König
+619;Hedychium spicatum Sm.
+620;Hedyotis costata R. Br. ex G. Don
+621;Hedyotis pruinosa Wight & Arn.
+622;Heliconia collinsiana Griggs
+623;Helicteres isora L.
+624;Heliotropium indicum L.
+625;Helminthostachys zeylanica (L.) Hook.
+626;Hemigraphis alternata (Burm.f.) T.Anderson
+627;Hemigraphis angustifolia Hallier f.
+628;Hemigraphis repanda Hallier f.
+629;Hemigraphis reptans (G. Forst.) T. Anderson ex Hemsl.
+630;Henslowia frutescens Champ. ex Benth.
+631;Heritiera littoralis Aiton
+632;Hibiscus × archeri W.Watson
+633;Hibiscus calyphyllus Cav.
+634;Hibiscus macrophyllus Roxb. ex Hornem.
+635;Hibiscus mutabilis L.
+636;Hibiscus radiatus Cav.
+637;Hibiscus rosa-sinensis L.
+638;Hibiscus sabdariffa L.
+639;Hibiscus schizopetalus (Dyer) Hook. f.
+640;Hibiscus surattensis L.
+641;Hibiscus tiliaceus L.
+642;Hippeastrum puniceum (Lam.) Voss
+643;Hippeastrum vittatum (L'Hér.) Herb.
+644;Hippobroma longiflora (L.) G.Don
+645;Hippochaete debilis (Roxb. ex Vaucher) Ching
+646;Homalanthus populifolius Graham
+647;Homalanthus populneus (Geiseler) Pax
+648;Homalocladium platycladum (F.Muell.) L.H.Bailey
+649;Homalomena borneensis Ridl.
+650;Homalomena cordata Schott
+651;Homalomena griffithii (Schott) Hook.f.
+652;Homalomena insignis N.E.Br.
+653;Homalomena javanica Alderw.
+654;Homalomena rubescens (Roxb.) Kunth
+655;Homalomena pendula (Blume) Bakh.f.
+656;Hornstedtia havilandii (K.Schum.) K.Schum.
+657;Hornstedtia scottiana (F.Muell.) K.Schum.
+658;Horsfieldia borneensis W.J.de Wilde
+659;Horsfieldia irya (Gaertn.) Warb.
+660;Horsfieldia sylvestris Warb.
+661;Hoya bilobata Schltr.
+662;Hoya diversifolia Blume
+663;Hoya finlaysonii Wight
+664;Hydnophytum formicarum Jack
+665;Hydrocotyle javanica Thunb.
+666;Hydrocotyle ranunculoides L.f.
+667;Hydrocotyle sibthorpioides Lam.
+668;Hydrocotyle verticillata Thunb.
+669;Hydrostemma kunstleri (Ridl.) B. C. Stone
+670;Hymenocallis littoralis (Jacq.) Salisb.
+671;Hyptis brevipes Poit.
+672;Hyptis capitata Jacq.
+673;Hyptis suaveolens (L.) Poit.
+674;Impatiens balsamina L.
+675;Impatiens platypetala Lindl.
+676;Impatiens steenisii Grey-Wilson
+677;Imperata cylindrica (L.) Raeusch.
+678;Indigofera arrecta A.Rich.
+679;Indigofera suffruticosa Mill.
+680;Indigofera tinctoria L.
+681;Indigofera trita L. f.
+682;Inocarpus fagifer (Parkinson) Fosberg
+683;Intsia bijuga (Colebr.) Kuntze
+684;Ipomoea alba L.
+685;Ipomoea aquatica Forssk.
+686;Ipomoea batatas (L.) Lam.
+687;Ipomoea pes-caprae (L.) R. Br.
+688;Ipomoea quamoclit L.
+689;Ipomoea triloba L.
+690;Iresine herbstii Hook.
+691;Ixonanthes reticulata Jack
+692;Ixora casei Hance
+693;Ixora chinensis Lam.
+694;Ixora coccinea L.
+695;Ixora javanica (Blume) DC.
+696;Ixora paludosa (Blume) Kurz
+697;Jacquemontia paniculata (Burm. f.) Hallier f.
+698;Jasminum sambac (L.) Aiton
+699;Jatropha curcas L.
+700;Jatropha gossypiifolia L.
+701;Jatropha multifida L.
+702;Jatropha podagrica Hook.
+703;Justicia betonica L.
+704;Justicia gendarussa Burm. f.
+705;Justicia sumatrana Kurz
+706;Kaempferia angustifolia Roscoe
+707;Kaempferia galanga L.
+708;Kaempferia rotunda L.
+709;Kalanchoe hybrida Desf. Ex Steud.
+710;Kalanchoe laciniata (L.) DC.
+711;Kleinhovia hospita L.
+712;Koilodepas bantamense Hassk.
+713;Koompassia malaccensis Benth.
+714;Koordersiodendron pinnatum Merr.
+715;Kopsia arborea Bl.
+716;Kyllinga brevifolia Rottb.
+717;Kyllinga monocephala Rottb.
+718;Labisia pumila (Blume) Mez
+719;Lactuca indica L.
+720;Lactuca serriola L.
+721;Lagenaria siceraria (Molina) Standl.
+722;Lagerstroemia speciosa (L.) Pers.
+723;Lagerstroemia tomentosa C. Presl
+724;Lannea coromandelica (Houtt.) Merr.
+725;Lansium parasiticum (Osbeck) K.C.Sahni & Bennet
+726;Lantana camara L.
+727;Laportea interrupta (L.) Chew
+728;Lasianthus borneensis Merr.
+729;Lawsonia inermis L.
+730;Leea aculeata Blume ex Spreng.
+731;Leea aequata L.
+732;Leea asiatica (L.) Ridsdale
+733;Leea indica (Burm.f.) Merr.
+734;Leea sambucina Willd.
+735;Leersia hexandra Sw.
+736;Legazpia polygonoides (Benth.) T. Yamaz.
+737;Legnephora moorei (F. Muell.) Miers
+738;Lepisanthes alata (Blume) Leenh.
+739;Lepisanthes amoena (Hassk) Leenh.
+740;Lepisanthes fruticosa (Roxb.) Leenh.
+741;Lepisanthes rubiginosa (Roxb.) Leenh.
+742;Leucaena leucocephala (Lam.) de Wit
+743;Leucas aspera (Willd.) Link
+744;Leucas chinensis (Retz.) R.Br. Ex Sm.
+745;Leucas lavandulifolia Sm.
+746;Leucosyke capitellata (Poir.) Wedd.
+747;Ligustrum sinense Lour.
+748;Limnocharis flava (L.) Buchenau
+749;Limnophila aromatica (Lam.) Merr.
+750;Lindernia anagallis (Burm. f.) Pennell
+751;Lindernia crustacea (L.) F.Muell.
+752;Lithocarpus conocarpus (Oudem.) Rehder
+753;Litsea cubeba (Lour.) Pers.
+754;Litsea dilleniifolia P.Y. Pai & P.H. Huang
+755;Litsea glutinosa (Lour.) C.B.Rob.
+756;Livistona chinensis (Jacq.) R.Br. ex Mart.
+757;Lophatherum gracile Brongn.
+758;Loranthus parasiticus (L.) Merr.
+759;Ludwigia adscendens (L.) H.Hara
+760;Ludwigia erecta (L.) H.Hara
+761;Ludwigia hyssopifolia (G.Don) Exell
+762;Ludwigia longifolia (DC) H. Hara
+763;Ludwigia octovalvis (Jacq.) P.H. Raven
+764;Ludwigia peruviana (L.) H.Hara
+765;Ludwigia prostrata Roxb.
+766;Luffa acutangula (L.) Roxb.
+767;Lunasia amara Blanco
+768;Luvunga scandens (Roxb.) Buch.-Ham. ex Wight & Arn.
+769;Lycopodiella cernua (L.) Pic. Serm.
+770;Lygodium circinatum (Burm. f.) Sw.
+771;Lygodium flexuosum (L.) Sw.
+772;Lygodium longifolium (Willd.) Sw.
+773;Lygodium microphyllum (Cav.) R. Br.
+774;Macaranga aleuritoides F.Muell.
+775;Macaranga denticulata (Blume) Müll.Arg.
+776;Macaranga gigantea (Reichb.f. & Zoll.) Műll.Arg.
+777;Macaranga hullettii King ex Hook.f.
+778;Macaranga hypoleuca (Rchb.f. & Zoll.) Müll.Arg.
+779;Macaranga indica Wight
+780;Macaranga peltata (Roxb.) Müll.Arg.
+781;Macaranga subpeltata K.Schum. & Lauterb.
+782;Macaranga tanarius (L.) Müll.Arg.
+783;Macaranga trichocarpa (Zoll.) Müll.Arg.
+784;Macaranga triloba (Thunb.) Müll.Arg.
+785;Macrolenes muscosa Bakh.f.
+786;Macrosolen cochinchinensis (Lour.) Tiegh.
+787;Macrosolen retusus Blume
+788;Maesa ramentacea (Roxb.) A. DC.
+789;Maesopsis eminii Engl.
+790;Magnolia champaca (L.) Baill. ex Pierre
+791;Magnolia liliifera (L.) Baill.
+792;Magnolia singapurensis (Ridl.) H.Keng
+793;Malaxis oculata (Rchb.) Kuntze.
+794;Mallotus barbatus Müll.Arg.
+795;Mallotus floribundus (Blume) Müll.Arg.
+796;Mallotus japonicus (L.f.) Müll.Arg.
+797;Mallotus lackeyi Elmer
+798;Mallotus macrostachyus (Miq.) Müll.Arg.
+799;Mallotus mollissimus (Geiseler) Airy Shaw
+800;Mallotus paniculatus (Lmk) M.A.
+801;Mallotus philippensis (Lmk) M.A.
+802;Mallotus repandus (Willd.) Müll.Arg.
+803;Malvaviscus arboreus Cav.
+804;Mangifera caesia Jack
+805;Mangifera foetida Lour.
+806;Mangifera indica L.
+807;Mangifera laurina Blume
+808;Mangifera odorata Griff.
+809;Manihot carthaginensis subsp. glaziovii (Müll.Arg.) Allem
+810;Manihot esculenta Crantz
+811;Manilkara zapota (L.) P.Royen
+812;Mapania cuspidata (Miq.) Uittien
+813;Maranta arundinacea L.
+814;Maranthes corymbosa Blume
+815;Marsdenia floribunda (Brongn.) Schltr.
+816;Marsilea crenulata Desv.
+817;Medinilla scortechinii King
+818;Melaleuca leucadendra (L.) L.
+819;Melanolepis multiglandulosa (Reinw. ex Blume) Rchb. & Zoll.
+820;Melanthera biflora (L.) Wild
+821;Melastoma malabathricum L.
+822;Melia azedarach L.
+823;Melicope denhamii (Seem.) T.G.Hartley
+824;Melicope lunu-ankenda (Gaertn.) T.G. Hartley
+825;Memecylon edule Roxb.
+826;Memecylon paniculatum Jack
+827;Mentha × piperita L.
+828;Mentha canadensis L.
+829;Mentha spicata L.
+830;Merremia mammosa (Lour.) Hallier f.
+831;Merremia peltata (L.) Merr.
+832;Merremia tuberosa (L.) Rendle
+833;Merremia umbellata (L.) Hallier f.
+834;Merremia vitifolia (Burm. f.) Hallier f.
+835;Mesua ferrea L.
+836;Metroxylon sagu Rottb.
+837;Michelia alba DC.
+838;Microcos antidesmifolia (King) Burret
+839;Microcos paniculata L.
+840;Microcos tomentosa Sm.
+841;Micromelum minutum Wight & Arn.
+842;Mikania micrantha Kunth
+843;Millettia sericea Wight & Arn.
+844;Mimosa invisa Mart. ex Colla
+845;Mimosa pigra L.
+846;Mimosa pudica L.
+847;Mimusops elengi L.
+848;Mirabilis jalapa L.
+849;Mitracarpus hirtus (L.) DC.
+850;Mitragyna speciosa (Korth.) Havil.
+851;Molineria capitulata (Lour.) Herb.
+852;Molineria latifolia (Dryand. ex W.T.Aiton) Herb. ex Kurz
+853;Momordica charantia L.
+854;Monstera deliciosa Liebm.
+855;Morinda citrifolia L.
+856;Moringa oleifera Lam.
+857;Morus alba L.
+858;Morus macroura Miq.
+859;Mucuna pruriens (L.) DC.
+860;Mukia maderaspatana (L.) M.Roem
+861;Muntingia calabura L.
+862;Murdannia nudiflora (L.) Brenan
+863;Murraya koenigii (L.) Spreng.
+864;Murraya paniculata (L.) Jack
+865;Musa × paradisiaca L.
+866;Musa acuminata Colla
+867;Musa balbisiana Colla
+868;Musa sumatrana Becc.
+869;Mussaenda frondosa L.
+870;Mussaenda incana Wall.
+871;Mussaenda pubescens W.T. Aiton
+872;Myristica fragrans Houtt.
+873;Myrmecodia pendans Merr. & Perry
+874;Myrmecodia tuberosa Jack
+875;Mytragyna speciosa (Korth.) Havil.
+876;Nauclea calycina Bartl. ex DC.
+877;Nauclea officinalis (Pierre ex Pit.) Merr. & Chun
+878;Nauclea orientalis (L.) L.
+879;Nauclea subdita (Korth.) Steud.
+880;Neesia altissima (Blume) Blume
+881;Nelumbo nucifera Gaertn.
+882;Neolamarckia cadamba (Roxb.) Bosser
+883;Neolitsea javanica (Blume) Backer
+884;Neonauclea pallida (Reinw. ex Havil.) Bakh.f.
+885;Nepenthes gracilis Korth.
+886;Nepenthes mirabilis (Lour.) Druce
+887;Nephelaphyllum pulchrum Blume
+888;Nephelium lappaceum L.
+889;Nephelium ramboutan-ake (Labill.) Leenh.
+890;Nephrolepis acutifolia (Desv.) H. Christ
+891;Nephrolepis biserrata (Sw.) Schott
+892;Nephrolepis falcata (Cav.) C. Chr.
+893;Neptunia oleracea Lour.
+894;Nervilia aragoana Gaudich.
+895;Nervilia plicata (Andrews) Schltr.
+896;Nicandra physalodes (L.) Gaertn.
+897;Nicotiana tabacum L.
+898;Nigella sativa L.
+899;Nopalea cochenillifera (L.) Salm-Dyck
+900;Nothopanax scutellarium (Burm. f.) Merr.
+901;Nyctanthes arbor-tristis L.
+902;Nypa fruticans Wurmb
+903;Ocimum × africanum Lour.
+904;Ocimum americanum L.
+905;Ocimum basilicum L.
+906;Ocimum gratissimum L.
+907;Ocimum tenuiflorum L.
+908;Octomeles sumatrana Miq.
+909;Oldenlandia corymbosa L.
+910;Oldenlandia diffusa (Willd.) Roxb.
+911;Oldenlandia prostrata (Blume) Kuntze
+912;Oldenlandia verticillata L.
+913;Oncosperma tigillarium (Jack) Ridl.
+914;Ophiorrhiza mungos L.
+915;Opuntia elatior Mill.
+916;Opuntia ficus-indica (L.) Mill.
+917;Oreocnide rubescens (Blume) Miq.
+918;Ormocarpum sennoides (Willd.) DC.
+919;Oroxylum indicum (L.) Kurz
+920;Orthosiphon aristatus (Bl.) Miq.
+921;Oryza minuta J.Presl
+922;Oryza sativa L.
+923;Ouratea sumatrana (Jack) Gilg
+924;Oxalis barrelieri L.
+925;Oxalis corniculata L.
+926;Oxalis latifolia Kunth
+927;Pachyrhizus erosus (L.) Urb.
+928;Pachystachys coccinea (Aubl.) Nees
+929;Paederia foetida L.
+930;Palaquium hexandrum (Griff.) Baill.
+931;Pandanus amaryllifolius Roxb.
+932;Pandanus furcatus Roxb.
+933;Pandanus tectorius Parkinson ex Du Roi
+934;Pangium edule Reinw.
+935;Panicum auritum J.Presl ex Nees
+936;Panicum muticum Forssk.
+937;Parameria laevigata (Juss.) Moldenke
+938;Parkia speciosa Hassk.
+939;Parkia timoriana (DC.) Merr.
+940;Paspalum conjugatum P.J.Bergius
+941;Paspalum dilatatum Poir.
+942;Paspalum scrobiculatum L.
+943;Paspalum vaginatum Sw.
+944;Passiflora edulis Sims
+945;Passiflora foetida L.
+946;Pellionia repens (Lour.) Merr.
+947;Pemphis acidula J.R. Forst.
+948;Pennisetum purpureum Schumach.
+949;Pentas lanceolata (Forssk.) Deflers
+950;Peperomia pellucida (L.) Kunth
+951;Pereskia bleo (Kunth) DC.
+952;Pericampylus glaucus (Lam.) Merr.
+953;Peronema canescens Jack
+954;Persea americana Mill.
+955;Persicaria barbata (L.) H.Hara
+956;Persicaria lapathifolia (L.) Delarbre
+957;Persicaria maculosa Gray
+958;Petroselinum crispum (Mill.) Fuss
+959;Phaeanthus ophthalmicus (Roxb. ex G.Don) J.Sinclair
+960;Phaleria macrocarpa (Scheff.) Boerl.
+961;Phaseolus lunatus L.
+962;Philodendron crassinervium Lindl.
+963;Philodendron pinatifidum (Jacq.) Schott
+964;Philodendron pusillum E.G.Gonç. & Bogner
+965;Phlebodium aureum (L.) J. Sm.
+966;Phragmites karka (Retz.) Trin. ex Steud.
+967;Phrynium pubinerve Blume
+968;Phyllanthus acidus (L.) Skeels
+969;Phyllanthus buxifolius (Blume) Müll.Arg.
+970;Phyllanthus emblica L.
+971;Phyllanthus niruri L.
+972;Phyllanthus pulcher Wall. ex Müll.Arg.
+973;Phyllanthus reticulatus Poir.
+974;Phyllanthus urinaria L.
+975;Phymatosorus scolopendria (Burm. f.) Pic. Serm.
+976;Physalis angulata L.
+977;Physalis minima L.
+978;Physalis peruviana L.
+979;Phytolacca americana L.
+980;Picria fel-terrae Lour.
+981;Pilea microphylla (L.) Liebm.
+982;Pimpinella alpina Koord.
+983;Pinanga coronata (Blume ex Mart.) Blume
+984;Pinanga crassipes Becc.
+985;Pinanga patula Blume
+986;Piper aduncum L.
+987;Piper auritum Kunth
+988;Piper baccatum Blume
+989;Piper bantamense Blume
+990;Piper betle L.
+991;Piper caducibracteum C. DC.
+992;Piper crocatum Ruiz & Pav.
+993;Piper cubeba L.f.
+994;Piper longum L.
+995;Piper methysticum G.Forst.
+996;Piper miniatum (Miq.) Blume
+997;Piper nigrum L.
+998;Piper retrofractum Vahl.
+999;P iper sarmentosum Roxb.
+1000;P iper umbellatum L.
+1001;P iper crocatum Ruiz & Pav.
+1002;P ipturus argenteus (G. Forst.) Wedd.
+1003;P ipturus incanus Wedd.
+1004;P isonia grandis R. Br.
+1005;P isonia umbellifera (J.R. Forst. & G. Forst.) Seem.
+1006;P isum sativum L.
+1007;P lantago major L.
+1008;P latycerium bifurcatum (Cav.) C. Chr
+1009;P latycerium coronarium (Mull.) Desv.
+1010;P lectranthus amboinicus (Lour.) Spreng.
+1011;P lectranthus scutellarioides (L.) R.Br.
+1012;P leopeltis heterocarpa (Blume) Bedd.
+1013;P locoglottis lowii Rchb.f.
+1014;P luchea indica (L.) Less.
+1015;P lumbago zeylanica L.
+1016;P lumeria alba L.
+1017;P lumeria rubra L.
+1018;P ogonatherum crinitum (Thunb.) Kunth
+1019;P ogonatherum paniceum (Lam.) Hack.
+1020;P ogostemon auricularius (L.) Hassk.
+1021;P ogostemon cablin (Blanco) Benth.
+1022;P oikilospermum suaveolens (Blume) Merr.
+1023;P ollia condensata C.B.Clarke
+1024;P ollia thyrsiflora (Bl.) Steud.
+1025;P olyalthia rumphii (Bl.) Merr.
+1026;P olygala paniculata L.
+1027;P olygonum barbatum L.
+1028;P olygonum persicaria L.
+1029;P olyscias filicifolia (C.Moore ex E.Fourn.) L.H.Bailey
+1030;P olyscias fruticosa (L.) Harms
+1031;P olyscias scutellaria (Burm.f.) Fosberg
+1032;P omatocalpa diffusum Breda
+1033;P ometia pinnata J.R. Forst. & G. Forst.
+1034;P ongamia pinnata (L.) Pierre
+1035;P ortulaca oleracea L.
+1036;P othos scandens L.
+1037;P outeria campechiana (Kunth) Baehni
+1038;P ouzolzia sanguinea (Blume) Merr.
+1039;P ouzolzia zeylanica (L.) Benn.
+1040;P remna cordifolia Roxb.
+1041;P remna corymbosa Rottler & Willd.
+1042;P remna divaricata Wall. ex Schauer
+1043;P remna serratifolia L.
+1044;P remna tomentosa Willd.
+1045;P roiphys amboinensis (L.) Herb.
+1046;P runus persica (L.) Batsch
+1047;P seudelephantopus spicatus (B.Juss. ex Aubl.) Rohr ex C.F.Baker
+1048;P sidium guajava L.
+1049;P sophocarpus tetragonolobus (L.) D.C.
+1050;P sychotria angulata Korth.
+1051;P sychotria nervosa Sw.
+1052;P sychotria viridiflora Reinw. ex Blume
+1053;P teridophyta
+1054;P teris biaurita L.
+1055;P teris ensiformis Burm. f.
+1056;P teris longifolia L.
+1057;P ternandra azurea (Bl.) Burk.
+1058;P ternandra caerulescens Jack
+1059;P terocarpus indicus Willd.
+1060;P terospermum heterophyllum Hance
+1061;P terospermum subpeltatum C.B. Rob.
+1062;P unica granatum L.
+1063;P ycnarrhena novoguineensis Miq.
+1064;P yrrosia nummulariifolia (Sw.) Ching
+1065;P yrrosia piloselloides (L.) M.G. Price
+1066;Q uercus infectoria G. Olivier
+1067;R aphanus sativus L.
+1068;R auvolfia serpentina (L.) Benth. ex Kurz
+1069;R ennellia elliptica Korth.
+1070;R ennellia speciosa (Wall. ex Kurz) Hook.f.
+1071;R haphidophora megasperma Engl.
+1072;R heum officinale Baill.
+1073;R hinacanthus nasutus (L.) Kurz
+1074;R hizophora apiculata Blume
+1075;R hizophora mucronata Lam.
+1076;R hodamnia cinerea Jack
+1077;R hodoleia championii Hook. f.
+1078;R hodomyrtus tomentosa (Aiton) Hassk.
+1079;R icinus communis L.
+1080;R inorea anguifera Kuntze
+1081;R ivina humilis L.
+1082;R orippa indica (L.) Hiern
+1083;R osa × damascena Mill.
+1084;R osa hybrida Hort.
+1085;R otala mexicana Schltdl. & Cham.
+1086;R otheca serrata (L.) Steane & Mabb.
+1087;R othmannia macrophylla (Hook.f.) Bremek.
+1088;R ourea mimosoides Planch.
+1089;R ubus chrysophyllus Reinw. ex Miq.
+1090;R ubus fraxinifolius Poir.
+1091;R ubus mollucanus L.
+1092;R ubus rosifolius Sm.
+1093;R ubus sundaicus Blume
+1094;R uellia napifera Zoll. & Moritzi
+1095;R uellia simplex C.Wright
+1096;R uellia squarrosa (Fenzl) Cufod.
+1097;R uellia tuberosa L.
+1098;R umex crispus L.
+1099;R uta angustifolia Pers.
+1100;S accharum officinarum L.
+1101;S accharum spontaneum L.
+1102;S adleria pallida Hook. & Arn.
+1103;S agittaria trifolia L.
+1104;S alacca zalacca (Gaertn.) Voss
+1105;S alvia hispanica L.
+1106;S alvia officinalis L.
+1107;S ambucus javanica Blume
+1108;S andoricum koetjape (Burm.f.) Merr.
+1109;S ansevieria trifasciata Prain
+1110;S antalum album L.
+1111;S apindus rarak DC.
+1112;S aurauia bracteolata DC.
+1113;S aurauia bracteosa DC.
+1114;S aurauia javanica (Nees) Hoogland
+1115;S aurauia tristyla DC.
+1116;S auropus androgynus (L.) Merr.
+1117;S caevola taccada (Gaertn.) Roxb.
+1118;S caphium affine (Mast.) Pierre
+1119;S chefflera arboricola (Hayata) Merr.
+1120;S chefflera aromatica (Blume) Harms
+1121;S chefflera elliptica (Blume) Harms
+1122;S chefflera grandiflora (A.C.Sm.) Frodin
+1123;S chima wallichii Choisy
+1124;S chismatoglottis calyptrata (Roxb.) Zoll. & Moritzi
+1125;S chismatoglottis multiflora Ridl.
+1126;s chizostachyum blumei Nees
+1127;S chizostachyum brachycladum (Kurz) Kurz
+1128;S chizostachyum zollingeri Steud.
+1129;S chleichera oleosa (Lour.) Merr.
+1130;S cirpus ternatanus Reinw. ex Miq.
+1131;S claria laevis Willd.
+1132;S cleria purpurascens Steud.
+1133;S cleria sumatrensis Retz.
+1134;S coparia dulcis L.
+1135;S corodocarpus borneensis (Baill.) Becc.
+1136;S currula atropurpurea (Blume) Danser
+1137;S currula ferruginea (Jack) Danser
+1138;S currula parasitica L.
+1139;S echium edule (Jacq.) Sw.
+1140;S elaginella caudata (Desv.) Spring.
+1141;S elaginella doederleinii Hieron.
+1142;S elaginella plana (Desv. ex Poir.) Hieron.
+1143;S elaginella willdenowii (Desv. ex Poir.) Baker
+1144;S elliguea feei Bory
+1145;S enna alata (L.) Roxb.
+1146;S enna hirsuta (L.) H.S.Irwin & Barneby
+1147;S enna siamea (Lam.) H.S.Irwin & Barneby
+1148;S enna tora (L.) Roxb.
+1149;S ericocalyx crispus (L.) Bremek
+1150;S esamum indicum L.
+1151;S esbania grandiflora (L.) Pers.
+1152;S horea robusta Gaertn.
+1153;S ida acuta Burm.f.
+1154;S ida retusa L.
+1155;S ida rhombifolia L.
+1156;S indora sumatrana Miq.
+1157;S isyrinchium palmifolium L.
+1158;S mallanthus sonchifolius (Poepp.) H.Rob.
+1159;S milax borneensis A.DC.
+1160;S milax calophylla Wall. ex A.DC.
+1161;S milax glauca Walter
+1162;S milax herbacea L.
+1163;S milax leucophylla Blume
+1164;S milax rotundifolia L.
+1165;S milax tamnoides L.
+1166;S milax zeylanica L.
+1167;S olanum aculeatissimum Jacq.
+1168;S olanum betaceum Cav.
+1169;S olanum erianthum D. Don
+1170;S olanum ferox L.
+1171;S olanum lycopersicum Lam.
+1172;S olanum mammosum L.
+1173;S olanum melongena L.
+1174;S olanum muricatum Aiton
+1175;S olanum nigrum L.
+1176;S olanum quitoense Lam.
+1177;S olanum sanitwongsei W. G. Craib
+1178;S olanum torvum Sw.
+1179;S olanum tuberosum L.
+1180;S olanum verbascifolium L.
+1181;S onchus arvensis L.
+1182;S onchus asper (L.) Hill
+1183;S onchus oleraceus (L.) L.
+1184;S onneratia alba Sm.
+1185;S onneratia caseolaris (L.) Engl.
+1186;S pathiphyllum commutatum Schott
+1187;S pathiphyllum phryniifolium Schott
+1188;S pathoglottis plicata Blume
+1189;S patholobus ferrugineus (Zoll. & Moritzi) Benth.
+1190;S patholobus suberectus Dunn
+1191;S permacoce alata Aubl.
+1192;S permacoce exilis (L.O.Williams) C.D.Adams ex W.C.Burger & C.M.Taylor
+1193;S phaeranthus indicus L.
+1194;S phaeropteris glauca (Blume) R.M. Tryon
+1195;S pigelia anthelmia L.
+1196;S pilanthes acmella (L.) L.
+1197;S pilanthes iabadicensis A.H.Moore
+1198;S pondias dulcis Parkinson
+1199;S pondias mombin L.
+1200;S pondias pinnata (L.f.) Kurz
+1201;S porobolus indicus (L.) R.Br.
+1202;S tachytarpheta cayennensis (Rich.) Vahl
+1203;S tachytarpheta indica (L.) Vahl
+1204;S tachytarpheta jamaicensis (L.) Vahl
+1205;S tachytarpheta mutabilis (Jacq.) Vahl
+1206;S taurogyne elongata Kuntze
+1207;S telechocarpus burahol (Blume) Hook.f. & Thomson
+1208;S tellaria vestita Kurz
+1209;S tenochlaena palustris (Burm. f.) Bedd.
+1210;S tephania capitata (Blume) Spreng.
+1211;S tephania hernandiifolia (Willd.) Walp.
+1212;S tephania japonica (Thunb.) Miers
+1213;S terculia ceramica R. Br.
+1214;S terculia foetida L.
+1215;S terculia lanceolata Cav.
+1216;S treblus asper Lour.
+1217;S treblus elongatus (Miq.) Corner
+1218;S trobilanthes formosanus S. Moore
+1219;S trophanthus gratus (Wall. & Hook.) Baill.
+1220;S truchium sparganophorum (L.) Kuntze
+1221;S uregada multiflora (A.Juss.) Baill.
+1222;S wietenia macrophylla King
+1223;S wietenia mahagoni (L.) Jacq.
+1224;S ymphytum officinale L.
+1225;S ymplocos cochinchinensis (Lour.) S.Moore
+1226;S ymplocos fasciculata Zoll.
+1227;S ymplocos molinae L.O.Williams
+1228;S ymplocos odoratissima Choisy ex Zoll.
+1229;S ynedrella nodiflora (L.) Gaertn.
+1230;S yzygium antisepticum (Bl.) Merr. & Perry
+1231;S yzygium aqueum (Burm.f.) Alston
+1232;S yzygium aromaticum (L.) Merr. & L.M.Perry
+1233;S yzygium borneense (Miq.) Miq.
+1234;S yzygium cumini (L.) Skeels
+1235;S yzygium jambos (L.) Alston
+1236;S yzygium lineatum (DC.) Merr. & L.M.Perry
+1237;S yzygium malaccense (L.) Merr. & L.M. Perry
+1238;S yzygium polyanthum (Wight) Walp.
+1239;S yzygium polycephalum (Miq.) Merr. & L.M.Perry
+1240;S yzygium samarangense (Blume) Merr. & L.M.Perry
+1241;S yzygium setosum (King) I.M.Turner
+1242;T abernaemontana corymbosa Roxb. ex Wall.
+1243;T abernaemontana dichotoma Roxb. ex Wall.
+1244;T abernaemontana divaricata (L.) R.Br. ex Roem. & Schult.
+1245;T abernaemontana pandacaqui Lam.
+1246;T acca palmatifida Baker
+1247;T acca palmata Blume
+1248;T agetes erecta L.
+1249;T alinum fruticosum (L.) Juss.
+1250;T alinum paniculatum (Jacq.) Gaertn.
+1251;T alipariti simile (Blume) Fryxell
+1252;T amarindus indica L.
+1253;T araxacum campylodes G.E. Haglund
+1254;T araxacum officinale (L.) Weber ex F.H.Wigg.
+1255;T ectaria subpedata (Harr.) Ching
+1256;T ectaria zeylanica (Houtt.) Sledge
+1257;T ectona grandis L.f
+1258;T erminalia catappa L.
+1259;T etracera alnifolia Willd.
+1260;T etracera indica (Christm. & Panz.) Merr.
+1261;T etracera maingayi Hoogland
+1262;T etracera scandens (L.) Merr.
+1263;T etrastigma dichotomum Planch.
+1264;T etrastigma lanceolarium (Roxb.) Planch.
+1265;T haumatococcus daniellii (Benn.) Benth.
+1266;T helypteris palustris (A. Gray) Schott
+1267;T helypteris terminans (J. Sm.) Tagawa & K. Iwats.
+1268;T hemeda arguens (L.) Hack.
+1269;T hemeda gigantea (Cav.) Hack. ex Duthie
+1270;T heobroma cacao L.
+1271;T hespesia lampas (Cav.) Dalzell
+1272;T hespesia populnea (L.) Sol. ex Corrêa
+1273;T hottea tomentosa (Blume) Ding Hou
+1274;T hunbergia erecta (Benth.) T.Anderson
+1275;T hunbergia fragrans Roxb.
+1276;T imonius flavescens (Jacq.) Baker
+1277;T imonius hirsutus Merr.
+1278;T imonius wallichianus (Korth.) Valeton
+1279;T imonius timon (Spreng.) Merr.
+1280;T inospora cordifolia (Willd.) Miers.
+1281;T inospora crispa (L.) Hook. f. & Thomson
+1282;T inospora glabra (Burm. f.) Merr.
+1283;T inospora tuberculata Beumée ex K.Heyne
+1284;T ithonia diversifolia (Hemsl.) A.Gray
+1285;T oddalia asiatica (L.) Lam.
+1286;T oona ciliata M.Roem.
+1287;T oona sureni (Bl.) Merr.
+1288;T radescantia spathacea Sw.
+1289;T rema orientalis (L.) Blume
+1290;T rema tomentosa (Roxb.) H. Hara
+1291;T revesia burckii Boerl.
+1292;T revesia palmata (Roxb. ex Lindl.) Vis.
+1293;T revesia sundaica Miq.
+1294;T ribulus terrestris L.
+1295;T richosanthes tricuspidata Lour
+1296;T ridax procumbens (L.) L.
+1297;T rigonella foenum-graecum L.
+1298;T rigonostemon heteranthus Wight
+1299;T ristania obovata R.Br.
+1300;T ristaniopis merguensis Griff.
+1301;T ristaniopsis whiteana (Griff.) Peter G.Wilson & J.T.Waterh.
+1302;T riumfetta rhomboidea Jacq.
+1303;T urnera ulmifolia L.
+1304;T ylophora flexuosa R. Br.
+1305;T yphonium flagelliforme (Lodd.) Blume
+1306;U ncaria cordata (Lour.) Merr.
+1307;U ncaria gambir (Hunter) Roxb.
+1308;U ncaria lanosa var. ferrea (Blume) Ridsdale
+1309;U ncaria longiflora (Poir.) Merr.
+1310;U ncaria sclerophylla (Hunter) Roxb.
+1311;U raria crinita (L.) Desv. ex DC.
+1312;U raria lagopodioides (L.) DC.
+1313;U rena lobata L.
+1314;U rticastrum decumanum (Roxb.) Kuntze
+1315;U snea barbata (L.) Weber ex F.H. Wigg.
+1316;U snea misaminensis (Vain.) Motyka
+1317;V accinium varingiaefolium Miq.
+1318;V aleriana javanica Bl.
+1319;V anilla planifolia Jacks. ex Andrews
+1320;V ernonia amygdalina Delile
+1321;V eronica arborea Buchanan
+1322;V igna marina (Burm.) Merr.
+1323;V igna radiata (L.) R. Wilczek
+1324;V igna unguiculata (L.) Walp.
+1325;V illebrunea semicrenata Blume
+1326;V iola hastata Michx.
+1327;V itex cofassus Reinw. ex Bl.
+1328;V itex negundo L.
+1329;V itex pinnata L.
+1330;V itex trifolia L.
+1331;V itis cissoides (Blume) Backer
+1332;V oacanga foetida (Blume) Rolfe
+1333;W edelia urticaefolia (Blume) DC. ex Wight
+1334;W einmannia blumei Planch.
+1335;W illughbeia coriacea Wall.
+1336;W ollastonia biflora (L.) DC.
+1337;W oodfordia fruticosa (L.) Kurz
+1338;X anthophyllum vitellinum (Blume) D.Dietr.
+1339;X anthosoma sagittifolium (L.) Schott
+1340;X ylocarpus granatum J. Koenig
+1341;X ylocarpus moluccensis (Lam.) M.Roem.
+1342;Y oungia japonica (L.) DC.
+1343;Z ea mays L.
+1344;Z ephyranthes candida (Lindl.) Herb.
+1345;Z ephyranthes rosea Lindl.
+1346;Z ingiber montanum (J.Koenig) Link ex A.Dietr.
+1347;Z ingiber officinale Roscoe
+1348;Z ingiber zerumbet (L.) Roscoe ex Sm.
+1349;Z iziphus jujuba Mill.
